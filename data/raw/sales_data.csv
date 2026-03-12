@@ -1,0 +1,2001 @@
+product_id,product_name,category,unit_price,customer_id,customer_name,order_id,quantity,stock_qty,order_date,store_id,store_name
+SKU-58,Bike,Sports,71.29,CST-753,"Hull, Sutton and Park",OR-7276,462,804,2026-01-17,ST-04,Houston
+SKU-45,Desk,Home,49.89,CST-679,"Brown, Butler and Beasley",OR-8065,178,329,2026-02-09,ST-04,Houston
+SKU-56,Desk,Home,68.0,CST-647,Miller LLC,OR-4863,232,405,2026-02-28,ST-03,Chicago
+SKU-38,Tablet,Electronics,110.38,CST-783,"Richmond, Benjamin and Ballard",OR-9229,304,394,2026-03-06,ST-04,Houston
+SKU-80,Tea,Food,102.99,CST-704,"Simmons, Reese and Moran",OR-5951,74,142,2026-02-07,ST-03,Chicago
+SKU-72,Tea,Food,23.12,CST-028,Weber-Boyd,OR-7407,3,125,2026-01-20,ST-02,Los Angeles
+SKU-70,Tea,Food,67.87,CST-404,"Patton, Johnson and Carson",OR-7550,19,45,2026-02-04,ST-06,Dallas
+SKU-78,Dumbbells,Sports,107.51,CST-592,Whitney Group,OR-2244,39,112,2026-03-07,ST-02,Los Angeles
+SKU-22,Jeans,Clothing,70.92,CST-066,Moore-Medina,OR-4886,11,53,2026-02-16,ST-02,Los Angeles
+SKU-46,T-Shirt,Clothing,118.02,CST-550,"Flores, Brown and Thomas",OR-9939,41,717,2026-03-05,ST-06,Dallas
+SKU-46,Tablet,Electronics,28.05,CST-209,King-Jones,OR-4762,270,357,2026-01-31,ST-06,Dallas
+SKU-56,Chair,Home,101.87,CST-245,Hampton-Hunter,OR-9144,97,207,2026-02-19,ST-02,Los Angeles
+SKU-71,Bike,Sports,30.21,CST-691,Estrada and Sons,OR-6913,381,452,2026-01-08,ST-06,Dallas
+SKU-11,Laptop,Electronics,117.34,CST-721,"Jensen, Golden and Wood",OR-9091,303,612,2026-02-21,ST-04,Houston
+SKU-83,Dumbbells,Sports,65.11,CST-199,"Ramirez, Robinson and Mejia",OR-3180,36,391,2026-02-27,ST-07,Washington
+SKU-30,Pillow,Home,43.57,CST-347,"Turner, Wilson and Lee",OR-5771,97,122,2026-01-08,ST-02,Los Angeles
+SKU-66,Laptop,Electronics,113.76,CST-477,"Harris, Li and Houston",OR-2486,459,748,2026-01-29,ST-07,Washington
+SKU-90,Water,Food,25.09,CST-722,"Villanueva, Johnston and Bolton",OR-9961,3,21,2026-03-02,ST-07,Washington
+SKU-37,Dumbbells,Sports,75.8,CST-171,Walter and Sons,OR-3121,675,910,2026-01-16,ST-02,Los Angeles
+SKU-23,Tablet,Electronics,99.93,CST-994,"Gonzalez, Hoffman and Evans",OR-1828,118,269,2026-02-13,ST-07,Washington
+SKU-42,Lamp,Home,101.49,CST-602,Hicks-Rocha,OR-0365,285,313,2026-01-30,ST-06,Dallas
+SKU-93,Tea,Food,77.79,CST-320,"Roman, Thompson and Wright",OR-9191,485,542,2026-02-23,ST-03,Chicago
+SKU-78,Lamp,Home,77.7,CST-627,Snow and Sons,OR-7465,139,410,2026-02-25,ST-06,Dallas
+SKU-35,Desk,Home,64.51,CST-361,"Booth, Combs and Martinez",OR-1347,483,850,2026-02-02,ST-01,New York
+SKU-94,Pillow,Home,95.31,CST-290,Paul and Sons,OR-6707,370,406,2026-03-08,ST-03,Chicago
+SKU-46,Gloves,Sports,117.42,CST-534,Joseph-Robertson,OR-0458,445,502,2026-02-03,ST-01,New York
+SKU-69,Pillow,Home,51.86,CST-229,"Miller, Salinas and Lawrence",OR-8301,594,594,2026-02-24,ST-05,Miami
+SKU-76,Desk,Home,84.65,CST-821,"Lane, Huynh and Phillips",OR-3725,265,527,2026-01-20,ST-04,Houston
+SKU-67,Tea,Food,112.98,CST-064,"King, Boone and Hernandez",OR-3625,249,291,2026-01-10,ST-07,Washington
+SKU-00,T-Shirt,Clothing,119.01,CST-451,"Hernandez, Davis and Scott",OR-7324,184,841,2026-01-04,ST-01,New York
+SKU-09,Phone,Electronics,20.99,CST-770,Scott-Keller,OR-1399,245,497,2026-02-26,ST-03,Chicago
+SKU-02,Yoga Mat,Sports,75.97,CST-351,Holland Group,OR-8111,78,281,2026-01-08,ST-01,New York
+SKU-17,Shoes,Clothing,31.76,CST-579,Brooks PLC,OR-4682,160,821,2026-02-24,ST-05,Miami
+SKU-94,Lamp,Home,25.87,CST-167,"Flores, Mitchell and Buchanan",OR-4478,16,67,2026-03-02,ST-06,Dallas
+SKU-04,Shoes,Clothing,18.29,CST-292,"Barnes, Torres and Johnson",OR-4812,283,800,2026-03-10,ST-05,Miami
+SKU-60,Water,Food,36.84,CST-398,Shah Group,OR-3606,6,70,2026-01-09,ST-07,Washington
+SKU-40,Chair,Home,47.33,CST-359,Wright LLC,OR-1936,107,166,2026-01-22,ST-01,New York
+SKU-86,Lamp,Home,57.49,CST-506,Burgess-Brock,OR-1890,215,304,2026-02-21,ST-04,Houston
+SKU-81,Dumbbells,Sports,88.42,CST-927,Jackson LLC,OR-1280,10,119,2026-03-10,ST-02,Los Angeles
+SKU-99,Pillow,Home,112.19,CST-606,Aguirre PLC,OR-8883,9,100,2026-01-20,ST-04,Houston
+SKU-40,Gloves,Sports,69.7,CST-185,West-Hoover,OR-5177,484,801,2026-02-26,ST-02,Los Angeles
+SKU-76,Chair,Home,87.69,CST-502,Wheeler-Mcdaniel,OR-6268,40,948,2026-02-11,ST-05,Miami
+SKU-05,Gloves,Sports,98.23,CST-323,"Fuller, Holloway and Williams",OR-0656,317,587,2026-01-01,ST-01,New York
+SKU-74,Snacks,Food,74.27,CST-107,Harrell-Potter,OR-1835,410,792,2026-01-05,ST-05,Miami
+SKU-25,Desk,Home,122.29,CST-610,"Keith, Allen and Pham",OR-2980,54,432,2026-02-10,ST-03,Chicago
+SKU-59,Tea,Food,65.59,CST-277,Guzman-Shannon,OR-4604,204,333,2026-02-20,ST-05,Miami
+SKU-64,Chair,Home,104.29,CST-398,Thompson Ltd,OR-3013,27,237,2026-01-07,ST-01,New York
+SKU-87,Phone,Electronics,31.84,CST-774,Hughes LLC,OR-6174,197,369,2026-02-24,ST-06,Dallas
+SKU-47,Pillow,Home,89.4,CST-775,"Booth, Wilson and Lowe",OR-8712,242,604,2026-01-09,ST-05,Miami
+SKU-74,Pillow,Home,96.24,CST-209,Mckee-Herman,OR-9774,152,182,2026-01-25,ST-01,New York
+SKU-71,Tablet,Electronics,80.37,CST-906,Harris Ltd,OR-6180,405,781,2026-03-10,ST-07,Washington
+SKU-59,Yoga Mat,Sports,60.37,CST-703,"Foster, Norman and Carter",OR-6121,365,927,2026-01-21,ST-04,Houston
+SKU-75,Jeans,Clothing,104.29,CST-617,Smith Ltd,OR-2828,4,59,2026-01-12,ST-05,Miami
+SKU-81,Gloves,Sports,119.02,CST-670,"Anderson, Farmer and Alvarez",OR-4702,155,562,2026-01-03,ST-06,Dallas
+SKU-68,Desk,Home,43.13,CST-901,Hughes-Edwards,OR-2032,181,504,2026-01-06,ST-04,Houston
+SKU-19,Gloves,Sports,71.48,CST-031,Berger-Taylor,OR-9684,15,19,2026-02-24,ST-04,Houston
+SKU-12,Snacks,Food,55.68,CST-002,Gardner LLC,OR-1429,497,882,2026-02-07,ST-07,Washington
+SKU-14,Jacket,Clothing,72.15,CST-746,"Graham, Howe and Benton",OR-4989,258,870,2026-03-06,ST-06,Dallas
+SKU-22,Pillow,Home,94.02,CST-851,"Davis, Jimenez and Rodriguez",OR-5664,593,978,2026-01-18,ST-02,Los Angeles
+SKU-25,Lamp,Home,65.57,CST-412,Duncan-Hoffman,OR-5541,4,7,2026-01-03,ST-02,Los Angeles
+SKU-91,Tablet,Electronics,72.27,CST-690,Thomas-Schmidt,OR-6243,134,744,2026-02-13,ST-02,Los Angeles
+SKU-91,Jacket,Clothing,67.21,CST-926,Jones-Gonzalez,OR-7918,325,434,2026-02-07,ST-02,Los Angeles
+SKU-59,Jacket,Clothing,71.45,CST-571,"Duran, Butler and Buchanan",OR-8414,158,207,2026-01-28,ST-01,New York
+SKU-81,Water,Food,58.11,CST-465,Bradley LLC,OR-8022,143,826,2026-01-17,ST-03,Chicago
+SKU-10,Chair,Home,60.3,CST-031,Jennings-Shaw,OR-3081,230,961,2026-01-13,ST-06,Dallas
+SKU-26,Bike,Sports,114.17,CST-833,Jones Ltd,OR-2419,330,568,2026-02-15,ST-05,Miami
+SKU-60,Gloves,Sports,61.3,CST-762,Hendricks-Barron,OR-4646,6,113,2026-01-18,ST-03,Chicago
+SKU-04,Laptop,Electronics,55.17,CST-044,Daniels-Bolton,OR-8316,10,57,2026-01-28,ST-02,Los Angeles
+SKU-09,Bike,Sports,103.67,CST-880,"Wallace, Keller and Peters",OR-1849,210,221,2026-02-26,ST-03,Chicago
+SKU-61,Water,Food,23.41,CST-829,Irwin PLC,OR-2515,130,985,2026-03-03,ST-06,Dallas
+SKU-48,Chair,Home,88.74,CST-846,Archer-Kaiser,OR-1859,220,412,2026-01-01,ST-06,Dallas
+SKU-26,Dumbbells,Sports,76.55,CST-849,Martinez Group,OR-8546,212,776,2026-02-05,ST-02,Los Angeles
+SKU-34,Yoga Mat,Sports,56.08,CST-609,Bailey and Sons,OR-8998,455,830,2026-03-01,ST-01,New York
+SKU-61,Water,Food,36.31,CST-966,Avila-Hull,OR-7862,213,236,2026-01-26,ST-03,Chicago
+SKU-73,Jeans,Clothing,96.09,CST-721,"Cobb, Gates and Martin",OR-0836,106,173,2026-01-24,ST-07,Washington
+SKU-97,Laptop,Electronics,118.38,CST-480,Hernandez-Parker,OR-1748,403,850,2026-02-21,ST-05,Miami
+SKU-91,Bike,Sports,34.38,CST-761,Diaz PLC,OR-3383,61,939,2026-01-24,ST-06,Dallas
+SKU-35,Dumbbells,Sports,101.04,CST-120,"Collins, Russell and Stevens",OR-9677,280,534,2026-02-17,ST-04,Houston
+SKU-74,Monitor,Electronics,113.44,CST-085,Heath-Garza,OR-3846,56,147,2026-01-26,ST-01,New York
+SKU-87,Bike,Sports,115.69,CST-642,"Flynn, Rogers and Scott",OR-4789,168,326,2026-03-05,ST-04,Houston
+SKU-84,Yoga Mat,Sports,103.59,CST-022,Smith-Taylor,OR-1239,38,52,2026-01-04,ST-04,Houston
+SKU-46,Desk,Home,17.86,CST-129,Peters-Odom,OR-8398,92,466,2026-01-27,ST-06,Dallas
+SKU-62,Gloves,Sports,107.47,CST-938,"Williams, Miranda and Lucas",OR-7892,5,959,2026-03-02,ST-06,Dallas
+SKU-20,Water,Food,95.3,CST-112,Mullins-Zuniga,OR-8715,676,746,2026-01-07,ST-07,Washington
+SKU-87,Bike,Sports,123.19,CST-569,Nelson and Sons,OR-4541,264,502,2026-02-05,ST-01,New York
+SKU-42,Chair,Home,50.56,CST-716,Patel PLC,OR-6258,14,158,2026-02-25,ST-01,New York
+SKU-86,Bike,Sports,57.85,CST-177,Wilson and Sons,OR-4128,343,466,2026-02-25,ST-03,Chicago
+SKU-32,Water,Food,65.9,CST-860,"Odonnell, Montgomery and Ward",OR-3490,30,103,2026-01-25,ST-04,Houston
+SKU-51,Coffee,Food,82.25,CST-604,"Friedman, Miller and Saunders",OR-7089,542,713,2026-03-07,ST-07,Washington
+SKU-93,Jacket,Clothing,90.94,CST-946,Sutton and Sons,OR-5302,253,752,2026-01-20,ST-07,Washington
+SKU-68,Jacket,Clothing,81.57,CST-743,Chaney-Pineda,OR-4338,49,70,2026-01-09,ST-02,Los Angeles
+SKU-84,Shoes,Clothing,57.83,CST-108,Curtis Group,OR-0252,28,289,2026-01-30,ST-05,Miami
+SKU-63,T-Shirt,Clothing,78.43,CST-516,"Pratt, Rodriguez and Conner",OR-6498,588,845,2026-02-23,ST-05,Miami
+SKU-61,Gloves,Sports,91.04,CST-345,"Saunders, Bernard and Flowers",OR-1000,500,815,2026-03-01,ST-04,Houston
+SKU-17,T-Shirt,Clothing,17.57,CST-954,Johnson PLC,OR-4155,146,292,2026-01-29,ST-07,Washington
+SKU-91,Tablet,Electronics,74.64,CST-853,Sanders and Sons,OR-4536,418,856,2026-01-19,ST-04,Houston
+SKU-31,Jeans,Clothing,20.72,CST-158,"Baker, Davis and Campbell",OR-7349,354,403,2026-01-28,ST-02,Los Angeles
+SKU-02,Laptop,Electronics,20.78,CST-213,"Todd, Snow and Anderson",OR-0963,653,858,2026-02-10,ST-04,Houston
+SKU-19,Tablet,Electronics,110.59,CST-644,"Stephens, Flores and Liu",OR-7730,145,227,2026-02-16,ST-02,Los Angeles
+SKU-95,Coffee,Food,98.58,CST-165,"Nelson, Rodriguez and Peters",OR-3578,172,176,2026-01-19,ST-05,Miami
+SKU-71,Pillow,Home,123.85,CST-711,Beck Group,OR-8888,165,473,2026-01-06,ST-05,Miami
+SKU-92,Pillow,Home,37.38,CST-792,"Phillips, Williams and Petty",OR-9771,242,953,2026-01-13,ST-01,New York
+SKU-46,Bike,Sports,87.65,CST-241,"Lee, Ramos and Horton",OR-7806,656,667,2026-01-23,ST-03,Chicago
+SKU-29,Chair,Home,32.64,CST-577,Johnson-Alvarado,OR-7462,150,184,2026-02-12,ST-04,Houston
+SKU-92,Tea,Food,116.41,CST-469,Bryant-Mitchell,OR-7699,658,808,2026-03-10,ST-01,New York
+SKU-43,Snacks,Food,17.95,CST-808,Miller-Hall,OR-9856,59,83,2026-02-06,ST-07,Washington
+SKU-53,Tablet,Electronics,119.28,CST-244,Thompson-Smith,OR-7997,134,172,2026-01-02,ST-06,Dallas
+SKU-00,Phone,Electronics,81.73,CST-857,"Atkins, Miller and Ellis",OR-1582,431,585,2026-01-30,ST-05,Miami
+SKU-19,Dumbbells,Sports,95.09,CST-223,Miller and Sons,OR-2306,732,998,2026-03-06,ST-06,Dallas
+SKU-50,Dumbbells,Sports,121.36,CST-981,Hughes-Harrison,OR-4575,1,648,2026-02-24,ST-07,Washington
+SKU-74,Coffee,Food,93.12,CST-868,Holland-Allen,OR-9304,344,731,2026-01-31,ST-03,Chicago
+SKU-78,Tablet,Electronics,65.5,CST-915,Hernandez-Shields,OR-0146,85,233,2026-01-08,ST-06,Dallas
+SKU-78,Monitor,Electronics,77.4,CST-082,Gibson-Craig,OR-7433,111,779,2026-01-14,ST-03,Chicago
+SKU-03,Gloves,Sports,31.88,CST-457,Nelson-Freeman,OR-5579,275,715,2026-02-11,ST-06,Dallas
+SKU-66,Chair,Home,109.7,CST-787,Atkins LLC,OR-2277,250,451,2026-01-12,ST-03,Chicago
+SKU-94,Snacks,Food,74.1,CST-630,"Jones, Robertson and Johnston",OR-9345,206,299,2026-02-02,ST-05,Miami
+SKU-36,Bike,Sports,104.31,CST-562,"Murphy, Johnson and Allen",OR-6313,8,225,2026-02-13,ST-07,Washington
+SKU-64,Jacket,Clothing,85.85,CST-934,Mccall-Kelly,OR-4375,491,965,2026-03-09,ST-07,Washington
+SKU-70,Lamp,Home,67.18,CST-159,Lee Inc,OR-9333,121,204,2026-02-02,ST-01,New York
+SKU-44,Shoes,Clothing,110.78,CST-421,Gonzalez Inc,OR-1910,438,753,2026-01-26,ST-02,Los Angeles
+SKU-30,Tea,Food,73.77,CST-922,"Cook, Johnson and Lopez",OR-3827,73,324,2026-01-30,ST-05,Miami
+SKU-38,Laptop,Electronics,44.79,CST-807,Carter-Kidd,OR-5601,186,493,2026-01-25,ST-01,New York
+SKU-64,Lamp,Home,31.18,CST-769,Higgins-Norman,OR-3316,192,353,2026-01-24,ST-02,Los Angeles
+SKU-86,Gloves,Sports,121.75,CST-140,Gonzales LLC,OR-5647,143,234,2026-01-07,ST-06,Dallas
+SKU-62,Water,Food,58.58,CST-504,"Gibson, Brooks and Pena",OR-1548,40,177,2026-02-09,ST-06,Dallas
+SKU-28,Shoes,Clothing,58.48,CST-509,Rivera-Johnson,OR-8396,294,299,2026-01-11,ST-03,Chicago
+SKU-54,Water,Food,37.95,CST-829,Hinton PLC,OR-2337,71,560,2026-03-05,ST-01,New York
+SKU-48,Desk,Home,78.96,CST-945,"Bishop, Strong and Hernandez",OR-7557,263,460,2026-02-02,ST-05,Miami
+SKU-41,Shoes,Clothing,22.09,CST-791,Flores Ltd,OR-1941,249,609,2026-02-11,ST-02,Los Angeles
+SKU-33,Shoes,Clothing,56.04,CST-935,Peterson-Osborne,OR-6505,130,133,2026-02-27,ST-05,Miami
+SKU-05,T-Shirt,Clothing,96.07,CST-915,Cortez-Aguirre,OR-9400,220,356,2026-02-17,ST-02,Los Angeles
+SKU-20,Snacks,Food,89.73,CST-517,"Williamson, Arias and Walker",OR-1525,148,241,2026-03-06,ST-07,Washington
+SKU-57,Snacks,Food,125.82,CST-213,Scott-Richards,OR-1594,20,989,2026-02-12,ST-02,Los Angeles
+SKU-42,Pillow,Home,27.14,CST-974,Gutierrez Inc,OR-0678,28,224,2026-01-16,ST-02,Los Angeles
+SKU-14,Lamp,Home,120.29,CST-829,"Hayes, Bryant and Long",OR-0027,482,500,2026-01-26,ST-07,Washington
+SKU-69,Jeans,Clothing,119.47,CST-669,Garcia-Black,OR-1288,166,578,2026-02-04,ST-04,Houston
+SKU-88,Shoes,Clothing,56.28,CST-364,Raymond-Grant,OR-0694,19,24,2026-01-13,ST-05,Miami
+SKU-47,Pillow,Home,82.72,CST-806,Morrow LLC,OR-3416,190,737,2026-01-11,ST-01,New York
+SKU-55,Water,Food,115.12,CST-840,Adams Ltd,OR-0256,854,893,2026-01-17,ST-02,Los Angeles
+SKU-00,Chair,Home,22.26,CST-217,"Allen, Camacho and Rice",OR-9740,1,47,2026-02-22,ST-03,Chicago
+SKU-35,Desk,Home,69.04,CST-073,"Johns, Keith and Taylor",OR-8027,356,814,2026-03-01,ST-05,Miami
+SKU-91,Phone,Electronics,30.38,CST-089,"Johnson, Nguyen and Phillips",OR-0913,3,6,2026-01-21,ST-05,Miami
+SKU-77,Pillow,Home,41.0,CST-458,"Rivas, Ruiz and Lester",OR-3705,560,784,2026-02-25,ST-01,New York
+SKU-08,Gloves,Sports,43.55,CST-174,Patterson Group,OR-2686,47,79,2026-02-18,ST-03,Chicago
+SKU-79,Phone,Electronics,108.84,CST-001,Morales Group,OR-5098,417,530,2026-03-08,ST-03,Chicago
+SKU-00,Pillow,Home,59.77,CST-604,Dawson Inc,OR-5150,218,383,2026-02-21,ST-03,Chicago
+SKU-24,Water,Food,23.71,CST-261,Cruz PLC,OR-9369,721,861,2026-02-11,ST-07,Washington
+SKU-72,Dumbbells,Sports,88.45,CST-902,Murphy Inc,OR-3930,126,164,2026-02-08,ST-07,Washington
+SKU-62,Phone,Electronics,51.59,CST-642,Melendez PLC,OR-1867,681,743,2026-02-15,ST-02,Los Angeles
+SKU-05,Lamp,Home,84.75,CST-902,Howard Ltd,OR-1889,217,410,2026-03-08,ST-04,Houston
+SKU-37,Water,Food,113.39,CST-645,"Price, Thomas and Hester",OR-8615,94,379,2026-01-12,ST-06,Dallas
+SKU-00,Lamp,Home,30.24,CST-262,Jones-Hall,OR-5960,403,409,2026-01-31,ST-05,Miami
+SKU-23,Lamp,Home,39.04,CST-174,Smith-Phillips,OR-6774,308,646,2026-02-10,ST-07,Washington
+SKU-24,Coffee,Food,37.45,CST-669,Crane and Sons,OR-7498,525,773,2026-01-12,ST-05,Miami
+SKU-96,Chair,Home,102.73,CST-788,"Lewis, Huffman and Mills",OR-2556,349,426,2026-02-09,ST-03,Chicago
+SKU-33,Snacks,Food,109.91,CST-525,Campbell and Sons,OR-1404,198,250,2026-03-07,ST-02,Los Angeles
+SKU-25,Dumbbells,Sports,17.25,CST-898,Garcia-Gonzalez,OR-1999,11,274,2026-02-26,ST-07,Washington
+SKU-02,Laptop,Electronics,111.76,CST-755,Rogers-Hernandez,OR-0852,837,880,2026-02-10,ST-01,New York
+SKU-96,Lamp,Home,99.5,CST-561,Wilkerson Inc,OR-1416,149,483,2026-01-12,ST-01,New York
+SKU-95,T-Shirt,Clothing,124.46,CST-497,Morgan-Ayers,OR-2358,33,787,2026-01-06,ST-07,Washington
+SKU-91,Tea,Food,105.1,CST-465,"Allen, Diaz and Wheeler",OR-5726,564,799,2026-02-05,ST-02,Los Angeles
+SKU-24,Phone,Electronics,82.54,CST-048,"Galvan, Nguyen and Tucker",OR-6452,303,359,2026-02-01,ST-07,Washington
+SKU-18,Dumbbells,Sports,17.9,CST-318,Miller-Francis,OR-8003,15,18,2026-02-25,ST-06,Dallas
+SKU-24,Yoga Mat,Sports,58.46,CST-185,Butler-Ware,OR-2078,11,40,2026-03-07,ST-02,Los Angeles
+SKU-57,Dumbbells,Sports,40.76,CST-111,Wilcox-Clay,OR-2554,269,303,2026-02-15,ST-01,New York
+SKU-93,Pillow,Home,86.35,CST-432,Boyd LLC,OR-5142,407,865,2026-02-26,ST-02,Los Angeles
+SKU-77,T-Shirt,Clothing,82.94,CST-392,Herring-Walker,OR-0462,89,93,2026-01-01,ST-02,Los Angeles
+SKU-37,Jacket,Clothing,59.46,CST-458,Osborne-Hudson,OR-6237,438,964,2026-01-18,ST-03,Chicago
+SKU-72,Laptop,Electronics,101.04,CST-346,Hernandez Group,OR-3800,14,199,2026-01-17,ST-05,Miami
+SKU-74,Lamp,Home,100.93,CST-981,Hunt Inc,OR-0002,98,147,2026-01-15,ST-07,Washington
+SKU-85,Desk,Home,21.86,CST-304,Johnson-Edwards,OR-3051,351,369,2026-02-08,ST-07,Washington
+SKU-79,Pillow,Home,82.81,CST-784,Ortega PLC,OR-2332,37,609,2026-01-11,ST-01,New York
+SKU-40,Lamp,Home,108.93,CST-866,"Garcia, Harris and Holland",OR-6502,20,21,2026-03-06,ST-07,Washington
+SKU-36,Snacks,Food,113.32,CST-923,Matthews-Jackson,OR-9486,332,583,2026-03-07,ST-02,Los Angeles
+SKU-50,T-Shirt,Clothing,111.64,CST-079,Lawson LLC,OR-2502,669,707,2026-01-05,ST-06,Dallas
+SKU-09,Shoes,Clothing,84.82,CST-640,"Tate, Robinson and Hernandez",OR-8641,26,348,2026-02-15,ST-05,Miami
+SKU-43,Water,Food,42.22,CST-600,Harvey-Atkinson,OR-9767,333,396,2026-03-06,ST-07,Washington
+SKU-98,Desk,Home,48.33,CST-319,"Gill, Hall and Paul",OR-8533,10,16,2026-02-04,ST-01,New York
+SKU-07,Laptop,Electronics,83.04,CST-598,Coleman-Page,OR-6598,64,298,2026-01-30,ST-02,Los Angeles
+SKU-16,Shoes,Clothing,48.27,CST-203,Henderson LLC,OR-4352,55,77,2026-01-18,ST-05,Miami
+SKU-80,Gloves,Sports,31.76,CST-280,Reed Inc,OR-9298,84,304,2026-01-20,ST-03,Chicago
+SKU-80,Desk,Home,86.69,CST-573,Thompson LLC,OR-4788,812,842,2026-01-03,ST-06,Dallas
+SKU-10,T-Shirt,Clothing,24.54,CST-279,Martinez LLC,OR-9608,71,560,2026-01-19,ST-07,Washington
+SKU-74,Gloves,Sports,17.95,CST-596,Heath Inc,OR-0574,43,324,2026-01-30,ST-05,Miami
+SKU-80,Pillow,Home,26.31,CST-421,"Taylor, Thompson and Contreras",OR-3005,8,47,2026-02-10,ST-04,Houston
+SKU-01,Desk,Home,120.79,CST-828,Hester LLC,OR-0201,36,152,2026-01-31,ST-03,Chicago
+SKU-00,Tablet,Electronics,80.49,CST-026,"Schaefer, Burnett and Anderson",OR-2031,262,556,2026-01-26,ST-06,Dallas
+SKU-26,T-Shirt,Clothing,111.51,CST-100,"Horn, Sutton and Holmes",OR-6786,598,604,2026-01-12,ST-07,Washington
+SKU-86,Lamp,Home,95.25,CST-280,"Holland, Villanueva and Lambert",OR-7636,203,273,2026-02-06,ST-03,Chicago
+SKU-50,Snacks,Food,110.8,CST-244,"Wells, Grant and Pace",OR-9479,162,754,2026-02-24,ST-05,Miami
+SKU-17,Dumbbells,Sports,51.23,CST-328,"Chandler, Jones and Haynes",OR-3914,427,805,2026-02-10,ST-03,Chicago
+SKU-03,Dumbbells,Sports,72.56,CST-709,"Meyer, Woods and Wright",OR-7677,447,579,2026-01-24,ST-03,Chicago
+SKU-05,Dumbbells,Sports,31.85,CST-705,"Hardin, Holland and Obrien",OR-8404,470,799,2026-02-09,ST-03,Chicago
+SKU-59,Jeans,Clothing,109.26,CST-512,Callahan LLC,OR-9688,26,608,2026-03-04,ST-05,Miami
+SKU-64,Gloves,Sports,114.37,CST-254,Hinton PLC,OR-7347,253,788,2026-02-20,ST-05,Miami
+SKU-20,Chair,Home,69.95,CST-400,Taylor LLC,OR-9116,526,804,2026-01-11,ST-02,Los Angeles
+SKU-79,Jeans,Clothing,86.67,CST-076,"Owen, Coleman and Cochran",OR-5144,95,368,2026-02-05,ST-07,Washington
+SKU-66,Coffee,Food,76.51,CST-227,"Cobb, Shannon and Miller",OR-3526,233,490,2026-03-09,ST-06,Dallas
+SKU-81,Gloves,Sports,35.39,CST-198,Robbins-Graham,OR-6340,526,611,2026-03-06,ST-05,Miami
+SKU-55,Water,Food,103.95,CST-247,"Johnson, Owens and Smith",OR-0073,108,593,2026-02-22,ST-05,Miami
+SKU-42,Water,Food,45.71,CST-477,"Phillips, Rodriguez and Perez",OR-0267,294,296,2026-02-07,ST-04,Houston
+SKU-45,T-Shirt,Clothing,62.71,CST-856,Gross-Terry,OR-4092,593,985,2026-01-29,ST-04,Houston
+SKU-91,Coffee,Food,106.77,CST-206,Watson-Smith,OR-3134,482,671,2026-01-20,ST-05,Miami
+SKU-01,Pillow,Home,76.37,CST-034,"Anderson, Parks and Miller",OR-5896,37,485,2026-03-10,ST-03,Chicago
+SKU-67,Yoga Mat,Sports,46.0,CST-641,Johnson-Thomas,OR-9426,227,867,2026-02-27,ST-01,New York
+SKU-72,Jeans,Clothing,53.79,CST-736,Daniels Ltd,OR-8558,189,470,2026-01-11,ST-05,Miami
+SKU-54,Jeans,Clothing,113.04,CST-751,"Hicks, Alexander and Williams",OR-8589,149,382,2026-01-13,ST-01,New York
+SKU-49,Water,Food,80.63,CST-001,Gonzales PLC,OR-3753,447,561,2026-02-20,ST-01,New York
+SKU-98,Jeans,Clothing,85.08,CST-499,"Schmidt, Johnson and Johnson",OR-5887,161,216,2026-02-14,ST-04,Houston
+SKU-08,Dumbbells,Sports,65.21,CST-100,Smith-Carter,OR-5990,218,567,2026-01-22,ST-02,Los Angeles
+SKU-20,Coffee,Food,24.11,CST-162,"Reed, Moore and Hogan",OR-9038,485,652,2026-01-31,ST-03,Chicago
+SKU-10,Shoes,Clothing,59.17,CST-498,Buchanan Group,OR-8101,177,363,2026-03-03,ST-04,Houston
+SKU-17,Coffee,Food,32.85,CST-398,Simpson-Ortiz,OR-4049,110,157,2026-01-02,ST-07,Washington
+SKU-05,Chair,Home,46.81,CST-852,"Yates, Powell and Esparza",OR-8460,29,142,2026-02-18,ST-02,Los Angeles
+SKU-48,Jeans,Clothing,57.96,CST-092,Wade-Jordan,OR-3971,494,524,2026-01-15,ST-05,Miami
+SKU-55,Jeans,Clothing,87.51,CST-489,Valdez-Mckinney,OR-8907,425,680,2026-01-01,ST-01,New York
+SKU-63,Coffee,Food,45.84,CST-516,"Thompson, Johnson and Zimmerman",OR-1564,88,293,2026-01-12,ST-04,Houston
+SKU-52,Pillow,Home,85.28,CST-442,Wheeler-Williamson,OR-9581,49,79,2026-02-13,ST-07,Washington
+SKU-61,Tea,Food,70.48,CST-019,"Sanders, Morton and Coleman",OR-3187,9,251,2026-01-09,ST-03,Chicago
+SKU-48,Coffee,Food,55.17,CST-470,Garza-Hughes,OR-4105,356,879,2026-03-09,ST-04,Houston
+SKU-04,Dumbbells,Sports,61.91,CST-967,Butler-King,OR-1996,470,611,2026-01-04,ST-04,Houston
+SKU-61,Desk,Home,90.63,CST-064,Porter PLC,OR-5042,553,816,2026-01-04,ST-02,Los Angeles
+SKU-49,Laptop,Electronics,61.75,CST-560,Willis and Sons,OR-2808,65,104,2026-01-31,ST-07,Washington
+SKU-26,Jacket,Clothing,82.31,CST-449,Brown-Fleming,OR-6887,121,830,2026-01-01,ST-02,Los Angeles
+SKU-31,Pillow,Home,33.79,CST-854,Smith-Greene,OR-5815,23,64,2026-01-29,ST-07,Washington
+SKU-15,Water,Food,40.51,CST-226,Martinez PLC,OR-5814,25,56,2026-01-12,ST-03,Chicago
+SKU-98,Shoes,Clothing,80.84,CST-551,"Brown, Rodriguez and Lee",OR-1999,267,285,2026-01-15,ST-05,Miami
+SKU-10,Tablet,Electronics,25.91,CST-892,Hobbs-Conner,OR-6593,174,988,2026-02-08,ST-07,Washington
+SKU-14,Coffee,Food,27.48,CST-373,"Bowman, Miller and Reed",OR-0044,614,752,2026-01-10,ST-01,New York
+SKU-53,Laptop,Electronics,77.98,CST-197,Gordon Inc,OR-5103,384,510,2026-01-31,ST-03,Chicago
+SKU-37,Bike,Sports,96.28,CST-421,Ramirez and Sons,OR-9594,299,933,2026-02-23,ST-02,Los Angeles
+SKU-13,Desk,Home,93.97,CST-346,"Moore, Cobb and Kennedy",OR-3729,734,962,2026-03-05,ST-01,New York
+SKU-78,T-Shirt,Clothing,88.21,CST-596,"Gregory, Long and Scott",OR-9750,74,175,2026-01-16,ST-07,Washington
+SKU-78,Lamp,Home,48.68,CST-195,"Patterson, Dean and Atkinson",OR-7864,53,895,2026-01-06,ST-04,Houston
+SKU-71,Snacks,Food,22.24,CST-550,Thomas and Sons,OR-8064,395,852,2026-01-21,ST-04,Houston
+SKU-34,Yoga Mat,Sports,89.72,CST-115,Bonilla Group,OR-3717,105,505,2026-02-08,ST-04,Houston
+SKU-96,Bike,Sports,59.31,CST-540,Cameron-Ballard,OR-1080,397,858,2026-02-14,ST-05,Miami
+SKU-93,Coffee,Food,53.69,CST-156,Chambers and Sons,OR-5011,137,209,2026-02-28,ST-04,Houston
+SKU-79,Jeans,Clothing,32.85,CST-227,"Gordon, Lewis and Sandoval",OR-4310,353,576,2026-02-11,ST-04,Houston
+SKU-25,Tea,Food,45.34,CST-572,Smith Group,OR-3678,366,435,2026-02-11,ST-01,New York
+SKU-22,T-Shirt,Clothing,64.7,CST-720,Ritter-Dean,OR-3321,117,772,2026-02-03,ST-03,Chicago
+SKU-48,Phone,Electronics,72.13,CST-333,"Gibson, Carr and Roberts",OR-8930,206,667,2026-02-23,ST-06,Dallas
+SKU-62,Tea,Food,93.35,CST-705,Molina LLC,OR-4664,152,303,2026-02-21,ST-01,New York
+SKU-00,Coffee,Food,69.99,CST-822,Luna Inc,OR-9795,15,49,2026-02-04,ST-02,Los Angeles
+SKU-90,Bike,Sports,120.13,CST-042,Chan Group,OR-1224,628,804,2026-01-16,ST-02,Los Angeles
+SKU-36,Tea,Food,121.69,CST-098,"Williams, Elliott and Savage",OR-2580,159,163,2026-01-02,ST-03,Chicago
+SKU-04,T-Shirt,Clothing,19.08,CST-969,"Avila, Stewart and Mccormick",OR-9617,857,867,2026-01-02,ST-01,New York
+SKU-29,T-Shirt,Clothing,105.24,CST-909,Price-Miller,OR-8335,76,392,2026-01-30,ST-03,Chicago
+SKU-10,Tablet,Electronics,55.39,CST-786,Gray Group,OR-8757,111,427,2026-01-23,ST-07,Washington
+SKU-66,Chair,Home,107.07,CST-241,Fuller Ltd,OR-8863,506,855,2026-01-19,ST-02,Los Angeles
+SKU-09,Laptop,Electronics,92.82,CST-481,"Aguilar, King and Frank",OR-1308,60,67,2026-01-29,ST-05,Miami
+SKU-80,T-Shirt,Clothing,74.55,CST-520,"Frazier, Edwards and Flores",OR-6204,73,225,2026-01-30,ST-06,Dallas
+SKU-27,Jacket,Clothing,100.22,CST-648,Sullivan Inc,OR-5800,283,297,2026-01-28,ST-06,Dallas
+SKU-79,Laptop,Electronics,97.68,CST-676,Lynch LLC,OR-1057,533,959,2026-01-10,ST-07,Washington
+SKU-67,Tablet,Electronics,47.86,CST-426,"Farmer, Huerta and Mendoza",OR-8182,870,870,2026-02-12,ST-05,Miami
+SKU-66,Tablet,Electronics,49.84,CST-704,Richards-Williams,OR-1118,201,255,2026-02-15,ST-01,New York
+SKU-19,Desk,Home,23.5,CST-310,"Smith, Diaz and Sexton",OR-5560,211,500,2026-01-31,ST-07,Washington
+SKU-57,Phone,Electronics,78.53,CST-610,Smith Group,OR-7847,47,403,2026-02-21,ST-05,Miami
+SKU-73,Snacks,Food,78.33,CST-486,Morales Inc,OR-1781,561,921,2026-01-03,ST-07,Washington
+SKU-11,Shoes,Clothing,71.02,CST-628,Pennington-Kennedy,OR-9465,159,883,2026-02-27,ST-06,Dallas
+SKU-44,Lamp,Home,62.22,CST-977,Mcdonald-Bates,OR-8170,10,24,2026-03-08,ST-07,Washington
+SKU-91,Tablet,Electronics,33.22,CST-238,Potts-Green,OR-7472,157,388,2026-01-16,ST-03,Chicago
+SKU-03,Chair,Home,20.62,CST-215,"Jensen, Thompson and Franklin",OR-4153,35,56,2026-02-05,ST-06,Dallas
+SKU-77,Monitor,Electronics,43.33,CST-312,Brown-Kemp,OR-6695,92,307,2026-02-05,ST-04,Houston
+SKU-69,Phone,Electronics,120.5,CST-300,"Powers, Lane and Dean",OR-7153,216,375,2026-03-06,ST-04,Houston
+SKU-38,Gloves,Sports,44.64,CST-564,Johnson Group,OR-6722,218,747,2026-03-01,ST-02,Los Angeles
+SKU-62,Snacks,Food,81.48,CST-356,"Byrd, Allen and Ingram",OR-0337,551,636,2026-02-03,ST-07,Washington
+SKU-77,Yoga Mat,Sports,40.48,CST-228,Hubbard LLC,OR-6494,512,763,2026-01-28,ST-01,New York
+SKU-99,Coffee,Food,34.53,CST-907,Gallagher-Diaz,OR-7231,12,592,2026-02-09,ST-01,New York
+SKU-85,T-Shirt,Clothing,18.06,CST-222,Mitchell-Newton,OR-6288,99,804,2026-01-24,ST-07,Washington
+SKU-62,Phone,Electronics,50.79,CST-913,Hudson and Sons,OR-8822,118,416,2026-01-15,ST-06,Dallas
+SKU-25,Jacket,Clothing,22.8,CST-800,Reed Ltd,OR-4931,88,172,2026-01-09,ST-07,Washington
+SKU-86,Pillow,Home,111.53,CST-923,Roberts and Sons,OR-6839,32,71,2026-01-22,ST-05,Miami
+SKU-68,Dumbbells,Sports,36.67,CST-036,"Lamb, Fletcher and Jones",OR-5282,153,325,2026-01-08,ST-06,Dallas
+SKU-58,Monitor,Electronics,70.11,CST-666,"Warren, Key and Jarvis",OR-5583,451,461,2026-02-25,ST-06,Dallas
+SKU-21,Shoes,Clothing,72.39,CST-517,Cooper LLC,OR-5992,468,475,2026-02-02,ST-03,Chicago
+SKU-22,Lamp,Home,56.38,CST-653,"Wright, Wright and Padilla",OR-5956,126,165,2026-02-13,ST-03,Chicago
+SKU-13,Yoga Mat,Sports,62.88,CST-656,"Olson, Nunez and Nelson",OR-4256,361,964,2026-02-15,ST-03,Chicago
+SKU-66,Jeans,Clothing,105.51,CST-504,King-Robinson,OR-2045,90,275,2026-02-18,ST-03,Chicago
+SKU-00,Monitor,Electronics,44.65,CST-358,"Parker, Wolf and Mcintyre",OR-3297,700,858,2026-01-10,ST-04,Houston
+SKU-55,Yoga Mat,Sports,83.4,CST-406,"Gibson, Hansen and Jackson",OR-0114,168,251,2026-02-12,ST-05,Miami
+SKU-31,Laptop,Electronics,106.58,CST-411,"Graves, Matthews and Owens",OR-0217,6,430,2026-03-05,ST-01,New York
+SKU-81,Tablet,Electronics,113.35,CST-188,Chung Group,OR-1638,122,359,2026-02-28,ST-04,Houston
+SKU-28,Laptop,Electronics,31.87,CST-196,"Waters, Price and Torres",OR-8858,31,569,2026-01-14,ST-01,New York
+SKU-79,Yoga Mat,Sports,81.51,CST-295,Allen-Walker,OR-8918,201,562,2026-02-19,ST-07,Washington
+SKU-76,Phone,Electronics,56.54,CST-951,Olson Group,OR-6821,39,133,2026-01-12,ST-02,Los Angeles
+SKU-17,Jacket,Clothing,106.42,CST-962,"Boyd, Harris and Gibson",OR-7979,103,816,2026-02-04,ST-07,Washington
+SKU-43,Jacket,Clothing,71.06,CST-832,Buchanan-Bowman,OR-1459,35,308,2026-02-08,ST-03,Chicago
+SKU-73,T-Shirt,Clothing,36.61,CST-164,"Pugh, Copeland and Park",OR-9952,198,315,2026-03-09,ST-04,Houston
+SKU-29,Monitor,Electronics,89.6,CST-421,Wilson-Patterson,OR-7254,130,136,2026-02-28,ST-05,Miami
+SKU-54,Pillow,Home,55.38,CST-229,Henderson-Gardner,OR-6859,529,730,2026-03-10,ST-06,Dallas
+SKU-39,Tablet,Electronics,16.31,CST-777,Jennings PLC,OR-4907,536,750,2026-02-21,ST-01,New York
+SKU-51,Lamp,Home,119.31,CST-686,"Houston, Ward and Baxter",OR-2467,16,349,2026-03-10,ST-03,Chicago
+SKU-88,T-Shirt,Clothing,108.09,CST-671,Stone-Stevens,OR-8357,112,241,2026-01-13,ST-02,Los Angeles
+SKU-16,Gloves,Sports,47.09,CST-000,Cook-Sullivan,OR-5056,435,458,2026-02-16,ST-02,Los Angeles
+SKU-02,Tea,Food,16.19,CST-684,Robinson-Webb,OR-2265,509,972,2026-01-04,ST-06,Dallas
+SKU-83,Jacket,Clothing,98.27,CST-493,"Keith, Taylor and Williams",OR-0082,136,249,2026-02-04,ST-01,New York
+SKU-81,Snacks,Food,80.36,CST-486,"Hamilton, Warren and Montgomery",OR-2066,247,410,2026-02-11,ST-03,Chicago
+SKU-23,Desk,Home,46.6,CST-435,Blair-Murray,OR-5007,20,90,2026-02-08,ST-05,Miami
+SKU-04,Pillow,Home,104.06,CST-510,"Green, Mccarthy and Smith",OR-8838,4,46,2026-01-28,ST-03,Chicago
+SKU-72,Jeans,Clothing,39.76,CST-581,"Harris, Davidson and Franklin",OR-4170,209,371,2026-02-14,ST-02,Los Angeles
+SKU-54,Jacket,Clothing,104.05,CST-133,Harmon PLC,OR-3601,22,59,2026-01-11,ST-02,Los Angeles
+SKU-00,Jacket,Clothing,95.17,CST-086,"Reynolds, Cline and Frazier",OR-9507,15,168,2026-03-07,ST-03,Chicago
+SKU-23,Monitor,Electronics,108.7,CST-986,"Gregory, Richardson and Hines",OR-4429,362,698,2026-01-02,ST-04,Houston
+SKU-19,Lamp,Home,67.41,CST-367,Bartlett-Bush,OR-7116,26,78,2026-01-17,ST-05,Miami
+SKU-12,Pillow,Home,102.33,CST-065,Kennedy LLC,OR-9811,9,48,2026-03-05,ST-06,Dallas
+SKU-91,Lamp,Home,50.52,CST-396,Osborne and Sons,OR-2220,151,347,2026-01-30,ST-04,Houston
+SKU-77,Desk,Home,31.28,CST-621,Anthony-Page,OR-2686,73,161,2026-02-04,ST-06,Dallas
+SKU-79,Pillow,Home,20.37,CST-423,"Bridges, Simmons and Robinson",OR-1038,125,255,2026-03-04,ST-05,Miami
+SKU-65,Gloves,Sports,47.69,CST-243,Silva-Melton,OR-0168,9,512,2026-01-01,ST-06,Dallas
+SKU-18,T-Shirt,Clothing,97.71,CST-002,Warren-Dean,OR-4766,317,859,2026-01-05,ST-07,Washington
+SKU-67,Pillow,Home,98.47,CST-345,Gonzales-Duran,OR-7693,259,737,2026-02-19,ST-01,New York
+SKU-25,Tea,Food,85.68,CST-472,Allen Inc,OR-5188,38,967,2026-02-06,ST-02,Los Angeles
+SKU-63,Desk,Home,19.94,CST-885,Scott-Porter,OR-2521,484,963,2026-01-06,ST-04,Houston
+SKU-05,Shoes,Clothing,77.77,CST-290,Branch Ltd,OR-9373,257,354,2026-01-01,ST-01,New York
+SKU-33,Water,Food,44.62,CST-869,Mccormick-Ramos,OR-5695,357,393,2026-02-16,ST-06,Dallas
+SKU-54,Coffee,Food,62.9,CST-703,"Johnson, Martin and Ramos",OR-6961,212,240,2026-02-28,ST-02,Los Angeles
+SKU-95,Coffee,Food,67.0,CST-151,"Ford, Nguyen and Harris",OR-0119,148,269,2026-02-19,ST-03,Chicago
+SKU-24,Phone,Electronics,117.08,CST-636,"Kramer, Young and Sloan",OR-9120,281,474,2026-03-04,ST-03,Chicago
+SKU-21,Lamp,Home,39.57,CST-970,Wilkins-Williams,OR-9140,478,660,2026-02-12,ST-03,Chicago
+SKU-07,Dumbbells,Sports,93.56,CST-455,"Anderson, Armstrong and Tran",OR-4156,137,206,2026-03-04,ST-06,Dallas
+SKU-42,Water,Food,60.0,CST-122,Barber Ltd,OR-2550,20,34,2026-01-17,ST-05,Miami
+SKU-23,Shoes,Clothing,90.71,CST-350,"Beltran, Carroll and Elliott",OR-9567,112,590,2026-03-05,ST-04,Houston
+SKU-82,Coffee,Food,60.69,CST-777,Rivers PLC,OR-8258,321,983,2026-02-10,ST-02,Los Angeles
+SKU-63,Tablet,Electronics,44.26,CST-007,"Rodriguez, Morgan and Andrews",OR-8593,83,203,2026-01-24,ST-04,Houston
+SKU-63,Chair,Home,118.49,CST-889,"Price, Long and Martinez",OR-2647,398,841,2026-02-07,ST-02,Los Angeles
+SKU-61,Water,Food,101.79,CST-804,"Watts, Thompson and Church",OR-8535,28,175,2026-03-04,ST-01,New York
+SKU-10,Jacket,Clothing,123.2,CST-711,Lewis-Dixon,OR-6834,218,256,2026-01-16,ST-03,Chicago
+SKU-55,Lamp,Home,16.14,CST-097,Skinner-Hicks,OR-4659,9,111,2026-01-14,ST-06,Dallas
+SKU-28,Tea,Food,101.22,CST-001,Maldonado Ltd,OR-0218,45,434,2026-02-08,ST-01,New York
+SKU-67,Desk,Home,79.99,CST-304,Butler and Sons,OR-5041,3,221,2026-03-07,ST-06,Dallas
+SKU-63,Tea,Food,93.91,CST-147,"Powell, Smith and Patrick",OR-5418,3,16,2026-02-14,ST-02,Los Angeles
+SKU-75,Bike,Sports,120.55,CST-837,Simmons-Maxwell,OR-3827,360,879,2026-01-09,ST-01,New York
+SKU-79,Jacket,Clothing,19.49,CST-011,Ward Inc,OR-8119,380,478,2026-02-22,ST-04,Houston
+SKU-32,Tea,Food,82.67,CST-707,Vega Ltd,OR-2606,584,593,2026-02-18,ST-07,Washington
+SKU-17,Bike,Sports,118.74,CST-298,"Rodriguez, Garcia and Newman",OR-9951,206,713,2026-02-25,ST-04,Houston
+SKU-97,Laptop,Electronics,60.41,CST-422,Jones-Garrett,OR-0853,659,666,2026-03-04,ST-04,Houston
+SKU-01,Dumbbells,Sports,108.99,CST-193,Compton PLC,OR-0228,8,426,2026-02-09,ST-02,Los Angeles
+SKU-99,Coffee,Food,49.22,CST-243,Cook Ltd,OR-0674,113,228,2026-01-29,ST-02,Los Angeles
+SKU-56,Jeans,Clothing,108.27,CST-829,"Gonzalez, Young and Castro",OR-3590,323,374,2026-01-19,ST-06,Dallas
+SKU-52,Phone,Electronics,17.96,CST-606,Allen Ltd,OR-9113,674,924,2026-02-07,ST-02,Los Angeles
+SKU-59,Jacket,Clothing,63.07,CST-861,"French, Collins and Graham",OR-5951,509,689,2026-02-15,ST-03,Chicago
+SKU-31,Laptop,Electronics,90.55,CST-684,Reyes Ltd,OR-0812,145,247,2026-01-25,ST-06,Dallas
+SKU-15,Water,Food,104.96,CST-691,Stevenson PLC,OR-9486,109,255,2026-01-09,ST-06,Dallas
+SKU-49,Coffee,Food,29.36,CST-888,Montoya Inc,OR-6135,319,519,2026-02-08,ST-03,Chicago
+SKU-90,Shoes,Clothing,56.72,CST-575,Morris PLC,OR-8292,27,432,2026-01-19,ST-07,Washington
+SKU-32,Jacket,Clothing,84.13,CST-904,Simpson LLC,OR-3699,346,423,2026-01-06,ST-06,Dallas
+SKU-38,Dumbbells,Sports,32.41,CST-706,Fisher PLC,OR-3021,48,102,2026-01-15,ST-01,New York
+SKU-08,Water,Food,63.69,CST-758,Roberts LLC,OR-7634,540,973,2026-01-11,ST-06,Dallas
+SKU-17,Tea,Food,89.22,CST-041,Mcconnell-Meyer,OR-0913,310,808,2026-01-13,ST-06,Dallas
+SKU-09,Chair,Home,22.12,CST-919,Figueroa-Bowman,OR-1709,91,117,2026-02-19,ST-03,Chicago
+SKU-15,Lamp,Home,22.01,CST-325,Vega-Moore,OR-5901,21,61,2026-01-09,ST-06,Dallas
+SKU-48,Shoes,Clothing,51.26,CST-602,"Miller, Gibbs and Bryant",OR-3202,54,127,2026-01-20,ST-06,Dallas
+SKU-97,Snacks,Food,32.97,CST-561,Crane Ltd,OR-8913,237,986,2026-01-11,ST-06,Dallas
+SKU-33,Dumbbells,Sports,125.87,CST-414,Gordon-Gutierrez,OR-2952,487,645,2026-03-05,ST-02,Los Angeles
+SKU-28,Yoga Mat,Sports,79.88,CST-499,"Miles, Casey and Garcia",OR-7727,328,519,2026-01-19,ST-07,Washington
+SKU-94,Monitor,Electronics,116.41,CST-038,Mcclure-Rush,OR-5064,57,463,2026-02-15,ST-02,Los Angeles
+SKU-91,Coffee,Food,120.17,CST-375,Harris PLC,OR-2995,546,791,2026-01-12,ST-06,Dallas
+SKU-04,Dumbbells,Sports,24.51,CST-868,Smith Inc,OR-7143,479,791,2026-02-24,ST-06,Dallas
+SKU-45,Bike,Sports,75.19,CST-069,Franklin-Nichols,OR-6978,737,790,2026-01-04,ST-01,New York
+SKU-02,Coffee,Food,87.13,CST-360,Hamilton Group,OR-4407,487,627,2026-01-26,ST-05,Miami
+SKU-57,Lamp,Home,68.43,CST-228,"Cruz, Sanchez and Blackwell",OR-1980,176,348,2026-02-27,ST-03,Chicago
+SKU-40,Laptop,Electronics,37.99,CST-728,Mcmahon Group,OR-4336,526,553,2026-01-25,ST-05,Miami
+SKU-96,Tea,Food,33.95,CST-391,"West, Caldwell and Stewart",OR-3102,13,406,2026-01-28,ST-06,Dallas
+SKU-71,Jeans,Clothing,27.67,CST-288,Hayes Ltd,OR-4381,294,365,2026-03-07,ST-06,Dallas
+SKU-49,Desk,Home,35.94,CST-992,Villarreal-Jacobson,OR-4964,320,370,2026-01-18,ST-01,New York
+SKU-16,Bike,Sports,124.36,CST-220,"Ellis, Reyes and Chavez",OR-9169,69,939,2026-03-02,ST-06,Dallas
+SKU-73,Snacks,Food,96.3,CST-636,Jackson-Combs,OR-2881,159,927,2026-03-06,ST-03,Chicago
+SKU-27,Dumbbells,Sports,112.09,CST-453,"Schmitt, Lewis and Butler",OR-8606,237,568,2026-02-16,ST-01,New York
+SKU-04,Yoga Mat,Sports,116.74,CST-079,"Cook, Benson and Brown",OR-0754,173,602,2026-02-06,ST-03,Chicago
+SKU-35,Bike,Sports,105.2,CST-018,"Crawford, Cook and Rice",OR-8822,651,971,2026-02-13,ST-03,Chicago
+SKU-04,Monitor,Electronics,55.69,CST-995,Frederick Ltd,OR-3088,418,523,2026-01-18,ST-06,Dallas
+SKU-26,Dumbbells,Sports,80.74,CST-275,Murphy-Scott,OR-9073,274,287,2026-01-07,ST-06,Dallas
+SKU-18,Monitor,Electronics,102.05,CST-005,Miller PLC,OR-3962,26,306,2026-01-28,ST-04,Houston
+SKU-55,Tea,Food,19.27,CST-195,"Smith, Parker and Hudson",OR-3140,3,21,2026-02-27,ST-04,Houston
+SKU-70,Snacks,Food,99.76,CST-507,Smith-Terry,OR-6970,132,250,2026-02-19,ST-01,New York
+SKU-70,Gloves,Sports,72.72,CST-561,Campos-Sanchez,OR-4692,197,789,2026-02-23,ST-01,New York
+SKU-58,Shoes,Clothing,51.38,CST-879,Austin PLC,OR-4064,15,50,2026-03-05,ST-07,Washington
+SKU-06,Jeans,Clothing,25.56,CST-019,"Swanson, Miller and Randall",OR-2733,289,533,2026-01-05,ST-02,Los Angeles
+SKU-24,Laptop,Electronics,35.24,CST-212,Obrien-Brown,OR-9606,210,469,2026-02-03,ST-07,Washington
+SKU-69,Jacket,Clothing,41.62,CST-925,"Jones, Padilla and Cole",OR-3250,109,738,2026-02-05,ST-01,New York
+SKU-07,Bike,Sports,55.31,CST-916,Robinson LLC,OR-0700,53,617,2026-01-03,ST-05,Miami
+SKU-79,T-Shirt,Clothing,61.47,CST-242,"Cummings, Lucero and Stanley",OR-0870,318,744,2026-01-30,ST-01,New York
+SKU-38,Tablet,Electronics,53.8,CST-431,"Jones, Garcia and Brown",OR-8035,17,127,2026-02-18,ST-06,Dallas
+SKU-16,Phone,Electronics,125.77,CST-759,Costa PLC,OR-9805,531,708,2026-01-08,ST-04,Houston
+SKU-22,Jeans,Clothing,50.35,CST-941,Yoder-Johns,OR-0798,304,381,2026-01-25,ST-01,New York
+SKU-29,Tablet,Electronics,38.36,CST-814,Hamilton-Wong,OR-6985,449,508,2026-01-08,ST-01,New York
+SKU-47,Phone,Electronics,44.24,CST-612,Mack-Harmon,OR-4616,176,668,2026-02-04,ST-01,New York
+SKU-03,Yoga Mat,Sports,113.89,CST-397,Torres Ltd,OR-2159,632,666,2026-01-19,ST-03,Chicago
+SKU-06,Jacket,Clothing,74.7,CST-498,Rivera-Mitchell,OR-8054,68,301,2026-01-05,ST-02,Los Angeles
+SKU-62,T-Shirt,Clothing,71.33,CST-245,Warren-Harmon,OR-3349,413,548,2026-02-09,ST-07,Washington
+SKU-08,Monitor,Electronics,123.32,CST-594,"Wright, Jennings and Cross",OR-8482,605,727,2026-01-07,ST-04,Houston
+SKU-46,Shoes,Clothing,92.82,CST-303,Schultz Inc,OR-2129,495,792,2026-03-05,ST-04,Houston
+SKU-22,Snacks,Food,91.09,CST-136,Kim-Carpenter,OR-8563,415,653,2026-03-05,ST-04,Houston
+SKU-12,Jacket,Clothing,119.59,CST-884,Arnold Ltd,OR-9460,103,223,2026-02-14,ST-01,New York
+SKU-58,Shoes,Clothing,125.48,CST-025,Mckenzie Inc,OR-5401,41,216,2026-02-08,ST-07,Washington
+SKU-14,Bike,Sports,17.64,CST-128,Wong-Miles,OR-7585,941,961,2026-01-21,ST-03,Chicago
+SKU-37,Tea,Food,113.01,CST-428,Stafford and Sons,OR-0121,216,648,2026-03-04,ST-04,Houston
+SKU-46,T-Shirt,Clothing,102.61,CST-270,Oliver-Conley,OR-8355,484,579,2026-02-18,ST-02,Los Angeles
+SKU-87,Chair,Home,40.89,CST-964,Johnson-Luna,OR-3822,41,47,2026-02-10,ST-03,Chicago
+SKU-72,Jeans,Clothing,117.93,CST-564,Beltran-Poole,OR-5189,140,175,2026-02-26,ST-05,Miami
+SKU-72,Tablet,Electronics,119.18,CST-128,"Scott, Watson and Mason",OR-8187,38,545,2026-03-07,ST-07,Washington
+SKU-41,Snacks,Food,25.77,CST-311,"Brown, Rich and Park",OR-2164,324,978,2026-02-10,ST-03,Chicago
+SKU-92,Shoes,Clothing,36.6,CST-749,"Brady, White and Long",OR-1195,13,60,2026-02-24,ST-04,Houston
+SKU-16,Chair,Home,103.28,CST-727,Harrington PLC,OR-8693,298,520,2026-02-11,ST-07,Washington
+SKU-81,Jeans,Clothing,44.41,CST-626,Crawford-Williamson,OR-4617,177,738,2026-02-21,ST-01,New York
+SKU-26,Bike,Sports,110.7,CST-302,Richardson PLC,OR-8822,194,368,2026-02-22,ST-01,New York
+SKU-32,Tea,Food,31.58,CST-573,Jackson-Brown,OR-2319,23,538,2026-01-12,ST-07,Washington
+SKU-97,Snacks,Food,20.55,CST-432,Nelson-Hansen,OR-6386,58,114,2026-01-13,ST-01,New York
+SKU-27,Phone,Electronics,49.69,CST-337,"Scott, Butler and Larson",OR-8680,347,902,2026-01-26,ST-01,New York
+SKU-91,Water,Food,53.53,CST-417,"Carroll, Best and Beck",OR-0727,228,459,2026-02-18,ST-07,Washington
+SKU-26,Jacket,Clothing,101.17,CST-984,Rosario-Smith,OR-1677,849,930,2026-02-26,ST-05,Miami
+SKU-87,Tea,Food,90.12,CST-606,Gibbs-Patton,OR-3394,636,922,2026-01-16,ST-07,Washington
+SKU-35,Yoga Mat,Sports,23.6,CST-398,Reyes and Sons,OR-2328,103,229,2026-02-01,ST-06,Dallas
+SKU-16,Desk,Home,109.13,CST-787,Williams-Sanchez,OR-4237,328,845,2026-02-12,ST-02,Los Angeles
+SKU-66,Pillow,Home,100.84,CST-776,Brooks-Castro,OR-6116,43,225,2026-01-03,ST-06,Dallas
+SKU-72,Lamp,Home,46.97,CST-798,Stephens PLC,OR-9997,270,284,2026-02-06,ST-01,New York
+SKU-05,Jeans,Clothing,112.67,CST-986,"Koch, Cox and Rodriguez",OR-0133,371,694,2026-02-26,ST-03,Chicago
+SKU-33,Lamp,Home,69.34,CST-194,"Stephens, Martinez and Riddle",OR-0982,146,437,2026-01-05,ST-03,Chicago
+SKU-21,Water,Food,75.26,CST-022,Arias LLC,OR-9907,629,669,2026-03-06,ST-06,Dallas
+SKU-71,Water,Food,66.16,CST-382,"Moody, Shepard and King",OR-4581,598,854,2026-01-17,ST-03,Chicago
+SKU-29,Laptop,Electronics,28.45,CST-790,"Molina, Reynolds and Smith",OR-0172,677,793,2026-03-06,ST-07,Washington
+SKU-64,Phone,Electronics,47.68,CST-582,Odonnell PLC,OR-1611,880,897,2026-02-19,ST-01,New York
+SKU-80,Coffee,Food,16.73,CST-732,"Stewart, Lopez and Thompson",OR-6736,687,780,2026-02-24,ST-06,Dallas
+SKU-64,Tea,Food,88.76,CST-271,Barron LLC,OR-0000,140,242,2026-02-25,ST-03,Chicago
+SKU-52,Gloves,Sports,107.93,CST-202,Bishop-Ferguson,OR-6296,16,23,2026-01-17,ST-05,Miami
+SKU-23,Phone,Electronics,93.46,CST-249,"Wiley, Sanchez and Walker",OR-1950,34,50,2026-02-02,ST-04,Houston
+SKU-79,Chair,Home,71.63,CST-960,Chen-Lane,OR-8749,10,683,2026-01-15,ST-02,Los Angeles
+SKU-44,Snacks,Food,18.5,CST-614,Roberts LLC,OR-7974,190,635,2026-03-04,ST-06,Dallas
+SKU-34,Pillow,Home,58.2,CST-532,Rojas LLC,OR-7461,215,613,2026-01-06,ST-05,Miami
+SKU-28,Shoes,Clothing,19.61,CST-320,"Brown, West and Martinez",OR-7394,14,36,2026-02-04,ST-06,Dallas
+SKU-76,Coffee,Food,91.12,CST-390,"Maxwell, Pace and Mays",OR-5848,108,108,2026-01-13,ST-05,Miami
+SKU-80,Gloves,Sports,64.82,CST-926,"Cain, Smith and Coleman",OR-2513,4,16,2026-01-15,ST-04,Houston
+SKU-28,Desk,Home,116.8,CST-831,Robinson LLC,OR-6607,171,672,2026-01-11,ST-01,New York
+SKU-80,Jacket,Clothing,53.44,CST-711,Austin-Allen,OR-1622,28,445,2026-01-06,ST-04,Houston
+SKU-01,Gloves,Sports,109.86,CST-045,"Warren, House and Reyes",OR-8515,157,247,2026-02-10,ST-03,Chicago
+SKU-16,Tablet,Electronics,18.54,CST-744,White-Bailey,OR-7896,12,96,2026-02-11,ST-02,Los Angeles
+SKU-75,Yoga Mat,Sports,118.0,CST-243,Johnson PLC,OR-3100,609,973,2026-02-10,ST-01,New York
+SKU-10,T-Shirt,Clothing,33.02,CST-873,Edwards LLC,OR-3375,134,594,2026-01-01,ST-06,Dallas
+SKU-59,Gloves,Sports,101.46,CST-856,Thomas Ltd,OR-8267,305,571,2026-02-15,ST-05,Miami
+SKU-64,Laptop,Electronics,60.51,CST-704,Duarte Inc,OR-1551,453,564,2026-01-04,ST-04,Houston
+SKU-41,T-Shirt,Clothing,124.31,CST-030,"Hill, Freeman and Jones",OR-6383,118,244,2026-01-01,ST-05,Miami
+SKU-10,Bike,Sports,22.97,CST-182,"Owen, Williams and Smith",OR-1117,402,592,2026-02-01,ST-07,Washington
+SKU-25,Jeans,Clothing,42.44,CST-643,Owens Group,OR-1564,204,294,2026-02-21,ST-04,Houston
+SKU-09,Tea,Food,125.38,CST-401,"Clark, Clay and Mcintosh",OR-7715,122,921,2026-01-23,ST-05,Miami
+SKU-55,Monitor,Electronics,41.15,CST-607,Palmer-Ware,OR-9733,43,795,2026-01-21,ST-03,Chicago
+SKU-35,Pillow,Home,101.82,CST-844,"Shelton, Nelson and Fischer",OR-0768,132,864,2026-02-27,ST-04,Houston
+SKU-07,Tea,Food,104.49,CST-923,Stewart Group,OR-5458,95,325,2026-02-16,ST-03,Chicago
+SKU-53,T-Shirt,Clothing,46.14,CST-072,Sullivan-Webb,OR-4149,87,146,2026-02-11,ST-02,Los Angeles
+SKU-70,Tea,Food,40.15,CST-831,Newman-Hendricks,OR-6563,619,853,2026-02-22,ST-07,Washington
+SKU-20,Laptop,Electronics,108.46,CST-866,"Andrews, Carr and Sanders",OR-4878,106,467,2026-02-27,ST-03,Chicago
+SKU-98,Laptop,Electronics,24.01,CST-283,Henderson-Martinez,OR-7457,537,558,2026-01-16,ST-02,Los Angeles
+SKU-66,Phone,Electronics,52.69,CST-023,"Hendricks, Perkins and Payne",OR-1409,95,230,2026-02-04,ST-01,New York
+SKU-05,T-Shirt,Clothing,92.17,CST-101,Barnett Inc,OR-3410,174,965,2026-02-16,ST-06,Dallas
+SKU-14,Laptop,Electronics,105.37,CST-676,"Jordan, Palmer and Hoffman",OR-2942,491,614,2026-02-27,ST-02,Los Angeles
+SKU-93,Water,Food,76.22,CST-818,Ward Inc,OR-9169,332,452,2026-03-10,ST-02,Los Angeles
+SKU-78,Gloves,Sports,25.04,CST-843,Maxwell LLC,OR-7496,434,608,2026-01-22,ST-05,Miami
+SKU-18,Desk,Home,69.96,CST-963,Johnston-Ramirez,OR-9232,256,720,2026-01-16,ST-01,New York
+SKU-09,Phone,Electronics,31.02,CST-008,"Thompson, Edwards and Peterson",OR-4866,665,934,2026-02-04,ST-04,Houston
+SKU-11,Yoga Mat,Sports,91.13,CST-564,Hunter-Humphrey,OR-1103,155,554,2026-03-01,ST-03,Chicago
+SKU-29,Laptop,Electronics,92.69,CST-515,Williams Inc,OR-4311,255,678,2026-02-27,ST-06,Dallas
+SKU-22,Laptop,Electronics,108.82,CST-916,"Hopkins, Malone and Dickerson",OR-2435,108,616,2026-02-09,ST-04,Houston
+SKU-90,Desk,Home,68.69,CST-045,Cox-Wilson,OR-6570,22,43,2026-01-24,ST-02,Los Angeles
+SKU-48,Phone,Electronics,43.29,CST-203,Reyes Inc,OR-3658,306,622,2026-03-03,ST-03,Chicago
+SKU-62,Phone,Electronics,103.52,CST-977,"Smith, Sanchez and Zhang",OR-4917,32,69,2026-02-16,ST-01,New York
+SKU-49,Jeans,Clothing,44.79,CST-763,Shea-Sherman,OR-9027,161,474,2026-01-03,ST-06,Dallas
+SKU-44,Pillow,Home,26.94,CST-159,"Phillips, Merritt and Miller",OR-7707,529,899,2026-02-11,ST-06,Dallas
+SKU-48,Shoes,Clothing,75.68,CST-037,"Welch, Nelson and Ford",OR-6875,124,216,2026-01-23,ST-03,Chicago
+SKU-88,Dumbbells,Sports,119.76,CST-287,Hamilton LLC,OR-9430,250,460,2026-01-13,ST-07,Washington
+SKU-96,Shoes,Clothing,73.03,CST-771,Reese Ltd,OR-5639,296,511,2026-02-03,ST-06,Dallas
+SKU-03,Bike,Sports,78.19,CST-477,Martinez-Burch,OR-6723,19,238,2026-03-09,ST-06,Dallas
+SKU-14,Bike,Sports,114.79,CST-871,Hicks Group,OR-2459,209,272,2026-01-22,ST-07,Washington
+SKU-16,Pillow,Home,69.04,CST-315,Smith-Lee,OR-8971,338,920,2026-02-25,ST-05,Miami
+SKU-90,Lamp,Home,79.04,CST-620,"Avila, Adams and Nguyen",OR-2958,73,263,2026-02-10,ST-02,Los Angeles
+SKU-14,Jacket,Clothing,72.73,CST-580,"Roberts, Deleon and Mason",OR-2471,174,279,2026-02-01,ST-03,Chicago
+SKU-21,Gloves,Sports,54.89,CST-975,"Taylor, Stewart and Leonard",OR-2649,342,365,2026-03-09,ST-06,Dallas
+SKU-84,Phone,Electronics,62.21,CST-458,Mora-Stone,OR-6034,430,568,2026-01-16,ST-07,Washington
+SKU-19,T-Shirt,Clothing,68.48,CST-837,Delgado Ltd,OR-6049,48,179,2026-01-18,ST-06,Dallas
+SKU-73,Dumbbells,Sports,124.65,CST-422,"Ayers, King and Ferguson",OR-4826,206,894,2026-02-07,ST-05,Miami
+SKU-76,Laptop,Electronics,29.99,CST-476,Barnett-Garrison,OR-1793,660,667,2026-03-08,ST-01,New York
+SKU-11,Monitor,Electronics,39.15,CST-801,Davis-Zimmerman,OR-1169,23,45,2026-01-26,ST-07,Washington
+SKU-98,T-Shirt,Clothing,107.09,CST-663,Johns-Shea,OR-8022,247,323,2026-01-13,ST-04,Houston
+SKU-40,Dumbbells,Sports,83.71,CST-323,"Myers, Mason and Miller",OR-1324,622,998,2026-01-13,ST-02,Los Angeles
+SKU-37,Shoes,Clothing,39.72,CST-356,Mullen Inc,OR-1098,156,283,2026-03-05,ST-07,Washington
+SKU-32,Tablet,Electronics,29.45,CST-215,Wilson LLC,OR-3880,158,615,2026-01-13,ST-04,Houston
+SKU-35,Chair,Home,25.43,CST-227,Matthews-Herman,OR-3260,98,343,2026-03-09,ST-02,Los Angeles
+SKU-46,Lamp,Home,18.01,CST-893,"Guerra, Knight and Duncan",OR-6477,127,277,2026-01-31,ST-01,New York
+SKU-04,Water,Food,23.94,CST-713,"Graves, Williams and Morrison",OR-2257,137,191,2026-02-20,ST-06,Dallas
+SKU-55,Gloves,Sports,27.57,CST-002,Sawyer-Murphy,OR-9138,28,237,2026-02-25,ST-02,Los Angeles
+SKU-53,Yoga Mat,Sports,72.67,CST-920,Allen-Sanchez,OR-7998,75,767,2026-02-01,ST-02,Los Angeles
+SKU-33,Phone,Electronics,16.01,CST-938,Townsend LLC,OR-8555,221,866,2026-01-13,ST-04,Houston
+SKU-04,Tablet,Electronics,96.52,CST-794,"Smith, Jackson and Choi",OR-6497,614,812,2026-01-12,ST-01,New York
+SKU-04,Bike,Sports,42.46,CST-563,Buchanan PLC,OR-0919,296,730,2026-02-07,ST-03,Chicago
+SKU-82,Phone,Electronics,68.51,CST-125,Pierce-Hays,OR-8198,445,892,2026-01-01,ST-02,Los Angeles
+SKU-34,Desk,Home,68.66,CST-715,Brown-Zuniga,OR-9213,903,946,2026-02-23,ST-03,Chicago
+SKU-58,Desk,Home,87.44,CST-223,Wagner-Hunter,OR-5404,76,121,2026-02-02,ST-01,New York
+SKU-18,Chair,Home,75.45,CST-471,"Neal, Chavez and Ferguson",OR-8748,84,84,2026-01-16,ST-03,Chicago
+SKU-65,Coffee,Food,104.56,CST-784,"Wolfe, Rodriguez and Dawson",OR-9804,630,687,2026-03-04,ST-01,New York
+SKU-72,Gloves,Sports,42.22,CST-182,"Lewis, Osborne and Hurst",OR-3626,234,267,2026-02-19,ST-01,New York
+SKU-41,T-Shirt,Clothing,16.84,CST-082,Holden Ltd,OR-5072,449,967,2026-02-15,ST-01,New York
+SKU-31,Snacks,Food,111.39,CST-241,Watson Ltd,OR-9459,31,240,2026-01-21,ST-04,Houston
+SKU-41,Tea,Food,76.93,CST-172,"Perkins, Solomon and Mack",OR-8844,524,763,2026-02-08,ST-03,Chicago
+SKU-85,Laptop,Electronics,123.03,CST-551,Smith Inc,OR-7583,199,778,2026-02-21,ST-07,Washington
+SKU-61,Phone,Electronics,67.9,CST-491,"Wagner, Blair and Williams",OR-2351,342,738,2026-01-26,ST-05,Miami
+SKU-98,Laptop,Electronics,104.07,CST-564,Rogers and Sons,OR-0139,30,80,2026-03-10,ST-02,Los Angeles
+SKU-46,Coffee,Food,31.26,CST-773,"Farley, Little and Graham",OR-9801,37,578,2026-01-05,ST-01,New York
+SKU-44,Laptop,Electronics,53.49,CST-993,Kelley-Nguyen,OR-6560,521,526,2026-01-04,ST-03,Chicago
+SKU-27,Monitor,Electronics,34.91,CST-410,Atkins-Allen,OR-9539,149,220,2026-01-20,ST-06,Dallas
+SKU-88,Monitor,Electronics,62.31,CST-767,Wilson Inc,OR-4814,16,33,2026-01-01,ST-03,Chicago
+SKU-50,Jacket,Clothing,53.2,CST-371,Paul-Goodwin,OR-0539,504,705,2026-02-26,ST-01,New York
+SKU-84,Yoga Mat,Sports,73.93,CST-475,Simpson Ltd,OR-0189,122,821,2026-02-11,ST-05,Miami
+SKU-50,Chair,Home,95.51,CST-685,Riley Ltd,OR-5689,7,107,2026-01-28,ST-01,New York
+SKU-75,Water,Food,116.31,CST-354,"Curtis, Wright and Smith",OR-1144,77,493,2026-01-20,ST-04,Houston
+SKU-05,Desk,Home,17.85,CST-518,"Webb, Owen and Henry",OR-8416,52,100,2026-01-17,ST-05,Miami
+SKU-54,Dumbbells,Sports,120.11,CST-336,Blair Inc,OR-9729,1,83,2026-02-28,ST-07,Washington
+SKU-74,Phone,Electronics,109.92,CST-640,Smith-Bailey,OR-6830,722,908,2026-01-09,ST-04,Houston
+SKU-15,Tablet,Electronics,93.77,CST-026,Mitchell-Parker,OR-9204,112,594,2026-02-16,ST-07,Washington
+SKU-46,Chair,Home,69.76,CST-334,Morton-Jordan,OR-9884,84,406,2026-01-20,ST-03,Chicago
+SKU-48,Laptop,Electronics,123.93,CST-678,Suarez Group,OR-8533,77,122,2026-02-07,ST-07,Washington
+SKU-38,Pillow,Home,113.91,CST-859,Nelson-Taylor,OR-8637,189,454,2026-01-11,ST-02,Los Angeles
+SKU-99,Yoga Mat,Sports,27.43,CST-548,Andrade Ltd,OR-6590,79,170,2026-02-02,ST-05,Miami
+SKU-35,Desk,Home,94.67,CST-130,"Vasquez, Stephens and Guerra",OR-6779,227,532,2026-03-04,ST-07,Washington
+SKU-84,Yoga Mat,Sports,84.58,CST-050,Castillo-Munoz,OR-7584,94,305,2026-01-17,ST-05,Miami
+SKU-02,Gloves,Sports,104.17,CST-786,Robinson Inc,OR-4695,89,95,2026-01-13,ST-05,Miami
+SKU-99,Tablet,Electronics,67.84,CST-748,"Jones, Cook and Henderson",OR-7965,743,982,2026-03-02,ST-01,New York
+SKU-16,Pillow,Home,101.37,CST-789,"Ochoa, Gibson and Scott",OR-3326,80,912,2026-02-09,ST-04,Houston
+SKU-02,Lamp,Home,84.18,CST-697,"Arellano, Knight and Robbins",OR-9583,213,413,2026-02-09,ST-07,Washington
+SKU-91,Bike,Sports,103.98,CST-941,Sloan LLC,OR-9136,402,767,2026-01-06,ST-01,New York
+SKU-02,Jacket,Clothing,96.82,CST-165,Hicks-Price,OR-4354,428,545,2026-01-13,ST-04,Houston
+SKU-08,Lamp,Home,63.43,CST-799,"Kramer, Rodriguez and Owen",OR-0318,252,762,2026-02-21,ST-02,Los Angeles
+SKU-90,Monitor,Electronics,58.71,CST-385,"Jefferson, Webb and Miller",OR-5499,161,475,2026-03-02,ST-07,Washington
+SKU-71,Bike,Sports,55.52,CST-121,"Davis, Meyer and Le",OR-2472,54,244,2026-02-26,ST-01,New York
+SKU-52,Phone,Electronics,101.14,CST-109,Ingram and Sons,OR-2799,150,360,2026-02-18,ST-07,Washington
+SKU-84,Lamp,Home,34.07,CST-278,Blair and Sons,OR-1896,214,457,2026-02-14,ST-03,Chicago
+SKU-84,Yoga Mat,Sports,25.48,CST-899,Gordon Ltd,OR-1765,109,425,2026-02-26,ST-02,Los Angeles
+SKU-75,Snacks,Food,88.97,CST-076,"Nelson, Bryant and Davis",OR-4537,335,376,2026-03-06,ST-02,Los Angeles
+SKU-39,Jeans,Clothing,71.41,CST-478,Atkins Inc,OR-6792,8,267,2026-01-02,ST-07,Washington
+SKU-57,Jeans,Clothing,63.36,CST-992,"Wilson, Parker and Perez",OR-5344,171,586,2026-01-18,ST-01,New York
+SKU-56,Pillow,Home,21.53,CST-643,"Gonzales, Wise and Adams",OR-6468,516,581,2026-01-09,ST-03,Chicago
+SKU-50,Coffee,Food,30.09,CST-675,"Eaton, Fletcher and Buck",OR-3444,3,19,2026-01-27,ST-07,Washington
+SKU-82,Pillow,Home,47.51,CST-822,"Johnson, Anderson and Lin",OR-3609,155,694,2026-03-09,ST-04,Houston
+SKU-62,Jacket,Clothing,122.14,CST-097,Gutierrez Inc,OR-6086,230,550,2026-02-04,ST-05,Miami
+SKU-72,Monitor,Electronics,30.18,CST-880,King Ltd,OR-6161,12,412,2026-02-11,ST-06,Dallas
+SKU-93,Bike,Sports,84.95,CST-690,"Smith, Howe and Ferguson",OR-0084,140,304,2026-01-18,ST-03,Chicago
+SKU-90,T-Shirt,Clothing,117.58,CST-238,Brennan-Black,OR-2872,181,559,2026-02-16,ST-05,Miami
+SKU-34,Chair,Home,24.76,CST-530,Carr-Williams,OR-4260,345,812,2026-01-30,ST-04,Houston
+SKU-75,Chair,Home,21.78,CST-802,"Campbell, Carpenter and Ali",OR-2406,74,172,2026-03-08,ST-03,Chicago
+SKU-97,Chair,Home,19.51,CST-204,Gomez-Finley,OR-1763,44,218,2026-02-03,ST-02,Los Angeles
+SKU-70,Gloves,Sports,79.49,CST-962,"Johnson, Torres and Andersen",OR-5556,352,728,2026-01-01,ST-07,Washington
+SKU-61,Dumbbells,Sports,88.54,CST-640,"Shelton, Spears and Adams",OR-4831,586,593,2026-03-09,ST-06,Dallas
+SKU-85,Monitor,Electronics,37.48,CST-011,"Lester, Vasquez and Welch",OR-6001,586,885,2026-01-28,ST-05,Miami
+SKU-08,Monitor,Electronics,74.94,CST-941,Maynard-West,OR-3729,323,508,2026-01-03,ST-05,Miami
+SKU-20,Chair,Home,72.35,CST-825,Long-Gonzalez,OR-6771,76,221,2026-01-06,ST-07,Washington
+SKU-34,Laptop,Electronics,26.77,CST-070,"Fitzgerald, Greene and Hoover",OR-5417,172,599,2026-03-07,ST-06,Dallas
+SKU-49,Chair,Home,24.7,CST-505,Myers PLC,OR-2858,360,419,2026-02-27,ST-06,Dallas
+SKU-88,Tea,Food,48.3,CST-951,Wise and Sons,OR-2776,401,417,2026-02-05,ST-04,Houston
+SKU-00,Dumbbells,Sports,22.39,CST-764,"Barber, White and Wood",OR-2331,663,835,2026-02-10,ST-04,Houston
+SKU-34,Bike,Sports,100.59,CST-626,Smith LLC,OR-7035,180,284,2026-01-14,ST-01,New York
+SKU-73,Water,Food,58.94,CST-284,Hall Inc,OR-7987,147,315,2026-02-11,ST-05,Miami
+SKU-18,Water,Food,112.78,CST-127,Roman PLC,OR-1273,614,722,2026-03-05,ST-06,Dallas
+SKU-12,Tablet,Electronics,88.71,CST-015,Murray Group,OR-7426,195,836,2026-02-16,ST-06,Dallas
+SKU-43,Tea,Food,63.62,CST-952,"Spence, Moses and Ray",OR-0144,9,13,2026-02-25,ST-02,Los Angeles
+SKU-64,Shoes,Clothing,59.45,CST-190,"Oconnell, Holt and Lara",OR-4052,406,575,2026-02-03,ST-07,Washington
+SKU-92,Gloves,Sports,115.64,CST-489,"Thomas, Mann and Mccall",OR-8439,650,682,2026-01-14,ST-01,New York
+SKU-45,Laptop,Electronics,100.35,CST-967,Kelly-Phillips,OR-1361,207,321,2026-02-28,ST-05,Miami
+SKU-26,T-Shirt,Clothing,116.29,CST-900,"Gregory, Wang and Hunter",OR-9894,111,941,2026-01-13,ST-02,Los Angeles
+SKU-47,Jacket,Clothing,72.73,CST-198,"Garcia, Stout and Stevenson",OR-5426,9,713,2026-03-01,ST-03,Chicago
+SKU-36,Desk,Home,112.18,CST-960,Strong Ltd,OR-4296,506,607,2026-02-26,ST-02,Los Angeles
+SKU-85,Tea,Food,97.0,CST-911,Gould-Gibson,OR-0754,63,319,2026-01-17,ST-05,Miami
+SKU-83,Chair,Home,61.1,CST-540,"Moran, Morales and Gardner",OR-7000,302,487,2026-02-13,ST-04,Houston
+SKU-69,Pillow,Home,38.44,CST-499,Tucker PLC,OR-4302,132,195,2026-01-29,ST-07,Washington
+SKU-82,Monitor,Electronics,83.76,CST-718,Hernandez-Newman,OR-1026,540,934,2026-01-09,ST-02,Los Angeles
+SKU-34,Jacket,Clothing,124.21,CST-513,Todd-Chen,OR-9920,1,799,2026-01-06,ST-06,Dallas
+SKU-59,Coffee,Food,103.05,CST-086,"Crawford, George and Erickson",OR-3062,597,670,2026-02-02,ST-02,Los Angeles
+SKU-83,Dumbbells,Sports,89.34,CST-538,"Scott, Silva and Harrison",OR-2977,61,196,2026-02-18,ST-01,New York
+SKU-02,Yoga Mat,Sports,45.37,CST-287,Guzman-Robinson,OR-2212,167,710,2026-02-18,ST-07,Washington
+SKU-12,T-Shirt,Clothing,114.2,CST-457,Hines and Sons,OR-7371,36,923,2026-02-15,ST-02,Los Angeles
+SKU-65,Gloves,Sports,21.74,CST-447,Taylor Group,OR-2608,92,193,2026-01-05,ST-05,Miami
+SKU-09,Tea,Food,52.51,CST-110,"Fisher, Davila and Page",OR-0020,19,19,2026-01-16,ST-01,New York
+SKU-99,Phone,Electronics,44.83,CST-333,Thomas Group,OR-9138,315,851,2026-02-28,ST-05,Miami
+SKU-01,Laptop,Electronics,78.16,CST-208,Gutierrez-Clark,OR-6507,392,624,2026-01-22,ST-07,Washington
+SKU-77,Shoes,Clothing,74.43,CST-774,Molina-Lewis,OR-6697,22,906,2026-02-20,ST-04,Houston
+SKU-82,Desk,Home,109.46,CST-030,Reese PLC,OR-9966,556,741,2026-01-28,ST-04,Houston
+SKU-27,Chair,Home,20.38,CST-143,Gonzalez Group,OR-7209,97,794,2026-01-11,ST-04,Houston
+SKU-46,Tea,Food,69.71,CST-942,"Brown, Fields and Johnson",OR-5780,130,150,2026-02-25,ST-01,New York
+SKU-40,Chair,Home,33.12,CST-944,Glenn-Zavala,OR-6855,339,645,2026-02-05,ST-03,Chicago
+SKU-92,Jacket,Clothing,24.94,CST-913,"Mathis, Lopez and Baker",OR-3155,488,882,2026-01-05,ST-06,Dallas
+SKU-66,Water,Food,106.72,CST-109,"Morris, Casey and Terrell",OR-8948,54,564,2026-01-17,ST-05,Miami
+SKU-02,T-Shirt,Clothing,98.02,CST-188,Dixon-Fox,OR-1659,31,81,2026-01-07,ST-02,Los Angeles
+SKU-00,Desk,Home,69.56,CST-321,Wilson Inc,OR-4461,230,761,2026-03-10,ST-05,Miami
+SKU-16,Snacks,Food,115.99,CST-873,"Contreras, Williamson and Perez",OR-0037,86,418,2026-01-01,ST-03,Chicago
+SKU-14,Tablet,Electronics,70.28,CST-871,Ponce-Cole,OR-4538,44,292,2026-01-05,ST-07,Washington
+SKU-45,Tablet,Electronics,59.07,CST-877,Hudson-Hutchinson,OR-5320,38,251,2026-02-07,ST-06,Dallas
+SKU-86,Lamp,Home,66.32,CST-822,Gutierrez Ltd,OR-4198,75,89,2026-02-03,ST-02,Los Angeles
+SKU-03,Monitor,Electronics,60.74,CST-231,Martinez PLC,OR-4261,54,65,2026-03-02,ST-06,Dallas
+SKU-48,Bike,Sports,122.35,CST-209,"Gonzalez, Shaw and Wilson",OR-7555,563,819,2026-01-08,ST-07,Washington
+SKU-90,Jacket,Clothing,114.45,CST-693,Taylor-Hall,OR-1565,67,190,2026-02-12,ST-02,Los Angeles
+SKU-51,Coffee,Food,35.81,CST-549,Wilcox-Newman,OR-9301,85,144,2026-03-09,ST-03,Chicago
+SKU-67,Chair,Home,34.76,CST-926,"Ramos, Pollard and Pope",OR-8241,226,232,2026-02-13,ST-02,Los Angeles
+SKU-45,Phone,Electronics,28.42,CST-605,Bradford PLC,OR-3836,597,903,2026-01-18,ST-05,Miami
+SKU-58,Dumbbells,Sports,88.54,CST-826,Tate-Moreno,OR-6117,86,244,2026-02-13,ST-05,Miami
+SKU-41,Snacks,Food,100.14,CST-020,"Ramirez, Brown and Gonzalez",OR-4373,531,988,2026-01-18,ST-01,New York
+SKU-53,Tablet,Electronics,69.78,CST-158,"Soto, Petty and Fernandez",OR-8165,194,667,2026-01-17,ST-04,Houston
+SKU-29,Desk,Home,38.66,CST-203,White Ltd,OR-9410,4,18,2026-03-03,ST-04,Houston
+SKU-65,Laptop,Electronics,52.01,CST-455,Hensley-Miller,OR-5680,18,346,2026-01-07,ST-03,Chicago
+SKU-09,T-Shirt,Clothing,95.38,CST-915,"Snyder, Mann and Carlson",OR-4082,163,810,2026-02-21,ST-05,Miami
+SKU-88,Gloves,Sports,75.4,CST-704,Garcia LLC,OR-4639,449,910,2026-02-12,ST-06,Dallas
+SKU-24,Tea,Food,103.2,CST-256,Griffin-Williams,OR-1193,530,702,2026-01-12,ST-05,Miami
+SKU-75,Tablet,Electronics,16.59,CST-111,Spencer Inc,OR-7759,232,988,2026-03-08,ST-03,Chicago
+SKU-26,Phone,Electronics,24.23,CST-932,Vincent PLC,OR-8261,212,223,2026-01-19,ST-01,New York
+SKU-50,Lamp,Home,95.14,CST-664,Martin Group,OR-3740,150,297,2026-01-02,ST-03,Chicago
+SKU-51,Jeans,Clothing,108.07,CST-771,Grant LLC,OR-1947,45,549,2026-02-23,ST-07,Washington
+SKU-32,Tea,Food,71.17,CST-605,Nunez Group,OR-7592,298,615,2026-01-21,ST-06,Dallas
+SKU-07,Shoes,Clothing,73.66,CST-286,Baker-Watkins,OR-8554,306,736,2026-02-11,ST-01,New York
+SKU-29,Desk,Home,103.65,CST-910,"Flores, Kim and Rivera",OR-6710,284,492,2026-01-02,ST-04,Houston
+SKU-05,Bike,Sports,108.01,CST-806,Schmidt Group,OR-6190,395,623,2026-02-25,ST-07,Washington
+SKU-83,Chair,Home,63.38,CST-916,"Brown, Mahoney and Potter",OR-3046,127,351,2026-03-06,ST-05,Miami
+SKU-55,Dumbbells,Sports,124.97,CST-772,Hall PLC,OR-4360,68,564,2026-01-08,ST-05,Miami
+SKU-02,Gloves,Sports,50.42,CST-692,"Castro, Mills and Bell",OR-6972,79,178,2026-01-11,ST-06,Dallas
+SKU-64,T-Shirt,Clothing,51.42,CST-822,Arellano Ltd,OR-5713,124,199,2026-01-21,ST-07,Washington
+SKU-48,Tea,Food,31.01,CST-217,Valencia and Sons,OR-4393,148,542,2026-01-01,ST-04,Houston
+SKU-77,Bike,Sports,60.11,CST-081,Powers Group,OR-6528,316,547,2026-02-06,ST-04,Houston
+SKU-40,Coffee,Food,29.11,CST-282,Miller-Richardson,OR-1594,115,274,2026-01-06,ST-07,Washington
+SKU-76,Jacket,Clothing,108.75,CST-408,"Jackson, Smith and Anthony",OR-5366,302,638,2026-01-29,ST-05,Miami
+SKU-97,Pillow,Home,83.56,CST-386,Bradford-Nichols,OR-3562,248,705,2026-02-16,ST-07,Washington
+SKU-93,Gloves,Sports,58.34,CST-895,Thomas Inc,OR-5263,177,373,2026-01-30,ST-07,Washington
+SKU-13,Laptop,Electronics,31.43,CST-713,Gilmore PLC,OR-7793,294,617,2026-01-08,ST-02,Los Angeles
+SKU-54,Snacks,Food,32.82,CST-776,Oneill and Sons,OR-7665,42,168,2026-02-26,ST-03,Chicago
+SKU-07,Chair,Home,42.93,CST-258,"Mueller, Lawson and Galvan",OR-8501,14,583,2026-01-15,ST-03,Chicago
+SKU-94,Coffee,Food,41.79,CST-820,"Smith, Chen and Mccall",OR-3702,11,17,2026-02-27,ST-03,Chicago
+SKU-61,Snacks,Food,100.5,CST-274,Ray Group,OR-3721,10,110,2026-02-20,ST-07,Washington
+SKU-51,Snacks,Food,72.31,CST-048,Manning Ltd,OR-9135,473,848,2026-03-06,ST-07,Washington
+SKU-03,Gloves,Sports,100.55,CST-302,"Williams, Juarez and Boyd",OR-9410,93,157,2026-02-13,ST-06,Dallas
+SKU-37,Tablet,Electronics,120.92,CST-218,Sullivan and Sons,OR-0152,5,38,2026-01-03,ST-07,Washington
+SKU-61,Jeans,Clothing,67.54,CST-163,Klein-Ramirez,OR-6855,30,35,2026-01-31,ST-02,Los Angeles
+SKU-17,Dumbbells,Sports,18.78,CST-533,"Wright, Gonzalez and Hansen",OR-8249,16,153,2026-02-13,ST-04,Houston
+SKU-80,Coffee,Food,17.98,CST-580,Graham Group,OR-5847,10,69,2026-01-27,ST-07,Washington
+SKU-80,Tea,Food,52.87,CST-628,Santiago Inc,OR-5089,400,601,2026-01-12,ST-06,Dallas
+SKU-99,Bike,Sports,118.8,CST-012,"Garcia, Nelson and Davis",OR-9576,204,508,2026-02-12,ST-05,Miami
+SKU-98,Snacks,Food,22.07,CST-970,Raymond and Sons,OR-6826,34,219,2026-03-01,ST-05,Miami
+SKU-05,Snacks,Food,111.2,CST-375,Castro Inc,OR-5701,44,379,2026-01-08,ST-06,Dallas
+SKU-99,Monitor,Electronics,19.92,CST-226,"Harris, Peterson and Bates",OR-8945,9,10,2026-03-10,ST-06,Dallas
+SKU-30,Monitor,Electronics,93.11,CST-132,Gilbert Group,OR-9533,137,224,2026-01-09,ST-03,Chicago
+SKU-69,Monitor,Electronics,117.15,CST-306,"Barry, Washington and Soto",OR-8734,287,377,2026-01-27,ST-01,New York
+SKU-09,Monitor,Electronics,125.56,CST-977,Patterson-Mosley,OR-8830,71,335,2026-01-22,ST-04,Houston
+SKU-21,Monitor,Electronics,17.98,CST-448,Benitez Ltd,OR-3571,279,584,2026-02-17,ST-05,Miami
+SKU-55,Shoes,Clothing,51.43,CST-753,Dougherty Ltd,OR-8245,783,944,2026-02-10,ST-05,Miami
+SKU-89,Jacket,Clothing,95.28,CST-204,Hensley PLC,OR-0694,1,13,2026-01-22,ST-06,Dallas
+SKU-63,T-Shirt,Clothing,112.46,CST-187,Edwards-Turner,OR-9144,544,675,2026-01-25,ST-06,Dallas
+SKU-53,Water,Food,69.16,CST-563,Gregory Ltd,OR-3614,8,488,2026-02-02,ST-01,New York
+SKU-25,Dumbbells,Sports,114.63,CST-453,Bell-Harrison,OR-6728,653,721,2026-02-02,ST-01,New York
+SKU-40,Bike,Sports,19.4,CST-264,Freeman and Sons,OR-0500,41,509,2026-02-17,ST-01,New York
+SKU-22,Jacket,Clothing,31.02,CST-814,Martin-Wilkerson,OR-6714,606,671,2026-02-25,ST-05,Miami
+SKU-71,Bike,Sports,120.86,CST-079,Bush-Mason,OR-6203,53,818,2026-01-11,ST-01,New York
+SKU-16,Water,Food,29.08,CST-810,"Herring, Garrett and Williams",OR-5524,106,534,2026-01-14,ST-06,Dallas
+SKU-85,Dumbbells,Sports,86.34,CST-412,"Wood, Newman and Green",OR-0976,466,630,2026-02-14,ST-07,Washington
+SKU-27,Monitor,Electronics,71.88,CST-788,"Brown, Patterson and Obrien",OR-1660,176,963,2026-02-09,ST-04,Houston
+SKU-95,Monitor,Electronics,102.05,CST-019,"Arias, Cunningham and Robinson",OR-6181,15,184,2026-02-05,ST-05,Miami
+SKU-10,Jacket,Clothing,102.21,CST-488,Hamilton Group,OR-6729,8,978,2026-02-12,ST-07,Washington
+SKU-59,Jeans,Clothing,76.02,CST-530,Wilson and Sons,OR-7812,532,796,2026-01-27,ST-04,Houston
+SKU-29,Tablet,Electronics,66.48,CST-546,Montgomery PLC,OR-4131,166,204,2026-01-04,ST-07,Washington
+SKU-35,Jacket,Clothing,52.72,CST-117,Young Group,OR-6621,200,233,2026-02-11,ST-01,New York
+SKU-06,Pillow,Home,68.83,CST-342,Williams-Shah,OR-5210,553,769,2026-01-17,ST-03,Chicago
+SKU-36,Monitor,Electronics,19.07,CST-889,"Smith, Carson and Lopez",OR-4089,246,354,2026-02-18,ST-02,Los Angeles
+SKU-05,Monitor,Electronics,103.24,CST-102,Johnston PLC,OR-2725,70,171,2026-02-04,ST-03,Chicago
+SKU-80,Phone,Electronics,23.69,CST-672,"Rodriguez, Shaw and Dillon",OR-6082,243,264,2026-01-26,ST-02,Los Angeles
+SKU-97,Lamp,Home,106.16,CST-828,Ortiz-Lewis,OR-7902,354,392,2026-02-21,ST-02,Los Angeles
+SKU-37,Monitor,Electronics,25.55,CST-496,Love Group,OR-7283,520,717,2026-02-17,ST-07,Washington
+SKU-53,Chair,Home,76.9,CST-700,"Daniel, Nelson and Hart",OR-3908,18,41,2026-03-01,ST-07,Washington
+SKU-67,Tablet,Electronics,81.1,CST-384,Webster-Johnson,OR-1961,656,981,2026-02-19,ST-03,Chicago
+SKU-46,Bike,Sports,82.77,CST-753,Miller-Rios,OR-8030,523,589,2026-01-28,ST-05,Miami
+SKU-67,Chair,Home,124.17,CST-273,Hurley-Davis,OR-6607,149,341,2026-02-22,ST-02,Los Angeles
+SKU-93,Gloves,Sports,107.51,CST-222,Hunter-Lang,OR-5561,97,370,2026-02-22,ST-03,Chicago
+SKU-85,Tea,Food,114.71,CST-687,Morales-Scott,OR-5028,111,327,2026-01-03,ST-03,Chicago
+SKU-14,Yoga Mat,Sports,36.91,CST-882,"Hancock, Anderson and Allen",OR-3815,266,539,2026-02-14,ST-07,Washington
+SKU-63,Yoga Mat,Sports,49.61,CST-698,Cohen-Wheeler,OR-7340,400,824,2026-02-15,ST-03,Chicago
+SKU-58,Chair,Home,90.98,CST-344,"Fletcher, Fernandez and Turner",OR-1206,102,383,2026-02-09,ST-05,Miami
+SKU-93,Jacket,Clothing,121.44,CST-480,Shaffer-Berg,OR-4953,190,681,2026-03-08,ST-05,Miami
+SKU-98,Chair,Home,25.85,CST-992,"Adams, Swanson and Salas",OR-5319,147,648,2026-01-20,ST-03,Chicago
+SKU-98,Phone,Electronics,118.86,CST-738,"Fisher, Stevens and Davis",OR-7927,20,61,2026-01-10,ST-01,New York
+SKU-04,Desk,Home,27.85,CST-653,Jenkins Inc,OR-2765,648,745,2026-01-17,ST-02,Los Angeles
+SKU-63,Snacks,Food,82.5,CST-241,Taylor and Sons,OR-8652,68,230,2026-03-04,ST-04,Houston
+SKU-66,Laptop,Electronics,72.22,CST-264,Mathews-Johnson,OR-9718,49,998,2026-02-07,ST-06,Dallas
+SKU-75,Gloves,Sports,43.92,CST-358,Roberson and Sons,OR-1188,392,433,2026-01-13,ST-02,Los Angeles
+SKU-53,Desk,Home,62.41,CST-238,Johnson LLC,OR-2324,35,61,2026-01-08,ST-03,Chicago
+SKU-24,Desk,Home,24.87,CST-635,"Mitchell, Jimenez and Knapp",OR-4985,314,387,2026-01-29,ST-06,Dallas
+SKU-11,T-Shirt,Clothing,95.53,CST-331,Salinas-Pearson,OR-3607,607,950,2026-01-15,ST-02,Los Angeles
+SKU-50,Water,Food,49.63,CST-586,"Martin, Gray and Clark",OR-2108,26,27,2026-01-22,ST-01,New York
+SKU-88,Jacket,Clothing,24.18,CST-754,"Berger, Sanders and Martinez",OR-1980,860,980,2026-02-19,ST-06,Dallas
+SKU-06,Snacks,Food,68.61,CST-826,"Duran, Mcmillan and Webster",OR-8156,33,383,2026-02-13,ST-04,Houston
+SKU-93,Monitor,Electronics,24.42,CST-775,"Eaton, Gonzalez and Long",OR-7952,18,221,2026-01-17,ST-04,Houston
+SKU-29,Water,Food,109.12,CST-512,Velez-Faulkner,OR-2891,79,677,2026-02-28,ST-02,Los Angeles
+SKU-95,Gloves,Sports,112.91,CST-933,Silva LLC,OR-1696,206,274,2026-01-18,ST-06,Dallas
+SKU-44,Gloves,Sports,103.83,CST-128,Mccarthy-Powell,OR-0352,27,943,2026-02-11,ST-04,Houston
+SKU-32,T-Shirt,Clothing,84.92,CST-507,"Ware, Smith and Smith",OR-4187,124,336,2026-02-26,ST-04,Houston
+SKU-74,Phone,Electronics,78.29,CST-457,Zimmerman LLC,OR-6193,96,113,2026-02-20,ST-01,New York
+SKU-50,Bike,Sports,76.26,CST-011,"Wheeler, Johnson and Barnes",OR-9629,219,327,2026-01-18,ST-05,Miami
+SKU-40,Jeans,Clothing,59.71,CST-595,Lawson PLC,OR-6170,289,953,2026-02-11,ST-01,New York
+SKU-98,Shoes,Clothing,60.45,CST-409,"Clark, Garza and Mckinney",OR-5534,55,77,2026-03-08,ST-03,Chicago
+SKU-16,Yoga Mat,Sports,72.16,CST-754,Clark Ltd,OR-5360,44,106,2026-02-11,ST-06,Dallas
+SKU-14,Water,Food,37.6,CST-780,Lyons Group,OR-7142,120,231,2026-01-29,ST-03,Chicago
+SKU-36,Yoga Mat,Sports,57.93,CST-759,Dawson-Holt,OR-8630,31,731,2026-01-10,ST-02,Los Angeles
+SKU-51,Snacks,Food,41.05,CST-162,"Fields, Young and May",OR-4922,71,756,2026-01-04,ST-03,Chicago
+SKU-12,Tea,Food,78.04,CST-081,"Smith, Olsen and James",OR-8955,301,657,2026-01-05,ST-06,Dallas
+SKU-06,Jacket,Clothing,48.44,CST-195,Green-Cline,OR-5277,499,520,2026-02-24,ST-01,New York
+SKU-05,Jeans,Clothing,44.95,CST-345,Adams-Hopkins,OR-0994,44,974,2026-03-05,ST-01,New York
+SKU-23,Water,Food,74.0,CST-217,Guerrero and Sons,OR-1775,49,916,2026-02-02,ST-07,Washington
+SKU-18,Monitor,Electronics,24.23,CST-558,Garcia PLC,OR-1289,549,764,2026-01-17,ST-01,New York
+SKU-17,T-Shirt,Clothing,63.75,CST-521,Bradford PLC,OR-2601,643,878,2026-01-01,ST-02,Los Angeles
+SKU-10,Shoes,Clothing,93.64,CST-495,Reynolds Ltd,OR-0568,176,560,2026-03-09,ST-05,Miami
+SKU-82,Dumbbells,Sports,115.33,CST-945,Schwartz Inc,OR-8810,48,262,2026-01-08,ST-07,Washington
+SKU-83,Jacket,Clothing,45.71,CST-089,"Thomas, Morton and Lewis",OR-5144,167,226,2026-02-15,ST-07,Washington
+SKU-08,Phone,Electronics,102.2,CST-660,"Banks, Smith and Brown",OR-8945,2,400,2026-03-05,ST-05,Miami
+SKU-80,Tea,Food,117.86,CST-376,Drake-Russell,OR-3933,16,23,2026-01-16,ST-03,Chicago
+SKU-71,Snacks,Food,121.77,CST-785,Caldwell PLC,OR-9177,548,731,2026-01-03,ST-03,Chicago
+SKU-37,Chair,Home,59.53,CST-355,Smith-Barnes,OR-3889,218,315,2026-03-02,ST-07,Washington
+SKU-46,Snacks,Food,61.35,CST-553,Miller-Davis,OR-7079,255,762,2026-02-09,ST-06,Dallas
+SKU-36,Laptop,Electronics,105.61,CST-581,"Ward, King and Ellis",OR-3008,424,743,2026-01-27,ST-06,Dallas
+SKU-13,Dumbbells,Sports,104.99,CST-798,"Anderson, Wong and Gonzalez",OR-8502,131,755,2026-01-12,ST-05,Miami
+SKU-52,Snacks,Food,58.3,CST-672,Brown-Roberts,OR-9814,524,884,2026-01-31,ST-03,Chicago
+SKU-90,Lamp,Home,95.92,CST-046,Santos PLC,OR-0593,432,742,2026-01-25,ST-01,New York
+SKU-62,Pillow,Home,16.67,CST-761,"Jackson, Young and Buchanan",OR-1970,286,565,2026-01-19,ST-07,Washington
+SKU-10,Lamp,Home,77.32,CST-587,Montoya-Hoffman,OR-7219,209,424,2026-02-08,ST-03,Chicago
+SKU-93,T-Shirt,Clothing,70.62,CST-650,Johnson-Sharp,OR-7142,133,227,2026-02-20,ST-04,Houston
+SKU-76,Monitor,Electronics,107.35,CST-528,"Russell, Johnson and Johnson",OR-0614,111,147,2026-03-06,ST-04,Houston
+SKU-10,Bike,Sports,102.72,CST-428,Bailey-Mclean,OR-7863,168,222,2026-02-13,ST-07,Washington
+SKU-69,Dumbbells,Sports,81.36,CST-863,Humphrey Ltd,OR-0087,15,549,2026-02-09,ST-04,Houston
+SKU-76,Chair,Home,108.97,CST-718,"Harrington, Miles and Sanchez",OR-5448,134,207,2026-01-28,ST-07,Washington
+SKU-97,Coffee,Food,69.12,CST-786,"Burns, Diaz and Evans",OR-6493,641,867,2026-02-28,ST-02,Los Angeles
+SKU-17,Laptop,Electronics,117.82,CST-757,Garrett-Ali,OR-6517,6,120,2026-02-22,ST-03,Chicago
+SKU-69,T-Shirt,Clothing,87.04,CST-152,Love-Brown,OR-7390,456,520,2026-03-07,ST-01,New York
+SKU-35,Jacket,Clothing,124.92,CST-107,"Chapman, Vega and Brooks",OR-0980,296,698,2026-02-11,ST-02,Los Angeles
+SKU-07,Yoga Mat,Sports,99.81,CST-517,Williams PLC,OR-9033,267,522,2026-01-03,ST-06,Dallas
+SKU-50,Phone,Electronics,31.42,CST-662,Martin-Barnes,OR-8108,391,620,2026-01-01,ST-05,Miami
+SKU-87,Jacket,Clothing,125.68,CST-141,Mckee Group,OR-5224,325,981,2026-02-19,ST-02,Los Angeles
+SKU-63,Jacket,Clothing,101.63,CST-868,Parker Group,OR-4175,202,350,2026-02-15,ST-01,New York
+SKU-12,Chair,Home,107.13,CST-176,Chapman-Mullins,OR-0694,483,507,2026-01-10,ST-02,Los Angeles
+SKU-77,Snacks,Food,17.3,CST-291,Norton PLC,OR-3118,64,458,2026-01-18,ST-04,Houston
+SKU-20,Gloves,Sports,116.08,CST-250,Powell LLC,OR-7902,18,565,2026-01-28,ST-05,Miami
+SKU-57,Jeans,Clothing,112.66,CST-060,"Wood, Diaz and Ortiz",OR-8257,510,863,2026-01-18,ST-05,Miami
+SKU-23,Tea,Food,42.78,CST-513,Holden-Baldwin,OR-7021,143,649,2026-02-09,ST-01,New York
+SKU-97,Jeans,Clothing,65.67,CST-898,Griffin-Bradshaw,OR-7898,28,139,2026-03-01,ST-07,Washington
+SKU-39,Monitor,Electronics,75.66,CST-622,"Barnes, Daniels and Johnson",OR-0599,148,339,2026-03-02,ST-03,Chicago
+SKU-32,Snacks,Food,118.72,CST-230,Stanley Group,OR-7726,159,327,2026-01-15,ST-04,Houston
+SKU-98,T-Shirt,Clothing,47.14,CST-976,"Morris, Shepherd and Hart",OR-4156,683,769,2026-03-04,ST-07,Washington
+SKU-80,Desk,Home,30.44,CST-331,Stanton Group,OR-0029,165,797,2026-01-02,ST-04,Houston
+SKU-27,Yoga Mat,Sports,97.48,CST-079,Parker Inc,OR-3917,201,968,2026-02-26,ST-03,Chicago
+SKU-74,Jacket,Clothing,71.62,CST-424,Wilson-Walker,OR-3836,20,613,2026-02-20,ST-03,Chicago
+SKU-11,Yoga Mat,Sports,111.53,CST-532,Rhodes Inc,OR-5350,410,605,2026-01-15,ST-07,Washington
+SKU-31,Monitor,Electronics,54.73,CST-565,Estrada PLC,OR-3882,164,219,2026-01-31,ST-05,Miami
+SKU-75,Monitor,Electronics,118.27,CST-744,Salas Inc,OR-4073,548,754,2026-02-20,ST-03,Chicago
+SKU-32,Monitor,Electronics,78.88,CST-885,Hoffman LLC,OR-3855,129,360,2026-03-10,ST-02,Los Angeles
+SKU-13,Tea,Food,98.57,CST-371,"Gallegos, Kennedy and Haney",OR-6471,534,832,2026-01-27,ST-05,Miami
+SKU-69,Shoes,Clothing,64.02,CST-803,Robinson-Harris,OR-4680,323,548,2026-03-10,ST-02,Los Angeles
+SKU-00,Yoga Mat,Sports,83.41,CST-786,"Boone, Vaughn and Price",OR-5084,8,131,2026-02-24,ST-06,Dallas
+SKU-75,Lamp,Home,47.05,CST-902,Carter-Johnson,OR-2576,217,586,2026-03-06,ST-02,Los Angeles
+SKU-23,Pillow,Home,31.02,CST-307,"Curry, Lee and Brooks",OR-3612,529,654,2026-03-05,ST-05,Miami
+SKU-68,Jacket,Clothing,76.83,CST-417,Fowler LLC,OR-3617,361,407,2026-01-08,ST-04,Houston
+SKU-75,Bike,Sports,58.69,CST-009,Clark-Hall,OR-8051,127,226,2026-03-07,ST-04,Houston
+SKU-99,Desk,Home,89.12,CST-591,"Castillo, Adkins and Maddox",OR-0892,652,669,2026-02-11,ST-07,Washington
+SKU-47,T-Shirt,Clothing,87.45,CST-722,"Barnes, Vang and Chavez",OR-9651,214,360,2026-02-07,ST-01,New York
+SKU-62,Tablet,Electronics,104.4,CST-136,Harris-Sandoval,OR-9926,634,726,2026-01-11,ST-01,New York
+SKU-85,Dumbbells,Sports,49.37,CST-730,Pope-Wagner,OR-3247,172,368,2026-01-02,ST-04,Houston
+SKU-63,Dumbbells,Sports,85.9,CST-455,Villa-Travis,OR-1246,137,803,2026-03-02,ST-05,Miami
+SKU-45,Bike,Sports,76.12,CST-536,Riddle and Sons,OR-4884,15,155,2026-02-11,ST-03,Chicago
+SKU-94,Laptop,Electronics,33.41,CST-022,"Singh, Wright and Flores",OR-6809,114,520,2026-01-21,ST-02,Los Angeles
+SKU-38,Chair,Home,42.52,CST-515,"Richardson, Smith and Butler",OR-4091,0,0,2026-01-07,ST-06,Dallas
+SKU-50,Jeans,Clothing,52.45,CST-481,"Jones, Nielsen and Matthews",OR-1058,791,892,2026-02-19,ST-02,Los Angeles
+SKU-75,Tea,Food,94.39,CST-450,Russell-Clayton,OR-5893,320,807,2026-02-06,ST-06,Dallas
+SKU-74,Coffee,Food,49.53,CST-550,Short and Sons,OR-1892,95,656,2026-02-04,ST-03,Chicago
+SKU-41,Bike,Sports,123.47,CST-065,Gonzalez Group,OR-6147,26,236,2026-02-10,ST-03,Chicago
+SKU-03,Desk,Home,61.63,CST-429,Kline Group,OR-4526,343,763,2026-01-23,ST-01,New York
+SKU-20,Chair,Home,55.67,CST-007,Morris-Knight,OR-4651,57,113,2026-01-29,ST-07,Washington
+SKU-09,Yoga Mat,Sports,39.62,CST-886,Washington-Fuller,OR-3574,856,903,2026-01-15,ST-07,Washington
+SKU-20,Jeans,Clothing,26.05,CST-580,Robinson PLC,OR-0501,38,42,2026-02-05,ST-04,Houston
+SKU-31,Water,Food,35.0,CST-542,Moore and Sons,OR-9643,757,759,2026-02-26,ST-05,Miami
+SKU-16,Tea,Food,84.58,CST-238,Knight Inc,OR-2236,119,147,2026-02-13,ST-06,Dallas
+SKU-65,Coffee,Food,90.44,CST-511,Khan-Torres,OR-6438,392,620,2026-02-28,ST-05,Miami
+SKU-28,Gloves,Sports,74.06,CST-721,Sanchez Ltd,OR-8885,349,671,2026-01-12,ST-03,Chicago
+SKU-03,Shoes,Clothing,53.08,CST-445,Gonzalez LLC,OR-7305,41,152,2026-01-17,ST-03,Chicago
+SKU-74,Laptop,Electronics,26.45,CST-149,Drake Inc,OR-5385,63,87,2026-02-26,ST-07,Washington
+SKU-69,Desk,Home,102.11,CST-101,"Lopez, Bryant and Alvarez",OR-4251,226,461,2026-02-12,ST-04,Houston
+SKU-44,Coffee,Food,122.59,CST-798,"Ruiz, Hester and Patterson",OR-3225,245,275,2026-02-13,ST-03,Chicago
+SKU-41,Jacket,Clothing,65.74,CST-933,Harris-Hill,OR-5344,29,49,2026-01-10,ST-04,Houston
+SKU-22,Pillow,Home,105.05,CST-476,Jones LLC,OR-9732,187,207,2026-01-31,ST-03,Chicago
+SKU-59,Phone,Electronics,121.14,CST-746,Price-Macias,OR-2688,660,837,2026-02-23,ST-06,Dallas
+SKU-15,Shoes,Clothing,20.1,CST-718,Pitts Ltd,OR-9971,317,409,2026-01-17,ST-01,New York
+SKU-74,Monitor,Electronics,115.54,CST-725,"Stevenson, Vasquez and Baker",OR-2237,172,698,2026-01-08,ST-03,Chicago
+SKU-17,Desk,Home,110.13,CST-071,"Brown, Smith and Flynn",OR-9470,186,295,2026-02-01,ST-01,New York
+SKU-46,Pillow,Home,19.67,CST-900,"Hill, Thornton and French",OR-1691,45,336,2026-03-04,ST-04,Houston
+SKU-53,Dumbbells,Sports,31.76,CST-472,"Shannon, Knight and Jones",OR-7436,16,105,2026-01-23,ST-06,Dallas
+SKU-72,Yoga Mat,Sports,71.82,CST-477,"Burke, Jackson and Taylor",OR-5000,281,769,2026-01-15,ST-06,Dallas
+SKU-65,Monitor,Electronics,108.95,CST-570,Phillips Inc,OR-1322,17,39,2026-02-19,ST-01,New York
+SKU-90,Lamp,Home,41.57,CST-474,Meyer Inc,OR-1289,0,2,2026-01-15,ST-06,Dallas
+SKU-96,Bike,Sports,33.61,CST-264,Johnson Inc,OR-9555,138,462,2026-01-20,ST-01,New York
+SKU-75,Laptop,Electronics,44.97,CST-758,Vance and Sons,OR-5992,457,563,2026-02-25,ST-04,Houston
+SKU-53,Phone,Electronics,110.49,CST-023,Brooks PLC,OR-1535,367,976,2026-01-20,ST-07,Washington
+SKU-53,Jacket,Clothing,107.71,CST-034,Wiley PLC,OR-9167,239,646,2026-01-10,ST-03,Chicago
+SKU-48,Coffee,Food,42.23,CST-214,Buckley and Sons,OR-4213,223,685,2026-02-16,ST-07,Washington
+SKU-23,Bike,Sports,80.26,CST-394,Ochoa Inc,OR-3677,44,798,2026-02-22,ST-06,Dallas
+SKU-96,Shoes,Clothing,89.36,CST-781,"Cox, Fernandez and Shannon",OR-4286,847,947,2026-01-25,ST-02,Los Angeles
+SKU-55,Desk,Home,54.32,CST-468,"Johnson, Gonzalez and Adams",OR-5906,539,884,2026-01-08,ST-01,New York
+SKU-25,Tablet,Electronics,83.23,CST-345,Hunter-Taylor,OR-1217,40,80,2026-02-22,ST-02,Los Angeles
+SKU-49,Jeans,Clothing,103.34,CST-729,"Walker, Brooks and Weaver",OR-3579,34,130,2026-01-31,ST-07,Washington
+SKU-51,Shoes,Clothing,123.83,CST-885,"Kennedy, James and Valentine",OR-7916,86,677,2026-01-17,ST-01,New York
+SKU-83,Jeans,Clothing,81.72,CST-997,Palmer-Hale,OR-4115,511,604,2026-01-11,ST-01,New York
+SKU-99,Lamp,Home,77.91,CST-596,Reyes-Buchanan,OR-9316,673,758,2026-01-04,ST-03,Chicago
+SKU-00,Monitor,Electronics,91.06,CST-285,Sullivan LLC,OR-6205,166,178,2026-02-07,ST-01,New York
+SKU-59,Jeans,Clothing,40.9,CST-432,"Reeves, Rogers and Riley",OR-9286,466,495,2026-03-02,ST-01,New York
+SKU-95,Tea,Food,121.1,CST-028,Sparks and Sons,OR-0871,59,297,2026-02-27,ST-05,Miami
+SKU-12,Lamp,Home,97.35,CST-102,Solis-Hill,OR-6851,617,662,2026-01-10,ST-06,Dallas
+SKU-59,Chair,Home,50.19,CST-852,"Torres, Nelson and Rogers",OR-0148,579,809,2026-01-17,ST-06,Dallas
+SKU-86,Yoga Mat,Sports,92.07,CST-985,Clark-Andrews,OR-5241,78,187,2026-02-15,ST-07,Washington
+SKU-17,Monitor,Electronics,53.38,CST-352,Graham-Kelley,OR-1666,644,679,2026-02-05,ST-03,Chicago
+SKU-87,Yoga Mat,Sports,46.74,CST-200,Montgomery-Holmes,OR-0894,546,578,2026-01-24,ST-03,Chicago
+SKU-44,Monitor,Electronics,111.7,CST-010,Rivas and Sons,OR-8854,67,106,2026-01-30,ST-06,Dallas
+SKU-52,Bike,Sports,112.75,CST-660,Duncan-Roberts,OR-6280,178,469,2026-02-21,ST-01,New York
+SKU-25,Dumbbells,Sports,121.65,CST-451,Bell-Evans,OR-8567,29,407,2026-01-09,ST-05,Miami
+SKU-62,Shoes,Clothing,44.38,CST-679,Price Group,OR-8602,44,107,2026-02-17,ST-03,Chicago
+SKU-85,Tea,Food,84.28,CST-196,Payne-Beltran,OR-9696,579,784,2026-01-20,ST-07,Washington
+SKU-82,Coffee,Food,29.23,CST-990,Morgan and Sons,OR-3440,203,412,2026-02-26,ST-07,Washington
+SKU-17,Shoes,Clothing,43.17,CST-305,"Lopez, Berry and Woodward",OR-9945,102,167,2026-02-05,ST-03,Chicago
+SKU-76,Gloves,Sports,99.01,CST-764,Henderson-Grant,OR-9880,3,103,2026-01-21,ST-05,Miami
+SKU-35,Phone,Electronics,88.54,CST-176,"Fox, Stevens and Miller",OR-3036,4,282,2026-01-26,ST-07,Washington
+SKU-00,Chair,Home,107.95,CST-649,Cook-Anderson,OR-3939,163,507,2026-02-19,ST-03,Chicago
+SKU-20,Chair,Home,17.42,CST-124,Graham Ltd,OR-3525,447,540,2026-03-08,ST-02,Los Angeles
+SKU-98,Snacks,Food,56.91,CST-279,Hodges Inc,OR-1839,128,343,2026-01-11,ST-02,Los Angeles
+SKU-75,Monitor,Electronics,103.1,CST-315,Welch-Petersen,OR-7966,155,868,2026-01-02,ST-07,Washington
+SKU-48,T-Shirt,Clothing,85.18,CST-403,Jones-Garcia,OR-6237,53,70,2026-01-24,ST-02,Los Angeles
+SKU-11,Snacks,Food,87.15,CST-423,"Lewis, Foster and Harris",OR-9726,202,408,2026-01-07,ST-03,Chicago
+SKU-70,Snacks,Food,96.75,CST-752,"Lopez, Stone and Evans",OR-0607,110,312,2026-01-14,ST-07,Washington
+SKU-72,Gloves,Sports,59.53,CST-295,"Harris, Lopez and Wright",OR-8280,231,832,2026-01-23,ST-04,Houston
+SKU-75,Jacket,Clothing,72.69,CST-940,Hernandez PLC,OR-3239,26,761,2026-02-08,ST-07,Washington
+SKU-06,Pillow,Home,27.28,CST-053,Bernard Ltd,OR-2966,62,196,2026-02-02,ST-05,Miami
+SKU-85,Coffee,Food,23.37,CST-824,Glover-Bennett,OR-0282,618,865,2026-02-28,ST-01,New York
+SKU-71,Coffee,Food,32.89,CST-529,Walls-Moore,OR-4467,594,956,2026-01-31,ST-04,Houston
+SKU-35,T-Shirt,Clothing,90.66,CST-675,Vazquez and Sons,OR-2488,284,734,2026-01-21,ST-06,Dallas
+SKU-84,Dumbbells,Sports,64.28,CST-345,"Freeman, Williams and Stokes",OR-3362,564,850,2026-03-01,ST-02,Los Angeles
+SKU-08,Pillow,Home,56.55,CST-817,Hicks Group,OR-9441,91,886,2026-02-10,ST-03,Chicago
+SKU-25,Bike,Sports,86.71,CST-305,Green Group,OR-8974,439,941,2026-02-02,ST-04,Houston
+SKU-56,T-Shirt,Clothing,88.6,CST-986,"Weber, Prince and Fox",OR-6465,102,734,2026-01-01,ST-03,Chicago
+SKU-48,Pillow,Home,27.37,CST-898,David Ltd,OR-5678,206,397,2026-02-20,ST-05,Miami
+SKU-01,Jeans,Clothing,117.79,CST-930,"Wiley, Robinson and Maldonado",OR-5750,646,870,2026-02-06,ST-06,Dallas
+SKU-21,Jacket,Clothing,47.14,CST-871,"Bell, Reilly and Reynolds",OR-0490,309,517,2026-02-22,ST-01,New York
+SKU-55,Monitor,Electronics,32.18,CST-309,"Wang, Hanson and Baker",OR-0284,30,693,2026-01-22,ST-04,Houston
+SKU-41,Jacket,Clothing,87.41,CST-655,"Freeman, Allen and Carter",OR-0867,608,917,2026-01-05,ST-01,New York
+SKU-12,Bike,Sports,61.36,CST-498,Martinez LLC,OR-3229,289,786,2026-02-23,ST-04,Houston
+SKU-46,Lamp,Home,19.29,CST-138,Wilkinson Group,OR-2429,109,160,2026-03-09,ST-04,Houston
+SKU-33,Lamp,Home,70.4,CST-126,Brown Ltd,OR-6486,543,612,2026-01-31,ST-07,Washington
+SKU-16,Shoes,Clothing,105.63,CST-437,Marshall-Huerta,OR-3223,303,510,2026-03-06,ST-02,Los Angeles
+SKU-66,Yoga Mat,Sports,24.87,CST-779,"Martin, Woods and Lara",OR-5695,220,395,2026-01-16,ST-07,Washington
+SKU-16,Jacket,Clothing,34.48,CST-767,Kennedy-Ortega,OR-7133,70,208,2026-02-28,ST-05,Miami
+SKU-73,Pillow,Home,77.5,CST-143,Fernandez Inc,OR-3018,39,42,2026-02-22,ST-02,Los Angeles
+SKU-48,Dumbbells,Sports,118.99,CST-022,Williams Ltd,OR-0480,14,57,2026-03-05,ST-01,New York
+SKU-46,Yoga Mat,Sports,109.28,CST-012,"Hamilton, Olson and Thomas",OR-3753,225,683,2026-01-06,ST-07,Washington
+SKU-94,Bike,Sports,99.95,CST-872,Smith-Hernandez,OR-5862,247,311,2026-01-14,ST-06,Dallas
+SKU-66,Desk,Home,36.95,CST-827,Martinez LLC,OR-7689,212,507,2026-01-25,ST-06,Dallas
+SKU-45,T-Shirt,Clothing,52.3,CST-367,Fowler-Lewis,OR-5902,575,815,2026-02-16,ST-01,New York
+SKU-03,Tea,Food,92.65,CST-532,Thompson-Cox,OR-6524,5,20,2026-01-28,ST-06,Dallas
+SKU-75,Tea,Food,91.77,CST-850,Garcia PLC,OR-8728,89,605,2026-01-04,ST-02,Los Angeles
+SKU-09,Desk,Home,95.11,CST-773,Manning-Jackson,OR-7985,488,556,2026-01-21,ST-05,Miami
+SKU-79,Tablet,Electronics,103.3,CST-272,"Larsen, Perez and Harvey",OR-4453,360,525,2026-01-01,ST-02,Los Angeles
+SKU-37,Shoes,Clothing,31.25,CST-159,Harmon PLC,OR-0703,48,322,2026-01-26,ST-05,Miami
+SKU-24,Desk,Home,21.9,CST-870,Clayton-Rivera,OR-1840,741,807,2026-01-09,ST-04,Houston
+SKU-42,Lamp,Home,46.79,CST-928,Moore LLC,OR-2395,190,362,2026-02-08,ST-01,New York
+SKU-32,Dumbbells,Sports,101.43,CST-723,Robinson Inc,OR-4869,499,850,2026-03-06,ST-05,Miami
+SKU-52,T-Shirt,Clothing,65.29,CST-559,"Diaz, Jones and Clark",OR-5848,550,755,2026-01-19,ST-04,Houston
+SKU-48,Tea,Food,109.28,CST-180,Garza-Freeman,OR-1754,724,931,2026-02-05,ST-02,Los Angeles
+SKU-41,Coffee,Food,53.55,CST-686,"Alexander, Kane and Moore",OR-2769,142,578,2026-01-23,ST-07,Washington
+SKU-81,Chair,Home,15.98,CST-759,Spears-Gonzalez,OR-1957,659,777,2026-01-14,ST-06,Dallas
+SKU-11,Bike,Sports,70.89,CST-910,"Campbell, Greene and Morales",OR-1030,173,492,2026-02-10,ST-03,Chicago
+SKU-82,Bike,Sports,117.99,CST-505,Reynolds PLC,OR-8342,1,30,2026-02-20,ST-06,Dallas
+SKU-70,Monitor,Electronics,34.23,CST-883,Estes Group,OR-2270,0,289,2026-02-05,ST-03,Chicago
+SKU-07,T-Shirt,Clothing,87.0,CST-851,Miles Inc,OR-2456,816,845,2026-02-21,ST-04,Houston
+SKU-10,Gloves,Sports,85.7,CST-054,Garcia Inc,OR-8975,427,519,2026-01-31,ST-06,Dallas
+SKU-07,Tablet,Electronics,66.27,CST-442,Gray Ltd,OR-6670,126,213,2026-02-20,ST-03,Chicago
+SKU-17,Gloves,Sports,78.99,CST-660,"Sutton, Mack and Cisneros",OR-5760,222,785,2026-01-11,ST-02,Los Angeles
+SKU-58,Coffee,Food,77.47,CST-483,"Turner, Navarro and Camacho",OR-3795,83,206,2026-03-06,ST-05,Miami
+SKU-96,Tablet,Electronics,113.4,CST-091,"Payne, Osborne and Reynolds",OR-3160,347,944,2026-01-22,ST-02,Los Angeles
+SKU-06,Desk,Home,48.69,CST-936,"Taylor, Stewart and Barrera",OR-5644,29,968,2026-01-29,ST-01,New York
+SKU-55,Phone,Electronics,109.4,CST-711,Harrington-Bishop,OR-3384,13,207,2026-01-16,ST-07,Washington
+SKU-54,Gloves,Sports,23.01,CST-549,Hawkins PLC,OR-9599,114,312,2026-01-09,ST-03,Chicago
+SKU-56,Tea,Food,82.55,CST-933,"Reed, Collins and Smith",OR-1579,7,35,2026-03-06,ST-06,Dallas
+SKU-36,Tea,Food,63.34,CST-718,"Ortiz, Murray and Tran",OR-0298,306,926,2026-01-30,ST-06,Dallas
+SKU-08,Yoga Mat,Sports,53.53,CST-656,Pearson-Ball,OR-7809,39,215,2026-01-09,ST-04,Houston
+SKU-21,Shoes,Clothing,70.93,CST-756,Jenkins Inc,OR-2334,31,976,2026-01-06,ST-02,Los Angeles
+SKU-12,Coffee,Food,45.77,CST-487,Alexander-Reed,OR-4889,91,179,2026-02-11,ST-04,Houston
+SKU-61,Laptop,Electronics,51.23,CST-838,"Knight, Bond and Hanson",OR-3827,201,430,2026-01-10,ST-05,Miami
+SKU-13,Bike,Sports,76.2,CST-069,"Moore, Rogers and Burns",OR-7154,83,289,2026-01-11,ST-06,Dallas
+SKU-53,Desk,Home,61.99,CST-904,Johnson Group,OR-4623,358,766,2026-01-15,ST-01,New York
+SKU-28,Water,Food,108.43,CST-836,Cole-Hall,OR-2909,179,348,2026-01-12,ST-06,Dallas
+SKU-33,Chair,Home,48.5,CST-753,Bryant Inc,OR-0838,128,996,2026-03-03,ST-03,Chicago
+SKU-18,Bike,Sports,106.4,CST-670,"Lopez, Beck and Riley",OR-3283,55,181,2026-02-23,ST-04,Houston
+SKU-29,Dumbbells,Sports,50.95,CST-159,"Jimenez, Green and Moore",OR-8910,367,426,2026-01-04,ST-07,Washington
+SKU-86,Desk,Home,57.98,CST-801,Mccarty-Willis,OR-8661,252,666,2026-01-12,ST-07,Washington
+SKU-10,Water,Food,16.95,CST-040,"Wise, Lewis and Chang",OR-2137,107,363,2026-02-17,ST-06,Dallas
+SKU-87,Tablet,Electronics,87.86,CST-960,"Hogan, Wade and Tran",OR-5772,582,830,2026-02-23,ST-04,Houston
+SKU-99,Pillow,Home,33.21,CST-574,Rojas-Mckay,OR-3794,237,348,2026-01-07,ST-01,New York
+SKU-10,Dumbbells,Sports,116.24,CST-704,White-Escobar,OR-1566,498,660,2026-01-27,ST-01,New York
+SKU-02,Shoes,Clothing,117.25,CST-364,Moreno PLC,OR-3399,164,367,2026-02-13,ST-03,Chicago
+SKU-04,Chair,Home,70.82,CST-772,Garner LLC,OR-7372,231,513,2026-02-13,ST-04,Houston
+SKU-21,Jeans,Clothing,88.24,CST-218,Nelson-Harris,OR-2961,72,468,2026-01-08,ST-07,Washington
+SKU-42,T-Shirt,Clothing,122.97,CST-711,"Vasquez, Holmes and Burton",OR-8643,3,4,2026-03-01,ST-07,Washington
+SKU-61,Tea,Food,39.69,CST-947,Lawson-Harrison,OR-6762,355,639,2026-03-06,ST-04,Houston
+SKU-76,Water,Food,70.0,CST-744,Henry Inc,OR-7895,1,486,2026-02-17,ST-07,Washington
+SKU-67,Phone,Electronics,106.15,CST-309,David LLC,OR-4498,266,394,2026-01-08,ST-06,Dallas
+SKU-14,Jeans,Clothing,39.28,CST-064,"Tucker, Wilson and Lamb",OR-9874,9,454,2026-03-01,ST-07,Washington
+SKU-16,Lamp,Home,75.68,CST-314,"Robbins, Rowe and Wiggins",OR-5626,114,390,2026-01-02,ST-02,Los Angeles
+SKU-68,T-Shirt,Clothing,78.42,CST-390,Williams-Stevens,OR-7868,8,80,2026-01-03,ST-02,Los Angeles
+SKU-09,Chair,Home,123.17,CST-164,Morton Inc,OR-2500,86,363,2026-01-19,ST-03,Chicago
+SKU-39,Tablet,Electronics,15.76,CST-967,"Haas, Gonzales and Lopez",OR-6357,420,823,2026-02-15,ST-04,Houston
+SKU-48,Coffee,Food,91.72,CST-617,"Neal, Rivera and Hernandez",OR-7352,40,448,2026-02-05,ST-03,Chicago
+SKU-99,Shoes,Clothing,82.0,CST-100,Moreno Inc,OR-6813,27,297,2026-02-04,ST-03,Chicago
+SKU-14,Phone,Electronics,73.7,CST-845,Taylor PLC,OR-0429,45,75,2026-03-07,ST-05,Miami
+SKU-30,Shoes,Clothing,59.87,CST-231,Giles-Hamilton,OR-5067,654,963,2026-01-01,ST-05,Miami
+SKU-33,Lamp,Home,22.06,CST-851,Henry-Jones,OR-5461,7,182,2026-03-03,ST-01,New York
+SKU-38,Tablet,Electronics,36.75,CST-179,"Cole, Kelley and Matthews",OR-9109,2,38,2026-01-05,ST-01,New York
+SKU-95,Lamp,Home,19.37,CST-281,"Padilla, Jimenez and Drake",OR-9359,461,759,2026-03-09,ST-07,Washington
+SKU-09,Tablet,Electronics,43.71,CST-376,Ponce-King,OR-2182,56,253,2026-02-02,ST-06,Dallas
+SKU-78,Water,Food,99.74,CST-675,"Long, Obrien and Acosta",OR-3724,84,473,2026-02-19,ST-01,New York
+SKU-23,T-Shirt,Clothing,122.99,CST-673,Stark-Oliver,OR-3448,227,438,2026-01-04,ST-05,Miami
+SKU-24,Lamp,Home,111.61,CST-163,Williams-King,OR-7049,189,354,2026-01-21,ST-01,New York
+SKU-84,Lamp,Home,99.92,CST-865,"Jackson, Wood and Jones",OR-3237,645,688,2026-02-04,ST-06,Dallas
+SKU-52,Tablet,Electronics,53.64,CST-301,"Hernandez, Matthews and Baker",OR-1949,119,146,2026-01-03,ST-02,Los Angeles
+SKU-89,Laptop,Electronics,26.0,CST-954,Williams Ltd,OR-2266,237,456,2026-02-28,ST-04,Houston
+SKU-87,Laptop,Electronics,64.03,CST-857,King LLC,OR-3521,474,655,2026-02-16,ST-05,Miami
+SKU-44,Gloves,Sports,54.54,CST-871,Sanchez PLC,OR-7759,623,632,2026-02-11,ST-03,Chicago
+SKU-41,Phone,Electronics,113.05,CST-725,Castillo Group,OR-4350,27,69,2026-02-08,ST-04,Houston
+SKU-17,Jacket,Clothing,100.97,CST-534,Key-Jordan,OR-9149,538,733,2026-01-02,ST-07,Washington
+SKU-18,Laptop,Electronics,22.35,CST-129,Snyder PLC,OR-2633,123,795,2026-02-13,ST-05,Miami
+SKU-20,Yoga Mat,Sports,64.91,CST-932,Perez-Herman,OR-3858,36,579,2026-03-07,ST-07,Washington
+SKU-24,Shoes,Clothing,85.18,CST-262,Sheppard Inc,OR-5442,246,397,2026-02-06,ST-05,Miami
+SKU-29,Water,Food,92.85,CST-593,Huff-Duarte,OR-0233,474,679,2026-02-03,ST-01,New York
+SKU-93,Gloves,Sports,103.29,CST-737,"Cook, Roy and Payne",OR-5516,171,365,2026-01-28,ST-06,Dallas
+SKU-64,Gloves,Sports,75.34,CST-682,Miller Group,OR-2496,181,895,2026-01-07,ST-06,Dallas
+SKU-71,Bike,Sports,63.07,CST-862,"Payne, Thomas and Yoder",OR-8716,173,716,2026-02-11,ST-03,Chicago
+SKU-38,Gloves,Sports,26.59,CST-147,"English, Edwards and Anderson",OR-0615,187,475,2026-01-11,ST-04,Houston
+SKU-05,Tea,Food,122.64,CST-751,Hall Ltd,OR-6064,515,954,2026-03-10,ST-01,New York
+SKU-37,Coffee,Food,61.48,CST-865,Chaney PLC,OR-6361,165,250,2026-02-11,ST-03,Chicago
+SKU-65,Water,Food,49.27,CST-297,Hansen PLC,OR-0207,365,645,2026-02-25,ST-04,Houston
+SKU-82,Dumbbells,Sports,30.56,CST-932,"Burns, Simon and Harmon",OR-5618,776,991,2026-02-21,ST-05,Miami
+SKU-33,Monitor,Electronics,116.47,CST-027,"Lyons, Mcintosh and Bauer",OR-9477,629,710,2026-02-06,ST-03,Chicago
+SKU-84,Snacks,Food,111.44,CST-746,Martin Group,OR-0699,241,379,2026-02-01,ST-04,Houston
+SKU-42,Jacket,Clothing,66.14,CST-905,Atkinson-Duncan,OR-2715,579,829,2026-01-20,ST-07,Washington
+SKU-53,Snacks,Food,47.99,CST-097,Shepherd-Garza,OR-8539,0,789,2026-01-20,ST-01,New York
+SKU-91,Gloves,Sports,110.26,CST-844,"Scott, Randall and Williams",OR-0107,16,16,2026-01-22,ST-02,Los Angeles
+SKU-70,Water,Food,96.22,CST-641,Howard Ltd,OR-5106,51,133,2026-01-30,ST-04,Houston
+SKU-90,Pillow,Home,94.55,CST-242,"Barnett, Castillo and Torres",OR-9201,13,534,2026-02-02,ST-04,Houston
+SKU-20,Desk,Home,66.35,CST-907,Cross and Sons,OR-0428,83,910,2026-01-02,ST-03,Chicago
+SKU-90,Jacket,Clothing,93.15,CST-975,Griffith PLC,OR-6090,53,500,2026-02-13,ST-05,Miami
+SKU-12,Snacks,Food,16.72,CST-544,Martin-Watson,OR-7939,131,900,2026-02-23,ST-06,Dallas
+SKU-85,Water,Food,88.88,CST-431,Fleming Inc,OR-6971,654,749,2026-01-21,ST-04,Houston
+SKU-75,Monitor,Electronics,113.92,CST-851,Lambert-Walker,OR-8593,405,440,2026-01-24,ST-02,Los Angeles
+SKU-17,Phone,Electronics,56.55,CST-919,Macdonald-Owen,OR-1485,57,613,2026-02-18,ST-01,New York
+SKU-69,Snacks,Food,24.0,CST-932,Gamble-Bowers,OR-8422,513,770,2026-01-01,ST-03,Chicago
+SKU-23,Lamp,Home,22.78,CST-327,"Salazar, Newman and Daniel",OR-2778,213,235,2026-01-15,ST-01,New York
+SKU-98,Bike,Sports,26.01,CST-369,Smith-Navarro,OR-7619,69,200,2026-02-08,ST-03,Chicago
+SKU-87,Tablet,Electronics,90.93,CST-408,Pittman Group,OR-3069,731,767,2026-01-06,ST-05,Miami
+SKU-28,Dumbbells,Sports,67.39,CST-277,Hanna and Sons,OR-8627,495,689,2026-01-23,ST-06,Dallas
+SKU-38,Lamp,Home,60.48,CST-438,Hicks-Tucker,OR-4055,255,365,2026-02-03,ST-06,Dallas
+SKU-54,Coffee,Food,46.82,CST-185,Abbott PLC,OR-4919,255,543,2026-02-12,ST-04,Houston
+SKU-61,Phone,Electronics,73.81,CST-264,Owen-Terry,OR-8888,407,627,2026-03-09,ST-05,Miami
+SKU-17,Water,Food,58.94,CST-110,Montgomery-Hebert,OR-8676,110,375,2026-03-03,ST-01,New York
+SKU-39,Shoes,Clothing,120.13,CST-440,Ferguson-Smith,OR-5413,1,542,2026-03-03,ST-04,Houston
+SKU-44,Water,Food,108.54,CST-931,Morales-Soto,OR-5004,418,797,2026-02-17,ST-07,Washington
+SKU-06,Desk,Home,58.4,CST-510,Hudson and Sons,OR-7795,86,433,2026-01-01,ST-05,Miami
+SKU-33,Yoga Mat,Sports,61.66,CST-797,"Anderson, Johnson and Lawson",OR-9254,299,594,2026-02-24,ST-05,Miami
+SKU-36,Tea,Food,30.74,CST-142,Johnson Group,OR-2107,458,557,2026-02-25,ST-06,Dallas
+SKU-33,Gloves,Sports,21.62,CST-598,Mckinney Group,OR-6473,269,942,2026-01-05,ST-05,Miami
+SKU-51,Laptop,Electronics,25.14,CST-863,Sellers Group,OR-4066,124,312,2026-01-31,ST-07,Washington
+SKU-86,Tablet,Electronics,84.44,CST-049,Larson-Bowman,OR-9870,176,241,2026-02-05,ST-04,Houston
+SKU-79,Water,Food,110.09,CST-133,Jacobs and Sons,OR-3568,187,459,2026-01-29,ST-02,Los Angeles
+SKU-65,Phone,Electronics,119.58,CST-162,Perez-Fields,OR-6381,9,19,2026-03-06,ST-05,Miami
+SKU-37,Tea,Food,111.65,CST-293,Weaver-Pacheco,OR-9963,225,376,2026-01-20,ST-04,Houston
+SKU-10,Tablet,Electronics,48.35,CST-105,"Davis, Hartman and Kennedy",OR-1985,195,422,2026-01-14,ST-03,Chicago
+SKU-15,Jeans,Clothing,121.64,CST-969,Young Inc,OR-7784,156,567,2026-03-05,ST-03,Chicago
+SKU-39,Jeans,Clothing,110.01,CST-039,Adams-Bennett,OR-2238,273,335,2026-01-29,ST-05,Miami
+SKU-19,Monitor,Electronics,68.39,CST-457,"Jackson, Johnson and Sosa",OR-1388,222,249,2026-01-30,ST-02,Los Angeles
+SKU-30,Shoes,Clothing,63.75,CST-552,"Doyle, Jones and Martinez",OR-5673,27,278,2026-01-02,ST-02,Los Angeles
+SKU-10,Gloves,Sports,108.57,CST-717,Mendoza PLC,OR-6731,514,836,2026-01-25,ST-05,Miami
+SKU-65,Chair,Home,82.32,CST-599,Cain LLC,OR-7630,59,912,2026-01-12,ST-01,New York
+SKU-26,Pillow,Home,110.55,CST-101,Forbes-Fernandez,OR-0015,294,456,2026-01-18,ST-01,New York
+SKU-51,Jacket,Clothing,88.87,CST-130,Conway-Ward,OR-0277,24,619,2026-01-18,ST-05,Miami
+SKU-69,Gloves,Sports,124.47,CST-902,Boone-Thompson,OR-2825,34,132,2026-02-01,ST-07,Washington
+SKU-36,Snacks,Food,33.42,CST-563,"Bowman, Rose and Baldwin",OR-2738,1,15,2026-01-11,ST-02,Los Angeles
+SKU-53,Bike,Sports,93.09,CST-523,Williams-Gordon,OR-2045,139,356,2026-01-03,ST-04,Houston
+SKU-63,Monitor,Electronics,43.69,CST-705,Contreras-Alexander,OR-3687,203,695,2026-02-02,ST-01,New York
+SKU-94,Tea,Food,70.89,CST-266,Daniels-Alvarez,OR-0998,33,90,2026-02-28,ST-02,Los Angeles
+SKU-94,Lamp,Home,86.32,CST-746,Dean-Smith,OR-7223,45,119,2026-02-28,ST-02,Los Angeles
+SKU-41,Laptop,Electronics,38.04,CST-430,"Miller, Wright and Stout",OR-8323,197,626,2026-02-28,ST-04,Houston
+SKU-36,Shoes,Clothing,104.3,CST-963,"Shepherd, White and Miller",OR-9443,254,580,2026-02-22,ST-04,Houston
+SKU-47,Jeans,Clothing,113.91,CST-798,Walker-Davidson,OR-7919,50,265,2026-01-28,ST-01,New York
+SKU-62,Monitor,Electronics,72.53,CST-171,Dennis-Mitchell,OR-9770,165,227,2026-01-05,ST-05,Miami
+SKU-19,Pillow,Home,75.09,CST-651,Castaneda Group,OR-4127,208,330,2026-02-05,ST-07,Washington
+SKU-72,Yoga Mat,Sports,71.44,CST-439,Allen Inc,OR-3163,82,437,2026-02-27,ST-05,Miami
+SKU-25,Laptop,Electronics,104.28,CST-168,"Rodriguez, Cruz and Dean",OR-8428,370,493,2026-02-11,ST-06,Dallas
+SKU-60,Desk,Home,52.1,CST-694,Miller-Ferrell,OR-4246,182,662,2026-01-07,ST-03,Chicago
+SKU-48,Yoga Mat,Sports,50.81,CST-984,Huang Ltd,OR-1707,191,776,2026-01-30,ST-06,Dallas
+SKU-04,Jeans,Clothing,31.02,CST-737,Orr and Sons,OR-9609,199,614,2026-02-06,ST-06,Dallas
+SKU-08,Chair,Home,17.08,CST-382,Hill Ltd,OR-3282,66,938,2026-02-27,ST-05,Miami
+SKU-65,Shoes,Clothing,77.54,CST-682,Thornton-Beard,OR-6989,162,323,2026-01-17,ST-05,Miami
+SKU-95,Pillow,Home,100.31,CST-612,Sellers-Schneider,OR-5267,271,874,2026-02-18,ST-04,Houston
+SKU-91,Jacket,Clothing,64.4,CST-117,Hurst LLC,OR-5818,179,244,2026-02-10,ST-04,Houston
+SKU-74,Phone,Electronics,110.0,CST-972,"Martinez, Washington and Robinson",OR-0641,61,354,2026-02-09,ST-04,Houston
+SKU-11,T-Shirt,Clothing,113.53,CST-165,"Davis, Dillon and Watson",OR-1624,67,126,2026-02-03,ST-04,Houston
+SKU-14,Pillow,Home,75.67,CST-448,Williams Inc,OR-1457,109,152,2026-03-08,ST-05,Miami
+SKU-72,Snacks,Food,53.82,CST-713,"Wilson, Lane and Lucero",OR-4371,170,896,2026-02-26,ST-03,Chicago
+SKU-29,Tablet,Electronics,15.87,CST-039,"White, Randolph and Cowan",OR-2942,836,920,2026-01-04,ST-04,Houston
+SKU-44,Phone,Electronics,25.53,CST-617,Vasquez Inc,OR-2209,679,804,2026-02-28,ST-07,Washington
+SKU-28,Jeans,Clothing,47.26,CST-041,"Martinez, Holmes and Martin",OR-7551,642,697,2026-01-21,ST-02,Los Angeles
+SKU-12,Snacks,Food,94.7,CST-032,"Nguyen, Johnston and Glenn",OR-8865,137,695,2026-02-14,ST-07,Washington
+SKU-55,Lamp,Home,76.31,CST-014,Hunter-Mueller,OR-7537,565,847,2026-02-01,ST-03,Chicago
+SKU-01,T-Shirt,Clothing,105.25,CST-620,Barnett and Sons,OR-2554,400,799,2026-02-01,ST-01,New York
+SKU-03,Chair,Home,124.61,CST-174,Young Inc,OR-1311,417,651,2026-03-08,ST-02,Los Angeles
+SKU-05,Gloves,Sports,120.74,CST-580,"Fowler, Durham and Moses",OR-8528,580,694,2026-01-18,ST-02,Los Angeles
+SKU-12,T-Shirt,Clothing,89.12,CST-392,"Bolton, Johnson and Smith",OR-3672,91,295,2026-03-07,ST-02,Los Angeles
+SKU-18,Phone,Electronics,21.59,CST-905,Powell Inc,OR-6580,403,956,2026-02-21,ST-01,New York
+SKU-03,Laptop,Electronics,28.51,CST-004,Bates-Fischer,OR-9230,106,983,2026-01-12,ST-07,Washington
+SKU-64,Tablet,Electronics,105.16,CST-052,Bishop PLC,OR-8225,434,906,2026-01-11,ST-01,New York
+SKU-39,Coffee,Food,19.46,CST-979,Hunt-Frey,OR-3149,273,644,2026-03-05,ST-01,New York
+SKU-44,Snacks,Food,43.85,CST-366,Smith-Mathis,OR-4737,121,143,2026-01-23,ST-04,Houston
+SKU-46,Shoes,Clothing,102.18,CST-802,"Weber, Garrison and Williams",OR-5287,494,519,2026-01-06,ST-01,New York
+SKU-06,Shoes,Clothing,109.06,CST-010,Jefferson-Vaughan,OR-8566,810,851,2026-02-24,ST-04,Houston
+SKU-16,Phone,Electronics,29.34,CST-596,Sellers-Simpson,OR-7806,478,896,2026-01-16,ST-01,New York
+SKU-82,Bike,Sports,39.39,CST-203,Lewis Inc,OR-1346,74,342,2026-02-24,ST-06,Dallas
+SKU-28,Phone,Electronics,105.73,CST-963,"Conley, Nguyen and Herrera",OR-6853,245,418,2026-02-06,ST-03,Chicago
+SKU-88,Jacket,Clothing,76.38,CST-305,"Potter, Myers and Pratt",OR-0350,112,177,2026-02-08,ST-02,Los Angeles
+SKU-26,Monitor,Electronics,59.49,CST-020,Peterson LLC,OR-8679,65,116,2026-01-30,ST-04,Houston
+SKU-57,Pillow,Home,23.44,CST-238,Reeves Ltd,OR-3592,20,186,2026-01-02,ST-04,Houston
+SKU-96,Jeans,Clothing,44.2,CST-086,"Lawson, Lucas and Rodriguez",OR-1508,47,64,2026-01-12,ST-05,Miami
+SKU-29,Bike,Sports,105.62,CST-630,"Johnson, Henderson and Martinez",OR-8849,453,499,2026-01-31,ST-04,Houston
+SKU-57,Water,Food,28.29,CST-049,"Sims, Stuart and Jones",OR-6019,293,458,2026-01-14,ST-07,Washington
+SKU-30,Lamp,Home,64.63,CST-488,Berry LLC,OR-9349,90,110,2026-02-15,ST-01,New York
+SKU-44,Snacks,Food,47.06,CST-417,"Andrews, Hughes and Jacobs",OR-2465,550,550,2026-03-06,ST-07,Washington
+SKU-89,Shoes,Clothing,92.27,CST-332,Simon Inc,OR-2724,70,403,2026-02-03,ST-06,Dallas
+SKU-19,Phone,Electronics,115.82,CST-783,Rodriguez PLC,OR-1827,97,732,2026-01-11,ST-05,Miami
+SKU-31,Snacks,Food,57.11,CST-461,Martinez-Wall,OR-5222,266,316,2026-01-19,ST-05,Miami
+SKU-52,Yoga Mat,Sports,107.37,CST-714,Dean-Steele,OR-0617,307,317,2026-02-20,ST-05,Miami
+SKU-15,Chair,Home,83.86,CST-586,"Rodriguez, Jones and Buck",OR-4604,134,344,2026-02-24,ST-04,Houston
+SKU-70,Bike,Sports,61.23,CST-913,Clayton-Norris,OR-9236,130,316,2026-01-11,ST-01,New York
+SKU-46,T-Shirt,Clothing,93.51,CST-239,Taylor-Novak,OR-9335,124,737,2026-03-02,ST-05,Miami
+SKU-92,Dumbbells,Sports,113.12,CST-239,"Kemp, Howell and Gardner",OR-0754,7,29,2026-03-07,ST-07,Washington
+SKU-81,Tea,Food,19.08,CST-835,Herring-Edwards,OR-3750,95,556,2026-01-29,ST-04,Houston
+SKU-37,Jeans,Clothing,99.29,CST-227,"Hardin, Warner and Richard",OR-6927,9,485,2026-01-28,ST-01,New York
+SKU-71,Yoga Mat,Sports,42.07,CST-379,James-Jackson,OR-2649,355,415,2026-02-21,ST-02,Los Angeles
+SKU-52,Snacks,Food,65.53,CST-735,Kelly Ltd,OR-2144,42,70,2026-02-22,ST-07,Washington
+SKU-91,Tablet,Electronics,53.89,CST-686,Garcia-Curtis,OR-9947,320,723,2026-01-04,ST-01,New York
+SKU-03,Shoes,Clothing,31.7,CST-876,Miller-Harris,OR-5842,474,867,2026-01-11,ST-03,Chicago
+SKU-66,Water,Food,56.62,CST-110,Dunlap LLC,OR-2798,153,419,2026-02-16,ST-05,Miami
+SKU-33,Coffee,Food,114.57,CST-586,Edwards Ltd,OR-3925,155,750,2026-01-14,ST-04,Houston
+SKU-81,Desk,Home,56.42,CST-842,"Wilson, Bryant and Green",OR-3898,240,367,2026-01-26,ST-03,Chicago
+SKU-11,Yoga Mat,Sports,73.05,CST-084,"Barrett, Stewart and Kennedy",OR-8449,647,878,2026-02-15,ST-06,Dallas
+SKU-49,Chair,Home,65.91,CST-798,Guerrero PLC,OR-5540,617,850,2026-02-18,ST-06,Dallas
+SKU-78,Coffee,Food,119.98,CST-121,Gilbert-Smith,OR-6236,80,244,2026-01-29,ST-01,New York
+SKU-14,Tablet,Electronics,67.46,CST-250,Cooper-Simmons,OR-7545,357,709,2026-02-14,ST-03,Chicago
+SKU-94,Water,Food,17.19,CST-689,"Garcia, Chavez and Smith",OR-9247,299,395,2026-02-10,ST-03,Chicago
+SKU-33,Jacket,Clothing,66.1,CST-669,Harrison Inc,OR-7074,552,909,2026-02-05,ST-05,Miami
+SKU-58,Gloves,Sports,64.72,CST-544,Graham-Huff,OR-9988,254,277,2026-01-29,ST-01,New York
+SKU-93,Phone,Electronics,102.36,CST-502,Robinson-Harvey,OR-6130,225,491,2026-01-31,ST-01,New York
+SKU-94,Gloves,Sports,45.91,CST-520,Carey Ltd,OR-3574,398,479,2026-01-28,ST-02,Los Angeles
+SKU-94,Water,Food,43.35,CST-137,Young Ltd,OR-5280,241,422,2026-03-06,ST-05,Miami
+SKU-32,Jacket,Clothing,102.09,CST-234,"Mitchell, Mccall and Baker",OR-9273,23,75,2026-02-11,ST-01,New York
+SKU-89,Gloves,Sports,57.96,CST-323,"Walter, Smith and Wise",OR-4793,17,208,2026-03-08,ST-02,Los Angeles
+SKU-16,Gloves,Sports,87.16,CST-564,"Waters, Stevens and Zamora",OR-6095,554,568,2026-02-20,ST-06,Dallas
+SKU-72,Water,Food,105.7,CST-587,"Kent, Johnson and Adams",OR-9524,320,527,2026-03-02,ST-05,Miami
+SKU-09,Lamp,Home,111.73,CST-285,"Decker, Johnson and Barber",OR-3220,787,830,2026-02-14,ST-05,Miami
+SKU-53,Tablet,Electronics,73.88,CST-222,"Johnson, Hendrix and Valentine",OR-3102,55,711,2026-02-02,ST-04,Houston
+SKU-95,Chair,Home,18.03,CST-735,"Kerr, Carson and Smith",OR-5943,112,139,2026-01-05,ST-02,Los Angeles
+SKU-25,Monitor,Electronics,72.53,CST-757,Johnson PLC,OR-5539,243,755,2026-01-05,ST-07,Washington
+SKU-90,Tea,Food,85.29,CST-749,Torres-Blair,OR-3081,470,974,2026-01-19,ST-07,Washington
+SKU-09,Gloves,Sports,81.52,CST-835,"Burns, Diaz and Huff",OR-2412,256,325,2026-02-08,ST-04,Houston
+SKU-60,Tea,Food,86.24,CST-324,Whitney Inc,OR-4576,1,30,2026-02-12,ST-06,Dallas
+SKU-33,Yoga Mat,Sports,45.56,CST-589,Woods PLC,OR-2424,556,697,2026-03-04,ST-07,Washington
+SKU-40,Dumbbells,Sports,82.19,CST-417,"Griffith, Moreno and Greene",OR-6412,121,197,2026-02-05,ST-07,Washington
+SKU-82,T-Shirt,Clothing,101.9,CST-363,Obrien Inc,OR-9799,677,797,2026-01-16,ST-02,Los Angeles
+SKU-34,Chair,Home,15.52,CST-378,"Little, Jones and Smith",OR-8592,36,466,2026-02-06,ST-01,New York
+SKU-17,Shoes,Clothing,105.21,CST-525,"Porter, Kelley and Gilbert",OR-7222,145,199,2026-01-31,ST-02,Los Angeles
+SKU-44,Gloves,Sports,88.94,CST-240,"Mills, English and Cruz",OR-1972,105,246,2026-01-27,ST-05,Miami
+SKU-55,Coffee,Food,62.69,CST-301,Davis and Sons,OR-4003,624,929,2026-02-15,ST-05,Miami
+SKU-59,Dumbbells,Sports,99.65,CST-625,Hendricks-Dunn,OR-8541,48,226,2026-02-09,ST-03,Chicago
+SKU-61,Lamp,Home,26.38,CST-972,"Barber, Bradley and Davis",OR-8221,18,75,2026-01-07,ST-01,New York
+SKU-43,Chair,Home,97.91,CST-515,"Murillo, Smith and Goodwin",OR-3055,392,679,2026-01-26,ST-03,Chicago
+SKU-87,Lamp,Home,57.45,CST-607,Duarte Inc,OR-3709,395,702,2026-01-28,ST-03,Chicago
+SKU-74,Jeans,Clothing,24.86,CST-455,Mcguire Ltd,OR-0602,29,596,2026-01-24,ST-07,Washington
+SKU-70,Bike,Sports,95.55,CST-908,Green Ltd,OR-7975,655,831,2026-02-06,ST-07,Washington
+SKU-66,T-Shirt,Clothing,62.34,CST-600,"Foley, Robles and West",OR-3373,128,148,2026-02-18,ST-03,Chicago
+SKU-35,Dumbbells,Sports,82.26,CST-774,"Rodriguez, Neal and Arroyo",OR-5385,146,174,2026-02-24,ST-04,Houston
+SKU-69,Desk,Home,111.56,CST-549,Mccoy-Cross,OR-0677,59,454,2026-03-03,ST-06,Dallas
+SKU-70,Lamp,Home,92.64,CST-416,Rhodes PLC,OR-7685,119,149,2026-01-29,ST-04,Houston
+SKU-56,Jeans,Clothing,92.48,CST-560,Robertson-Lowery,OR-2949,411,667,2026-02-10,ST-07,Washington
+SKU-44,Shoes,Clothing,106.85,CST-013,"Mercer, Curry and Thomas",OR-2684,68,199,2026-01-25,ST-04,Houston
+SKU-75,Desk,Home,62.04,CST-551,Stevens-Clark,OR-4861,147,934,2026-01-23,ST-02,Los Angeles
+SKU-97,Jeans,Clothing,71.59,CST-964,Anderson Ltd,OR-2151,646,758,2026-02-13,ST-06,Dallas
+SKU-61,Monitor,Electronics,79.16,CST-871,"Park, King and Barry",OR-6539,404,456,2026-01-27,ST-03,Chicago
+SKU-38,Chair,Home,109.58,CST-452,"Sims, Russo and Mckay",OR-4902,614,663,2026-01-21,ST-07,Washington
+SKU-97,Water,Food,90.69,CST-542,"Sullivan, Brown and Harrington",OR-2728,313,441,2026-02-11,ST-06,Dallas
+SKU-96,Laptop,Electronics,46.69,CST-527,Jennings-Anderson,OR-0081,30,664,2026-01-03,ST-06,Dallas
+SKU-32,Dumbbells,Sports,42.5,CST-368,Stanley LLC,OR-4257,51,228,2026-01-11,ST-05,Miami
+SKU-98,Jeans,Clothing,36.22,CST-520,"Herrera, Alvarado and Anderson",OR-2497,231,746,2026-01-12,ST-06,Dallas
+SKU-77,Bike,Sports,38.87,CST-925,Fischer and Sons,OR-9799,456,870,2026-01-11,ST-06,Dallas
+SKU-01,Monitor,Electronics,103.33,CST-406,"Sullivan, Chavez and Harding",OR-5736,282,882,2026-02-15,ST-03,Chicago
+SKU-75,Jeans,Clothing,92.73,CST-325,"Raymond, Stephens and Durham",OR-1667,49,463,2026-02-05,ST-05,Miami
+SKU-64,Jeans,Clothing,101.52,CST-777,Sanders PLC,OR-3696,371,452,2026-02-07,ST-01,New York
+SKU-30,Jacket,Clothing,18.85,CST-467,Cowan-Singh,OR-8606,11,48,2026-01-04,ST-06,Dallas
+SKU-44,Tea,Food,16.32,CST-833,Villanueva-Knight,OR-0439,50,90,2026-01-07,ST-05,Miami
+SKU-98,Snacks,Food,99.75,CST-852,"Price, Patel and Schroeder",OR-8102,516,673,2026-02-16,ST-06,Dallas
+SKU-24,Chair,Home,110.45,CST-856,"Atkins, Baxter and Warren",OR-9387,355,385,2026-01-04,ST-01,New York
+SKU-24,Lamp,Home,30.75,CST-497,"Bolton, Moore and Meyers",OR-1920,318,439,2026-02-17,ST-07,Washington
+SKU-12,Tablet,Electronics,100.87,CST-162,Anderson-Bernard,OR-5500,11,89,2026-02-28,ST-02,Los Angeles
+SKU-59,Water,Food,73.74,CST-814,Rodriguez PLC,OR-7947,24,31,2026-03-07,ST-03,Chicago
+SKU-82,Lamp,Home,109.14,CST-641,Oliver PLC,OR-8580,94,719,2026-01-26,ST-01,New York
+SKU-49,Bike,Sports,44.27,CST-921,Davis-Pineda,OR-0846,54,749,2026-01-16,ST-03,Chicago
+SKU-46,Chair,Home,32.93,CST-330,Thompson Ltd,OR-7413,416,763,2026-02-10,ST-01,New York
+SKU-94,Pillow,Home,48.88,CST-918,"Brooks, Garcia and Wright",OR-3612,12,29,2026-02-28,ST-04,Houston
+SKU-27,Chair,Home,102.54,CST-985,Robbins-Booker,OR-4682,390,618,2026-02-03,ST-05,Miami
+SKU-10,Coffee,Food,16.16,CST-911,Miller-Williams,OR-8192,471,974,2026-02-20,ST-04,Houston
+SKU-44,Lamp,Home,57.68,CST-592,Dean and Sons,OR-3962,440,810,2026-01-11,ST-07,Washington
+SKU-68,Chair,Home,19.56,CST-166,Gay Ltd,OR-5230,272,318,2026-02-26,ST-03,Chicago
+SKU-10,Shoes,Clothing,17.8,CST-031,Anderson-Smith,OR-5320,34,66,2026-01-03,ST-01,New York
+SKU-22,Coffee,Food,74.8,CST-748,Friedman-Bates,OR-2466,146,644,2026-02-18,ST-07,Washington
+SKU-32,Jeans,Clothing,114.02,CST-143,Phillips Ltd,OR-1851,56,296,2026-02-19,ST-02,Los Angeles
+SKU-88,Bike,Sports,18.4,CST-546,Manning-Pugh,OR-1687,435,779,2026-01-12,ST-04,Houston
+SKU-45,Coffee,Food,121.72,CST-456,Best Inc,OR-6780,142,144,2026-02-17,ST-03,Chicago
+SKU-98,T-Shirt,Clothing,74.88,CST-515,Hernandez Ltd,OR-5913,187,510,2026-02-26,ST-05,Miami
+SKU-37,Coffee,Food,105.75,CST-461,"Oneal, Patton and Lynn",OR-8264,3,16,2026-01-24,ST-01,New York
+SKU-28,Dumbbells,Sports,73.61,CST-069,Harris Inc,OR-9602,67,90,2026-01-13,ST-02,Los Angeles
+SKU-39,Gloves,Sports,75.57,CST-782,Bell Ltd,OR-0551,520,763,2026-02-21,ST-02,Los Angeles
+SKU-98,Jacket,Clothing,25.66,CST-048,Barber Ltd,OR-2235,530,750,2026-02-04,ST-07,Washington
+SKU-26,Snacks,Food,86.08,CST-970,Hamilton-Washington,OR-0883,76,216,2026-01-08,ST-02,Los Angeles
+SKU-25,Phone,Electronics,69.56,CST-225,Brown-Singh,OR-3653,34,333,2026-01-27,ST-01,New York
+SKU-11,Tablet,Electronics,36.83,CST-055,Carrillo-Pittman,OR-8839,191,281,2026-01-19,ST-07,Washington
+SKU-20,Jacket,Clothing,38.88,CST-741,Gardner-Cruz,OR-0824,66,503,2026-01-09,ST-04,Houston
+SKU-80,Bike,Sports,117.78,CST-217,Cook-Baker,OR-4115,498,544,2026-03-07,ST-06,Dallas
+SKU-59,Lamp,Home,27.98,CST-248,Hoffman-Soto,OR-4454,746,774,2026-01-03,ST-03,Chicago
+SKU-12,Pillow,Home,101.27,CST-812,"Gray, Gonzalez and Rios",OR-0920,769,996,2026-01-16,ST-03,Chicago
+SKU-29,Tea,Food,112.97,CST-611,"Williams, Jenkins and Hernandez",OR-3888,227,243,2026-02-07,ST-01,New York
+SKU-32,Lamp,Home,90.27,CST-909,"Hale, Cooper and Roberts",OR-3589,493,613,2026-03-04,ST-05,Miami
+SKU-57,Water,Food,107.5,CST-324,Stewart Inc,OR-7863,17,490,2026-02-22,ST-01,New York
+SKU-06,Shoes,Clothing,60.36,CST-027,Miller and Sons,OR-7892,64,468,2026-01-04,ST-05,Miami
+SKU-87,Jeans,Clothing,25.63,CST-654,Sanchez Inc,OR-5486,24,27,2026-01-01,ST-04,Houston
+SKU-75,Coffee,Food,63.78,CST-422,Cervantes-Kelley,OR-9237,12,463,2026-01-16,ST-01,New York
+SKU-75,Lamp,Home,86.37,CST-496,Buchanan-Gutierrez,OR-5167,132,329,2026-02-24,ST-07,Washington
+SKU-38,Monitor,Electronics,38.56,CST-178,"Zavala, Pena and Pearson",OR-0278,143,578,2026-01-07,ST-04,Houston
+SKU-79,Pillow,Home,71.75,CST-884,Fernandez Group,OR-8799,71,223,2026-03-01,ST-04,Houston
+SKU-34,Tablet,Electronics,70.65,CST-374,Mcdonald-Saunders,OR-9358,413,939,2026-01-02,ST-05,Miami
+SKU-30,Coffee,Food,60.42,CST-048,Klein-Yang,OR-4481,212,847,2026-01-21,ST-07,Washington
+SKU-66,Pillow,Home,114.39,CST-663,"Bell, Powers and Washington",OR-1529,104,143,2026-02-21,ST-04,Houston
+SKU-56,Water,Food,108.92,CST-571,Clay-Saunders,OR-1429,212,222,2026-03-01,ST-02,Los Angeles
+SKU-75,Monitor,Electronics,24.89,CST-044,Woodard-Garcia,OR-7185,648,920,2026-01-14,ST-06,Dallas
+SKU-92,Bike,Sports,21.72,CST-318,Smith-Bailey,OR-6450,137,354,2026-01-11,ST-05,Miami
+SKU-76,Gloves,Sports,72.05,CST-937,"Anthony, Moore and Brandt",OR-3877,124,514,2026-01-22,ST-02,Los Angeles
+SKU-32,Jacket,Clothing,41.02,CST-408,Harvey Group,OR-4719,649,797,2026-02-27,ST-01,New York
+SKU-72,Shoes,Clothing,122.97,CST-181,Jones Group,OR-6581,645,778,2026-01-06,ST-06,Dallas
+SKU-42,T-Shirt,Clothing,82.9,CST-617,"Smith, Hopkins and Charles",OR-8935,1,306,2026-01-01,ST-05,Miami
+SKU-75,Shoes,Clothing,54.49,CST-812,"Smith, Curry and Vaughan",OR-3731,317,352,2026-01-25,ST-04,Houston
+SKU-54,Coffee,Food,50.84,CST-931,Hamilton-Scott,OR-1434,431,599,2026-01-18,ST-06,Dallas
+SKU-49,T-Shirt,Clothing,45.98,CST-770,"Henderson, Holt and Harris",OR-8369,105,453,2026-01-23,ST-07,Washington
+SKU-62,Jeans,Clothing,42.38,CST-393,Sanchez Inc,OR-9963,176,184,2026-01-24,ST-05,Miami
+SKU-78,Water,Food,42.49,CST-937,"Thomas, Stokes and Oneal",OR-1896,27,46,2026-03-08,ST-05,Miami
+SKU-62,Coffee,Food,40.81,CST-457,Arnold Group,OR-8328,63,340,2026-01-18,ST-06,Dallas
+SKU-30,Shoes,Clothing,68.26,CST-536,"Garcia, Archer and Whitehead",OR-8703,75,710,2026-02-22,ST-01,New York
+SKU-32,Tea,Food,44.77,CST-720,Hernandez-Cole,OR-6377,360,543,2026-02-07,ST-07,Washington
+SKU-80,Tea,Food,34.76,CST-300,Anderson Inc,OR-6984,720,899,2026-02-04,ST-01,New York
+SKU-95,T-Shirt,Clothing,52.57,CST-899,Ruiz-Moore,OR-5804,621,809,2026-01-15,ST-07,Washington
+SKU-40,Laptop,Electronics,102.81,CST-739,Pena-Bishop,OR-6658,69,968,2026-01-01,ST-05,Miami
+SKU-17,Shoes,Clothing,25.71,CST-099,Stout Inc,OR-2422,297,749,2026-01-07,ST-02,Los Angeles
+SKU-90,Laptop,Electronics,40.92,CST-201,"Mitchell, Taylor and Vasquez",OR-9309,96,126,2026-02-21,ST-04,Houston
+SKU-17,Yoga Mat,Sports,33.05,CST-265,Coleman-Miller,OR-4754,29,35,2026-01-11,ST-06,Dallas
+SKU-32,Coffee,Food,78.03,CST-443,Flores Inc,OR-0588,293,397,2026-02-15,ST-05,Miami
+SKU-46,Bike,Sports,17.31,CST-120,"Elliott, Joseph and Hurley",OR-5656,308,458,2026-02-09,ST-06,Dallas
+SKU-68,Jeans,Clothing,107.05,CST-493,"Cruz, Smith and Green",OR-6785,95,761,2026-02-10,ST-05,Miami
+SKU-09,Tablet,Electronics,29.88,CST-308,Poole LLC,OR-7568,363,487,2026-01-25,ST-05,Miami
+SKU-43,T-Shirt,Clothing,89.46,CST-594,Holt-Mcgee,OR-3045,615,659,2026-03-03,ST-03,Chicago
+SKU-75,Tablet,Electronics,92.67,CST-999,James-Thornton,OR-9464,355,781,2026-02-14,ST-03,Chicago
+SKU-70,Jeans,Clothing,89.39,CST-716,"Wells, Cook and Larson",OR-2281,161,552,2026-02-20,ST-01,New York
+SKU-77,Coffee,Food,41.43,CST-584,"Mitchell, Ellison and Salazar",OR-7027,54,113,2026-02-10,ST-06,Dallas
+SKU-48,Tablet,Electronics,44.76,CST-270,"Dillon, Santos and Butler",OR-2121,144,162,2026-03-03,ST-02,Los Angeles
+SKU-43,Pillow,Home,48.42,CST-372,Roberson-House,OR-9013,107,991,2026-01-31,ST-04,Houston
+SKU-74,Yoga Mat,Sports,42.39,CST-477,"Hughes, Woodard and Lee",OR-7189,551,553,2026-02-09,ST-07,Washington
+SKU-22,Snacks,Food,43.0,CST-666,Johnson Group,OR-6539,627,668,2026-02-20,ST-05,Miami
+SKU-29,Desk,Home,50.74,CST-676,Vargas-Anderson,OR-1694,39,158,2026-01-16,ST-07,Washington
+SKU-44,Phone,Electronics,92.44,CST-250,Bell-Jackson,OR-4282,443,962,2026-01-01,ST-02,Los Angeles
+SKU-19,Lamp,Home,78.14,CST-325,Bowen-Rocha,OR-7182,20,21,2026-01-27,ST-01,New York
+SKU-15,Lamp,Home,53.3,CST-566,Lara Group,OR-2036,326,887,2026-01-01,ST-07,Washington
+SKU-12,Snacks,Food,59.33,CST-465,Snow-Morgan,OR-9795,388,666,2026-02-19,ST-05,Miami
+SKU-70,Water,Food,91.31,CST-665,"Williams, Robinson and Middleton",OR-0072,601,626,2026-01-12,ST-05,Miami
+SKU-14,Snacks,Food,18.84,CST-014,"Watkins, Owens and Daniels",OR-8884,38,116,2026-02-14,ST-05,Miami
+SKU-94,Water,Food,42.2,CST-253,"Garcia, Vargas and David",OR-6412,86,98,2026-02-06,ST-03,Chicago
+SKU-21,Desk,Home,61.68,CST-965,Pitts and Sons,OR-7972,842,993,2026-03-10,ST-07,Washington
+SKU-74,Jeans,Clothing,69.88,CST-785,Williams-Harris,OR-9588,676,766,2026-01-01,ST-07,Washington
+SKU-71,Pillow,Home,50.65,CST-539,Fox PLC,OR-9227,113,316,2026-01-13,ST-02,Los Angeles
+SKU-45,Monitor,Electronics,94.56,CST-457,Lewis-Ewing,OR-8284,97,227,2026-02-11,ST-04,Houston
+SKU-13,Bike,Sports,82.42,CST-905,Barnes-Castillo,OR-9579,45,268,2026-01-11,ST-01,New York
+SKU-32,Lamp,Home,118.14,CST-616,Wong-Howell,OR-6445,225,488,2026-02-26,ST-04,Houston
+SKU-96,Tea,Food,33.04,CST-088,"Barnett, Santos and Cannon",OR-5575,339,942,2026-02-06,ST-07,Washington
+SKU-14,Shoes,Clothing,54.44,CST-536,Bryant-Herrera,OR-9507,331,365,2026-01-29,ST-05,Miami
+SKU-27,Snacks,Food,124.98,CST-989,"Mills, Kelley and Lewis",OR-2307,317,381,2026-01-08,ST-03,Chicago
+SKU-50,T-Shirt,Clothing,41.14,CST-924,"Shelton, Parker and Reed",OR-8450,128,457,2026-01-13,ST-04,Houston
+SKU-43,T-Shirt,Clothing,71.27,CST-196,"Henry, Johnson and Novak",OR-2346,85,653,2026-03-08,ST-04,Houston
+SKU-55,Dumbbells,Sports,116.78,CST-586,"Griffin, Stokes and Robertson",OR-6343,22,216,2026-01-23,ST-04,Houston
+SKU-40,Jacket,Clothing,16.63,CST-140,Wheeler-Gray,OR-7748,19,28,2026-02-13,ST-04,Houston
+SKU-53,Tea,Food,74.39,CST-363,"Bradley, Graham and Shepherd",OR-5588,928,944,2026-02-05,ST-07,Washington
+SKU-07,Phone,Electronics,97.38,CST-172,Lane-Flynn,OR-5912,119,490,2026-03-08,ST-01,New York
+SKU-61,Dumbbells,Sports,94.02,CST-687,Martin-Richmond,OR-1383,200,284,2026-02-23,ST-01,New York
+SKU-60,Gloves,Sports,112.87,CST-641,"Hess, Hull and Richardson",OR-4749,517,751,2026-01-15,ST-01,New York
+SKU-43,Jeans,Clothing,97.07,CST-950,Blair PLC,OR-0761,185,258,2026-02-26,ST-06,Dallas
+SKU-25,Coffee,Food,85.87,CST-232,Walton and Sons,OR-8482,162,166,2026-02-07,ST-02,Los Angeles
+SKU-66,Dumbbells,Sports,59.92,CST-668,Merritt-Castillo,OR-0169,699,959,2026-01-02,ST-02,Los Angeles
+SKU-08,Pillow,Home,52.32,CST-160,Williams-Barton,OR-6261,244,381,2026-02-01,ST-05,Miami
+SKU-87,Gloves,Sports,65.73,CST-426,Wilkerson Inc,OR-1736,113,147,2026-02-16,ST-05,Miami
+SKU-27,Laptop,Electronics,55.46,CST-181,Schmidt LLC,OR-6045,178,713,2026-03-08,ST-06,Dallas
+SKU-09,Coffee,Food,112.47,CST-548,"White, Moreno and Andrews",OR-6096,14,301,2026-02-13,ST-04,Houston
+SKU-44,Jacket,Clothing,52.11,CST-566,Miranda-Ibarra,OR-6214,440,536,2026-02-15,ST-07,Washington
+SKU-24,Tablet,Electronics,103.32,CST-570,Brooks Inc,OR-5442,866,935,2026-03-09,ST-02,Los Angeles
+SKU-64,Tea,Food,123.32,CST-747,Powell-Barnes,OR-4794,25,98,2026-02-13,ST-02,Los Angeles
+SKU-28,Tea,Food,116.59,CST-155,"Davis, Hill and Bass",OR-2735,81,315,2026-01-24,ST-01,New York
+SKU-05,Gloves,Sports,100.64,CST-968,Hernandez LLC,OR-1590,304,689,2026-01-25,ST-03,Chicago
+SKU-05,Tablet,Electronics,46.09,CST-711,Hopkins LLC,OR-7152,771,834,2026-01-09,ST-07,Washington
+SKU-32,Jeans,Clothing,114.37,CST-373,Young-Stein,OR-1487,244,612,2026-02-07,ST-07,Washington
+SKU-95,Tablet,Electronics,77.84,CST-537,Reynolds Inc,OR-6777,190,191,2026-01-18,ST-06,Dallas
+SKU-39,Yoga Mat,Sports,91.68,CST-825,Ray-Reed,OR-7404,523,547,2026-02-26,ST-04,Houston
+SKU-42,Water,Food,66.05,CST-961,Barrett-Hoffman,OR-5898,2,5,2026-01-17,ST-02,Los Angeles
+SKU-87,Laptop,Electronics,43.41,CST-620,"Jones, Sparks and Gray",OR-4253,53,76,2026-01-04,ST-04,Houston
+SKU-86,Tablet,Electronics,24.82,CST-306,Carrillo-Gomez,OR-6982,516,636,2026-01-20,ST-07,Washington
+SKU-79,Phone,Electronics,88.73,CST-506,"Sanchez, Young and Evans",OR-6464,271,532,2026-01-12,ST-01,New York
+SKU-25,Chair,Home,52.52,CST-121,Luna-Holloway,OR-8468,508,827,2026-01-06,ST-01,New York
+SKU-27,Monitor,Electronics,113.78,CST-554,"Long, Williams and Mack",OR-5527,468,727,2026-02-11,ST-07,Washington
+SKU-19,Monitor,Electronics,123.34,CST-824,Williams Group,OR-8761,322,439,2026-01-13,ST-02,Los Angeles
+SKU-20,Yoga Mat,Sports,83.32,CST-010,Moore-Evans,OR-6347,40,262,2026-03-08,ST-01,New York
+SKU-50,Coffee,Food,99.79,CST-021,Daniels Inc,OR-4250,63,144,2026-03-01,ST-01,New York
+SKU-31,Jacket,Clothing,114.61,CST-093,Bond-Thompson,OR-4671,45,204,2026-01-20,ST-03,Chicago
+SKU-12,Coffee,Food,84.48,CST-463,"Edwards, Mccall and Wilson",OR-1586,130,145,2026-01-13,ST-07,Washington
+SKU-52,Dumbbells,Sports,94.15,CST-886,Austin-Reeves,OR-5239,90,236,2026-02-01,ST-05,Miami
+SKU-87,Tea,Food,77.63,CST-177,Atkins-Lewis,OR-3293,9,10,2026-03-04,ST-04,Houston
+SKU-79,Pillow,Home,110.74,CST-656,Ford LLC,OR-3377,227,912,2026-02-21,ST-04,Houston
+SKU-83,Lamp,Home,99.65,CST-931,Wilson-Sanchez,OR-4688,197,368,2026-03-02,ST-03,Chicago
+SKU-20,Chair,Home,93.63,CST-914,Evans Ltd,OR-7449,450,660,2026-03-05,ST-02,Los Angeles
+SKU-57,Jeans,Clothing,19.37,CST-401,Nelson-Bowen,OR-2591,24,905,2026-01-05,ST-04,Houston
+SKU-20,Jacket,Clothing,64.92,CST-344,Sanders and Sons,OR-9567,5,225,2026-02-13,ST-03,Chicago
+SKU-10,Snacks,Food,49.01,CST-373,Wade-Hicks,OR-4422,135,285,2026-02-05,ST-05,Miami
+SKU-48,Desk,Home,33.95,CST-888,Dalton-Morris,OR-2656,407,473,2026-02-02,ST-02,Los Angeles
+SKU-84,Coffee,Food,120.37,CST-123,Deleon LLC,OR-4385,619,627,2026-01-02,ST-02,Los Angeles
+SKU-80,Water,Food,80.21,CST-095,Ross-Hunt,OR-8056,149,269,2026-03-04,ST-02,Los Angeles
+SKU-44,T-Shirt,Clothing,56.02,CST-442,"Allen, Henson and Tucker",OR-4476,399,669,2026-01-19,ST-05,Miami
+SKU-08,Jeans,Clothing,96.96,CST-288,"Ray, Willis and Williams",OR-2245,11,440,2026-01-08,ST-07,Washington
+SKU-11,Dumbbells,Sports,33.09,CST-332,Holmes Ltd,OR-3481,329,705,2026-01-28,ST-07,Washington
+SKU-28,Gloves,Sports,53.72,CST-791,Franco Ltd,OR-3027,205,467,2026-03-10,ST-04,Houston
+SKU-70,Jeans,Clothing,19.42,CST-165,Welch-Walker,OR-8897,130,940,2026-02-26,ST-03,Chicago
+SKU-54,Dumbbells,Sports,52.76,CST-858,"King, Smith and Smith",OR-3808,104,299,2026-03-09,ST-06,Dallas
+SKU-16,Chair,Home,118.32,CST-589,Davis-Howe,OR-5749,29,824,2026-01-22,ST-07,Washington
+SKU-69,Water,Food,104.33,CST-525,Mcbride-Miller,OR-9199,94,133,2026-01-23,ST-01,New York
+SKU-45,Lamp,Home,90.1,CST-050,Johnson Ltd,OR-0979,502,579,2026-02-03,ST-04,Houston
+SKU-33,Jacket,Clothing,105.75,CST-439,Collins-Kelly,OR-1918,514,734,2026-03-01,ST-04,Houston
+SKU-48,Laptop,Electronics,19.39,CST-689,Jensen Ltd,OR-6561,10,52,2026-02-01,ST-02,Los Angeles
+SKU-24,Lamp,Home,22.48,CST-949,"Turner, Arnold and Ryan",OR-9479,152,898,2026-01-31,ST-05,Miami
+SKU-00,Gloves,Sports,99.83,CST-003,Harris-Livingston,OR-5466,271,939,2026-02-11,ST-05,Miami
+SKU-65,Water,Food,70.19,CST-622,"Mitchell, Adams and Faulkner",OR-9457,127,790,2026-02-09,ST-06,Dallas
+SKU-75,Tea,Food,92.35,CST-617,Davis-Phelps,OR-0254,420,551,2026-03-03,ST-07,Washington
+SKU-21,Snacks,Food,23.46,CST-232,"Blake, Johnson and Jones",OR-0032,198,612,2026-01-02,ST-01,New York
+SKU-90,Chair,Home,59.09,CST-068,"Roth, Alvarado and Armstrong",OR-0170,38,627,2026-01-31,ST-06,Dallas
+SKU-23,Yoga Mat,Sports,73.75,CST-041,Butler Inc,OR-1505,135,235,2026-01-09,ST-05,Miami
+SKU-38,Tablet,Electronics,25.79,CST-626,Flores Group,OR-8591,421,466,2026-02-04,ST-03,Chicago
+SKU-77,Chair,Home,30.1,CST-369,Clark and Sons,OR-3079,130,901,2026-01-17,ST-03,Chicago
+SKU-68,Bike,Sports,107.99,CST-797,"Gonzalez, Clark and Short",OR-8430,22,161,2026-01-21,ST-03,Chicago
+SKU-21,Dumbbells,Sports,74.25,CST-411,Rice and Sons,OR-8751,335,378,2026-02-05,ST-04,Houston
+SKU-67,Bike,Sports,76.34,CST-942,Gibbs-Baker,OR-7130,8,78,2026-01-14,ST-07,Washington
+SKU-91,Water,Food,52.71,CST-471,"Tran, Lewis and Blanchard",OR-0926,109,851,2026-03-10,ST-05,Miami
+SKU-88,Dumbbells,Sports,75.47,CST-608,Allen-Dyer,OR-9436,17,29,2026-01-28,ST-05,Miami
+SKU-37,Pillow,Home,100.07,CST-096,Barnes PLC,OR-1001,540,973,2026-01-27,ST-06,Dallas
+SKU-83,Lamp,Home,46.03,CST-666,Williams Group,OR-6843,173,794,2026-02-16,ST-03,Chicago
+SKU-13,Coffee,Food,101.64,CST-189,Gonzalez LLC,OR-2512,28,66,2026-01-07,ST-02,Los Angeles
+SKU-99,Gloves,Sports,91.39,CST-314,Anderson LLC,OR-3761,348,736,2026-03-10,ST-04,Houston
+SKU-95,Phone,Electronics,72.35,CST-052,Lewis Group,OR-8147,275,923,2026-02-12,ST-01,New York
+SKU-74,T-Shirt,Clothing,115.66,CST-867,Johnson Inc,OR-9829,541,749,2026-02-14,ST-06,Dallas
+SKU-33,Coffee,Food,29.7,CST-061,Morrison-Horton,OR-7543,718,910,2026-01-23,ST-05,Miami
+SKU-01,Dumbbells,Sports,57.65,CST-326,"Miller, Floyd and Reid",OR-3244,195,568,2026-02-07,ST-06,Dallas
+SKU-94,Gloves,Sports,60.57,CST-813,Moses PLC,OR-8435,254,329,2026-02-18,ST-02,Los Angeles
+SKU-98,Water,Food,87.92,CST-474,Dickson-Nichols,OR-4449,7,45,2026-02-19,ST-05,Miami
+SKU-01,Phone,Electronics,67.33,CST-412,Johnson-Garcia,OR-5803,145,148,2026-03-08,ST-06,Dallas
+SKU-51,Chair,Home,103.37,CST-568,Martinez-Tate,OR-1282,314,463,2026-01-26,ST-02,Los Angeles
+SKU-97,Lamp,Home,45.48,CST-492,Mclean LLC,OR-4987,20,159,2026-01-19,ST-07,Washington
+SKU-53,Dumbbells,Sports,25.62,CST-185,Huffman LLC,OR-2812,60,336,2026-01-23,ST-06,Dallas
+SKU-91,Phone,Electronics,85.12,CST-158,Powers-White,OR-0100,262,351,2026-02-09,ST-05,Miami
+SKU-79,Monitor,Electronics,58.79,CST-329,"Gordon, Khan and Williams",OR-6350,126,866,2026-01-24,ST-02,Los Angeles
+SKU-30,Tablet,Electronics,48.01,CST-489,Hicks Inc,OR-4065,85,776,2026-03-04,ST-04,Houston
+SKU-08,Water,Food,33.75,CST-132,Ramirez PLC,OR-0928,52,430,2026-03-04,ST-04,Houston
+SKU-13,Gloves,Sports,69.09,CST-604,Reyes-Snyder,OR-3273,565,742,2026-02-25,ST-04,Houston
+SKU-77,Jeans,Clothing,92.07,CST-501,"Hernandez, Jones and Manning",OR-8185,243,275,2026-02-18,ST-04,Houston
+SKU-54,T-Shirt,Clothing,95.5,CST-165,"Fox, Jackson and Wallace",OR-4928,492,568,2026-01-02,ST-03,Chicago
+SKU-62,Pillow,Home,111.44,CST-661,"Swanson, Brady and Ward",OR-8913,287,791,2026-01-24,ST-03,Chicago
+SKU-91,Coffee,Food,18.92,CST-153,"Dean, Smith and Mclaughlin",OR-4155,178,504,2026-03-07,ST-01,New York
+SKU-18,Gloves,Sports,72.09,CST-740,Romero-Henry,OR-4199,94,533,2026-01-23,ST-02,Los Angeles
+SKU-57,Coffee,Food,107.72,CST-356,"Hamilton, Smith and Young",OR-8059,49,133,2026-02-05,ST-01,New York
+SKU-31,T-Shirt,Clothing,101.29,CST-227,Jones LLC,OR-8450,59,839,2026-02-17,ST-05,Miami
+SKU-11,Yoga Mat,Sports,47.91,CST-072,Evans Ltd,OR-6918,7,815,2026-02-06,ST-06,Dallas
+SKU-91,Tea,Food,111.35,CST-243,Wall-Rose,OR-8248,295,399,2026-02-12,ST-06,Dallas
+SKU-93,Tablet,Electronics,37.59,CST-272,Rose Group,OR-4478,124,600,2026-02-08,ST-01,New York
+SKU-88,Coffee,Food,93.6,CST-156,Campbell LLC,OR-7187,58,380,2026-01-21,ST-07,Washington
+SKU-72,Dumbbells,Sports,41.22,CST-125,"Keller, Novak and Wood",OR-8682,864,914,2026-01-16,ST-02,Los Angeles
+SKU-46,Pillow,Home,55.43,CST-931,Knox and Sons,OR-2725,338,543,2026-02-09,ST-04,Houston
+SKU-10,Tablet,Electronics,57.48,CST-312,Carpenter-Espinoza,OR-2225,161,487,2026-03-01,ST-02,Los Angeles
+SKU-73,Phone,Electronics,118.9,CST-936,"Fisher, Jensen and Collins",OR-4123,260,845,2026-03-04,ST-07,Washington
+SKU-91,Bike,Sports,85.84,CST-377,"Hines, Martin and Lutz",OR-9282,44,315,2026-01-05,ST-02,Los Angeles
+SKU-83,Coffee,Food,73.3,CST-995,"Smith, Barnes and Smith",OR-6978,6,132,2026-02-11,ST-04,Houston
+SKU-18,Water,Food,57.41,CST-065,"Mata, Holmes and Andrews",OR-4289,63,88,2026-01-03,ST-02,Los Angeles
+SKU-85,Water,Food,115.16,CST-248,Frazier-Barber,OR-6715,29,404,2026-02-11,ST-03,Chicago
+SKU-43,Lamp,Home,37.87,CST-674,Hale-Johnson,OR-3411,224,859,2026-01-05,ST-06,Dallas
+SKU-98,Desk,Home,97.51,CST-602,"Stafford, Gomez and Brown",OR-2532,382,923,2026-02-25,ST-03,Chicago
+SKU-65,T-Shirt,Clothing,72.85,CST-536,Riley-Eaton,OR-3701,736,765,2026-01-18,ST-07,Washington
+SKU-64,Phone,Electronics,54.38,CST-627,Simmons Inc,OR-8188,463,892,2026-02-09,ST-05,Miami
+SKU-89,Jacket,Clothing,90.33,CST-434,"Wilson, Farley and Ryan",OR-5070,185,269,2026-01-17,ST-05,Miami
+SKU-09,Gloves,Sports,114.67,CST-595,"Mcmillan, Graham and Nelson",OR-6718,54,65,2026-01-26,ST-01,New York
+SKU-54,Monitor,Electronics,119.38,CST-048,Ramos Ltd,OR-6290,313,806,2026-01-09,ST-04,Houston
+SKU-91,Snacks,Food,122.03,CST-990,"Vaughan, Vargas and Sullivan",OR-4664,486,540,2026-02-15,ST-05,Miami
+SKU-38,Snacks,Food,89.14,CST-099,Brown Ltd,OR-4495,154,322,2026-02-03,ST-07,Washington
+SKU-48,Laptop,Electronics,85.28,CST-593,"Parker, Tapia and Wilson",OR-7713,180,761,2026-01-08,ST-03,Chicago
+SKU-45,Jacket,Clothing,99.86,CST-121,Sloan PLC,OR-7895,148,234,2026-01-14,ST-04,Houston
+SKU-88,Pillow,Home,120.75,CST-524,Castillo and Sons,OR-0318,657,881,2026-03-04,ST-05,Miami
+SKU-54,Bike,Sports,85.65,CST-756,"Matthews, Thompson and Wright",OR-8422,5,9,2026-01-31,ST-01,New York
+SKU-61,Yoga Mat,Sports,42.86,CST-002,Jones-Fowler,OR-1631,735,797,2026-01-11,ST-04,Houston
+SKU-72,Desk,Home,49.1,CST-443,"Powell, Welch and Taylor",OR-7270,505,747,2026-02-12,ST-02,Los Angeles
+SKU-41,T-Shirt,Clothing,19.72,CST-220,Cunningham-Lopez,OR-4790,218,323,2026-02-14,ST-04,Houston
+SKU-06,Desk,Home,98.44,CST-940,Dunn-Villarreal,OR-3150,406,463,2026-01-13,ST-05,Miami
+SKU-36,Jeans,Clothing,62.48,CST-722,"Terrell, Sawyer and Gardner",OR-2497,53,237,2026-01-28,ST-05,Miami
+SKU-74,Phone,Electronics,22.54,CST-246,David PLC,OR-5292,857,907,2026-01-04,ST-02,Los Angeles
+SKU-48,Phone,Electronics,30.96,CST-001,Wright LLC,OR-9077,246,602,2026-02-20,ST-03,Chicago
+SKU-68,Coffee,Food,44.6,CST-868,"Hopkins, Nichols and Huffman",OR-0058,150,267,2026-02-20,ST-01,New York
+SKU-27,Phone,Electronics,47.57,CST-594,Cruz PLC,OR-9209,18,968,2026-02-11,ST-04,Houston
+SKU-93,T-Shirt,Clothing,121.83,CST-002,Johnson Group,OR-3420,515,630,2026-01-05,ST-03,Chicago
+SKU-86,Snacks,Food,71.42,CST-881,Cox-Hanson,OR-1876,541,590,2026-02-24,ST-04,Houston
+SKU-81,Desk,Home,26.28,CST-242,Morgan Group,OR-1793,261,630,2026-01-26,ST-07,Washington
+SKU-75,Bike,Sports,98.58,CST-548,Madden Inc,OR-1075,119,806,2026-01-20,ST-06,Dallas
+SKU-17,Pillow,Home,47.09,CST-127,Barton LLC,OR-9404,158,923,2026-01-03,ST-01,New York
+SKU-43,Water,Food,114.37,CST-363,"Ellis, Chavez and Chandler",OR-7346,9,484,2026-02-20,ST-01,New York
+SKU-26,Coffee,Food,38.97,CST-523,"Glass, Jones and Charles",OR-3337,237,260,2026-02-23,ST-04,Houston
+SKU-55,Jacket,Clothing,81.21,CST-739,Massey-Lewis,OR-1994,34,360,2026-01-30,ST-07,Washington
+SKU-87,Bike,Sports,110.75,CST-818,"Mcfarland, Miller and Moss",OR-8011,1,2,2026-01-01,ST-04,Houston
+SKU-03,Monitor,Electronics,111.54,CST-128,Anderson Ltd,OR-1138,738,914,2026-01-14,ST-05,Miami
+SKU-34,Water,Food,33.26,CST-786,Brown PLC,OR-0783,8,89,2026-01-14,ST-04,Houston
+SKU-42,Dumbbells,Sports,73.79,CST-266,Campbell Inc,OR-1143,185,879,2026-02-02,ST-07,Washington
+SKU-83,Jeans,Clothing,84.05,CST-548,Graham-Martinez,OR-4938,48,134,2026-02-03,ST-04,Houston
+SKU-61,Coffee,Food,26.79,CST-265,Jefferson Ltd,OR-2534,42,62,2026-02-25,ST-04,Houston
+SKU-01,Pillow,Home,116.88,CST-521,Lopez-Diaz,OR-1289,277,453,2026-01-28,ST-03,Chicago
+SKU-85,Coffee,Food,58.28,CST-535,Welch-Anderson,OR-7545,856,871,2026-03-03,ST-05,Miami
+SKU-28,Desk,Home,95.2,CST-968,Cole Ltd,OR-3100,6,40,2026-03-07,ST-03,Chicago
+SKU-03,Lamp,Home,39.27,CST-725,"Parsons, Cannon and Williams",OR-3408,13,41,2026-03-01,ST-04,Houston
+SKU-38,Phone,Electronics,24.1,CST-941,Hartman PLC,OR-0845,788,921,2026-01-24,ST-04,Houston
+SKU-90,Dumbbells,Sports,62.53,CST-025,Hardin-Welch,OR-4659,51,999,2026-02-12,ST-05,Miami
+SKU-24,Gloves,Sports,102.05,CST-318,Meyer-Wilcox,OR-9130,452,861,2026-02-22,ST-04,Houston
+SKU-47,Monitor,Electronics,93.23,CST-627,"Vega, Baker and Ponce",OR-4732,200,293,2026-02-02,ST-05,Miami
+SKU-54,Yoga Mat,Sports,111.91,CST-537,Russo-Martin,OR-4285,159,206,2026-03-07,ST-03,Chicago
+SKU-97,Tea,Food,38.4,CST-517,Robertson Group,OR-3734,234,375,2026-02-04,ST-06,Dallas
+SKU-41,Jacket,Clothing,16.78,CST-718,Carroll Group,OR-4524,21,39,2026-03-09,ST-03,Chicago
+SKU-61,Tablet,Electronics,64.02,CST-245,"Anderson, Nunez and Hernandez",OR-9353,811,935,2026-02-18,ST-01,New York
+SKU-68,Laptop,Electronics,88.82,CST-781,Cline-Wilson,OR-8866,213,215,2026-02-08,ST-07,Washington
+SKU-78,Pillow,Home,55.04,CST-259,"Clark, Hernandez and King",OR-9399,211,341,2026-02-27,ST-06,Dallas
+SKU-11,Pillow,Home,20.06,CST-868,Marshall-Pratt,OR-1713,386,391,2026-03-10,ST-05,Miami
+SKU-28,Water,Food,115.8,CST-343,"Salazar, Camacho and Miller",OR-4322,85,718,2026-01-25,ST-02,Los Angeles
+SKU-48,Desk,Home,42.34,CST-705,Smith Group,OR-5021,214,339,2026-01-03,ST-05,Miami
+SKU-09,Yoga Mat,Sports,80.64,CST-637,"Henderson, Walker and Anderson",OR-8213,152,774,2026-02-27,ST-02,Los Angeles
+SKU-16,Jacket,Clothing,57.02,CST-707,"Foley, Navarro and Watson",OR-2995,336,838,2026-02-23,ST-05,Miami
+SKU-10,Bike,Sports,100.97,CST-458,"Miller, Coleman and Bush",OR-0225,167,947,2026-02-13,ST-02,Los Angeles
+SKU-27,Yoga Mat,Sports,31.47,CST-194,"Perez, Romero and Spencer",OR-0729,178,247,2026-01-21,ST-02,Los Angeles
+SKU-50,Chair,Home,75.83,CST-307,Martin PLC,OR-8940,116,891,2026-02-11,ST-07,Washington
+SKU-97,Gloves,Sports,84.98,CST-519,Wood Group,OR-8431,75,345,2026-01-24,ST-03,Chicago
+SKU-45,Tea,Food,83.53,CST-669,"Collins, Christensen and Melton",OR-6669,503,619,2026-01-13,ST-06,Dallas
+SKU-92,Snacks,Food,37.96,CST-148,Perez LLC,OR-6648,760,793,2026-02-16,ST-05,Miami
+SKU-52,T-Shirt,Clothing,102.03,CST-704,Gordon-Rogers,OR-3666,272,486,2026-03-03,ST-05,Miami
+SKU-74,Dumbbells,Sports,45.78,CST-512,Johnson-Moore,OR-8589,159,840,2026-01-09,ST-07,Washington
+SKU-99,Jacket,Clothing,41.23,CST-268,"Frederick, Thompson and Thornton",OR-7624,429,815,2026-01-19,ST-03,Chicago
+SKU-69,Chair,Home,84.41,CST-389,Campbell-Vaughan,OR-1239,547,857,2026-03-01,ST-02,Los Angeles
+SKU-41,Water,Food,107.59,CST-002,Villanueva and Sons,OR-7389,1,18,2026-01-20,ST-02,Los Angeles
+SKU-85,T-Shirt,Clothing,107.93,CST-742,Oliver Group,OR-3605,191,765,2026-03-03,ST-01,New York
+SKU-34,Coffee,Food,43.33,CST-392,"Alexander, Thompson and Brennan",OR-0089,33,35,2026-02-03,ST-06,Dallas
+SKU-28,Water,Food,42.18,CST-868,Jackson and Sons,OR-2164,211,251,2026-03-10,ST-07,Washington
+SKU-35,Yoga Mat,Sports,44.93,CST-379,Davis Group,OR-5660,952,960,2026-03-03,ST-07,Washington
+SKU-04,T-Shirt,Clothing,122.43,CST-319,Rosales-Church,OR-6435,366,694,2026-02-13,ST-01,New York
+SKU-05,Monitor,Electronics,94.38,CST-517,Thomas Inc,OR-3166,80,116,2026-01-18,ST-05,Miami
+SKU-47,T-Shirt,Clothing,74.18,CST-586,"Delacruz, Whitaker and Green",OR-8580,301,483,2026-01-16,ST-03,Chicago
+SKU-76,Jeans,Clothing,123.65,CST-024,Martin PLC,OR-8791,224,839,2026-01-31,ST-04,Houston
+SKU-63,Coffee,Food,108.02,CST-321,Carson-Hill,OR-1728,909,970,2026-01-09,ST-03,Chicago
+SKU-84,Coffee,Food,119.44,CST-331,"Anderson, Murray and Coleman",OR-4391,760,884,2026-02-22,ST-07,Washington
+SKU-93,Water,Food,65.83,CST-780,"Chaney, Carson and Farmer",OR-7046,521,809,2026-03-08,ST-05,Miami
+SKU-49,Shoes,Clothing,19.32,CST-349,Woodard PLC,OR-9407,307,922,2026-01-08,ST-03,Chicago
+SKU-75,Pillow,Home,15.81,CST-232,Snyder LLC,OR-5647,155,345,2026-03-09,ST-02,Los Angeles
+SKU-34,Phone,Electronics,120.86,CST-524,Mcclain and Sons,OR-6301,261,581,2026-03-01,ST-04,Houston
+SKU-49,Lamp,Home,53.12,CST-019,Coleman-Barker,OR-5382,390,790,2026-01-05,ST-03,Chicago
+SKU-11,Gloves,Sports,24.52,CST-617,Brown Ltd,OR-2777,243,837,2026-03-05,ST-06,Dallas
+SKU-41,Desk,Home,66.21,CST-039,Zimmerman-King,OR-7217,74,81,2026-01-12,ST-01,New York
+SKU-28,Jeans,Clothing,104.57,CST-036,Turner and Sons,OR-3189,104,268,2026-01-04,ST-04,Houston
+SKU-59,Chair,Home,60.74,CST-781,Murphy-Singh,OR-4744,442,594,2026-01-02,ST-06,Dallas
+SKU-51,Chair,Home,105.99,CST-582,Harris-Jimenez,OR-7664,79,135,2026-01-31,ST-06,Dallas
+SKU-89,Monitor,Electronics,97.61,CST-904,Mitchell-Brown,OR-7883,334,512,2026-02-23,ST-05,Miami
+SKU-97,Snacks,Food,18.91,CST-426,"Flynn, Wyatt and Hicks",OR-0805,64,964,2026-03-05,ST-02,Los Angeles
+SKU-54,Snacks,Food,60.12,CST-479,"Collins, Beck and Perez",OR-1080,174,472,2026-01-05,ST-01,New York
+SKU-76,Laptop,Electronics,42.62,CST-071,Abbott Inc,OR-3460,349,722,2026-02-17,ST-02,Los Angeles
+SKU-61,Phone,Electronics,105.87,CST-657,"Calderon, Romero and Medina",OR-6788,192,208,2026-01-11,ST-04,Houston
+SKU-64,Bike,Sports,118.39,CST-643,Mathews PLC,OR-2793,25,148,2026-02-14,ST-05,Miami
+SKU-75,Tea,Food,121.73,CST-880,"Jimenez, Jones and Olson",OR-7948,152,929,2026-03-07,ST-03,Chicago
+SKU-75,Water,Food,43.48,CST-428,Haley-Whitaker,OR-2471,390,390,2026-01-28,ST-03,Chicago
+SKU-86,Tea,Food,34.88,CST-758,"Garcia, Wilkerson and Stafford",OR-1086,8,22,2026-01-07,ST-02,Los Angeles
+SKU-05,Bike,Sports,39.86,CST-099,Ray-Stephenson,OR-6822,178,891,2026-03-05,ST-03,Chicago
+SKU-56,Snacks,Food,122.07,CST-816,Smith-Williams,OR-7458,295,295,2026-03-08,ST-03,Chicago
+SKU-53,Bike,Sports,80.1,CST-356,Sanchez PLC,OR-3157,679,847,2026-03-09,ST-02,Los Angeles
+SKU-64,T-Shirt,Clothing,56.47,CST-912,Estrada PLC,OR-1619,444,510,2026-03-09,ST-07,Washington
+SKU-94,Shoes,Clothing,113.22,CST-144,Campbell Ltd,OR-3875,48,633,2026-02-18,ST-03,Chicago
+SKU-82,Monitor,Electronics,98.94,CST-301,"Wolfe, Neal and Griffith",OR-5459,287,355,2026-02-09,ST-01,New York
+SKU-80,Laptop,Electronics,49.11,CST-652,"Kirk, Lewis and Romero",OR-5967,725,843,2026-02-28,ST-03,Chicago
+SKU-75,Phone,Electronics,72.36,CST-336,Stevens-Burns,OR-7838,300,347,2026-01-01,ST-06,Dallas
+SKU-36,Shoes,Clothing,45.67,CST-579,"Webb, Ellis and Hurst",OR-8100,465,519,2026-01-29,ST-05,Miami
+SKU-05,T-Shirt,Clothing,113.15,CST-499,"Black, Ellis and Nichols",OR-9895,622,812,2026-02-11,ST-01,New York
+SKU-79,Dumbbells,Sports,80.41,CST-227,Sweeney PLC,OR-5839,512,539,2026-01-24,ST-05,Miami
+SKU-34,Jacket,Clothing,68.43,CST-121,Watson Inc,OR-2471,189,461,2026-01-14,ST-07,Washington
+SKU-66,Bike,Sports,47.27,CST-951,Williams-Baldwin,OR-1826,511,882,2026-01-21,ST-07,Washington
+SKU-89,Tablet,Electronics,97.86,CST-866,"Johnson, Smith and Pugh",OR-0321,208,854,2026-01-18,ST-05,Miami
+SKU-76,Gloves,Sports,70.51,CST-403,Kelly Group,OR-5940,184,284,2026-01-16,ST-01,New York
+SKU-36,Dumbbells,Sports,71.1,CST-696,Vasquez and Sons,OR-6445,323,325,2026-02-11,ST-03,Chicago
+SKU-42,Jacket,Clothing,35.23,CST-323,"Jones, Hill and Leblanc",OR-5441,460,969,2026-01-20,ST-02,Los Angeles
+SKU-49,Tea,Food,99.29,CST-530,Baxter-Rush,OR-2035,726,849,2026-02-07,ST-07,Washington
+SKU-60,Laptop,Electronics,90.89,CST-170,Parsons and Sons,OR-4457,29,241,2026-02-12,ST-04,Houston
+SKU-03,Pillow,Home,45.76,CST-975,Ortiz PLC,OR-4572,69,481,2026-03-05,ST-01,New York
+SKU-11,Lamp,Home,50.63,CST-277,Myers-Robinson,OR-6871,226,423,2026-01-10,ST-04,Houston
+SKU-45,Pillow,Home,98.24,CST-369,Allen Ltd,OR-6886,11,243,2026-01-16,ST-01,New York
+SKU-92,Chair,Home,40.29,CST-594,"Conrad, Howell and Strickland",OR-2582,16,711,2026-02-17,ST-03,Chicago
+SKU-84,Laptop,Electronics,125.86,CST-571,"Mcbride, Riley and Gaines",OR-3208,30,385,2026-02-11,ST-05,Miami
+SKU-21,Desk,Home,119.44,CST-734,Ochoa-Turner,OR-6002,145,491,2026-03-02,ST-06,Dallas
+SKU-26,Dumbbells,Sports,22.21,CST-580,"Nelson, Adams and Estrada",OR-8253,114,397,2026-01-14,ST-01,New York
+SKU-41,Jacket,Clothing,19.86,CST-867,Short Group,OR-4588,198,656,2026-03-03,ST-07,Washington
+SKU-70,Water,Food,60.96,CST-180,"Watson, Martinez and Chang",OR-7037,64,174,2026-01-08,ST-04,Houston
+SKU-45,Coffee,Food,70.36,CST-784,Garza LLC,OR-6668,179,388,2026-01-26,ST-06,Dallas
+SKU-70,Coffee,Food,81.92,CST-870,Odom-Glover,OR-6638,230,789,2026-02-01,ST-07,Washington
+SKU-12,Laptop,Electronics,76.39,CST-343,Guerrero LLC,OR-0151,225,760,2026-02-09,ST-02,Los Angeles
+SKU-54,T-Shirt,Clothing,109.32,CST-612,"Rodriguez, Warren and Miller",OR-4944,285,532,2026-01-28,ST-05,Miami
+SKU-81,Laptop,Electronics,66.9,CST-540,Sanders-Guzman,OR-5401,769,823,2026-01-19,ST-01,New York
+SKU-83,Tea,Food,89.79,CST-898,Kane Ltd,OR-3349,91,901,2026-01-31,ST-02,Los Angeles
+SKU-53,Lamp,Home,104.02,CST-859,Brooks-Key,OR-9287,208,740,2026-03-10,ST-03,Chicago
+SKU-22,Dumbbells,Sports,37.21,CST-154,Washington-Lopez,OR-0607,342,368,2026-02-28,ST-04,Houston
+SKU-24,Water,Food,125.66,CST-401,"Manning, Mcgee and Navarro",OR-4410,126,199,2026-01-01,ST-06,Dallas
+SKU-30,Tablet,Electronics,89.18,CST-098,Barrera PLC,OR-8317,1,155,2026-02-03,ST-01,New York
+SKU-34,Lamp,Home,51.23,CST-434,Taylor-Meyers,OR-7843,237,915,2026-02-06,ST-05,Miami
+SKU-21,T-Shirt,Clothing,56.46,CST-731,"Howell, Finley and Sawyer",OR-4905,214,334,2026-01-20,ST-06,Dallas
+SKU-10,Water,Food,98.86,CST-016,Jones-Fernandez,OR-9808,341,836,2026-01-01,ST-02,Los Angeles
+SKU-54,Chair,Home,79.46,CST-634,Wells and Sons,OR-3984,182,885,2026-01-27,ST-03,Chicago
+SKU-76,T-Shirt,Clothing,36.78,CST-088,"Washington, Roberson and Webb",OR-6833,32,955,2026-02-17,ST-06,Dallas
+SKU-62,Laptop,Electronics,70.12,CST-545,"Caldwell, Cruz and Anthony",OR-3575,778,924,2026-02-11,ST-05,Miami
+SKU-09,Water,Food,63.69,CST-928,Huff-Sullivan,OR-2982,1,29,2026-02-09,ST-02,Los Angeles
+SKU-54,Dumbbells,Sports,119.21,CST-597,"Conner, Olsen and Colon",OR-2390,372,434,2026-03-08,ST-01,New York
+SKU-04,Pillow,Home,21.57,CST-734,Cruz PLC,OR-4735,214,398,2026-01-18,ST-06,Dallas
+SKU-60,Yoga Mat,Sports,80.42,CST-643,"Stephens, Henderson and Simpson",OR-1917,129,388,2026-02-25,ST-01,New York
+SKU-19,Phone,Electronics,33.46,CST-731,Cox-Mcdowell,OR-5963,511,773,2026-01-24,ST-07,Washington
+SKU-88,Jeans,Clothing,72.85,CST-226,"Hamilton, Johnson and Bean",OR-5380,386,629,2026-01-05,ST-02,Los Angeles
+SKU-49,Pillow,Home,75.75,CST-208,Wilson-Colon,OR-3509,352,612,2026-03-05,ST-06,Dallas
+SKU-85,Snacks,Food,26.42,CST-965,"Mcdonald, Zavala and Gomez",OR-6498,25,790,2026-02-01,ST-06,Dallas
+SKU-85,Lamp,Home,119.21,CST-134,Dixon LLC,OR-4826,56,373,2026-02-06,ST-06,Dallas
+SKU-86,Snacks,Food,58.75,CST-004,"Baldwin, Moore and Webster",OR-4184,278,531,2026-02-06,ST-02,Los Angeles
+SKU-47,Water,Food,22.14,CST-596,Snyder Inc,OR-0367,32,74,2026-01-28,ST-06,Dallas
+SKU-26,Water,Food,77.71,CST-206,Williams LLC,OR-5004,130,185,2026-01-06,ST-07,Washington
+SKU-63,Snacks,Food,80.63,CST-615,Gomez-Castillo,OR-9581,62,278,2026-01-06,ST-06,Dallas
+SKU-21,Lamp,Home,101.43,CST-677,Arroyo-Stephens,OR-3882,350,350,2026-01-03,ST-05,Miami
+SKU-84,Chair,Home,92.5,CST-917,"Holmes, Kelly and Mullins",OR-4692,721,737,2026-01-06,ST-07,Washington
+SKU-00,Snacks,Food,114.49,CST-559,Waters LLC,OR-0725,298,332,2026-01-18,ST-05,Miami
+SKU-31,Bike,Sports,21.23,CST-187,Burnett Group,OR-4193,826,970,2026-02-10,ST-02,Los Angeles
+SKU-31,Monitor,Electronics,40.94,CST-458,Fuller-Martinez,OR-4141,818,829,2026-02-01,ST-02,Los Angeles
+SKU-82,Coffee,Food,69.47,CST-299,Nelson and Sons,OR-6112,255,571,2026-02-23,ST-04,Houston
+SKU-86,Yoga Mat,Sports,97.1,CST-967,"Larsen, Powell and Smith",OR-4380,649,854,2026-01-03,ST-07,Washington
+SKU-23,Yoga Mat,Sports,61.13,CST-370,"Riddle, Wilkerson and Hooper",OR-1324,365,543,2026-01-20,ST-03,Chicago
+SKU-52,Shoes,Clothing,106.35,CST-799,Welch PLC,OR-9491,423,700,2026-02-14,ST-05,Miami
+SKU-53,Snacks,Food,34.73,CST-961,Knight-Gonzalez,OR-3391,835,879,2026-01-08,ST-07,Washington
+SKU-59,Dumbbells,Sports,98.93,CST-153,Dorsey-Rivera,OR-6452,456,898,2026-02-21,ST-01,New York
+SKU-31,Coffee,Food,18.46,CST-003,"Stephens, Hernandez and Tate",OR-1960,236,941,2026-02-07,ST-06,Dallas
+SKU-43,Coffee,Food,101.83,CST-150,Bailey-Rice,OR-7677,20,219,2026-01-26,ST-05,Miami
+SKU-66,Coffee,Food,70.21,CST-256,Gomez-Summers,OR-3444,31,184,2026-01-22,ST-03,Chicago
+SKU-40,Jacket,Clothing,39.57,CST-200,"Dyer, Pratt and Daniels",OR-1041,13,110,2026-02-03,ST-01,New York
+SKU-10,Jacket,Clothing,76.16,CST-727,"Coleman, Ali and Rodriguez",OR-0218,569,738,2026-01-08,ST-02,Los Angeles
+SKU-57,Laptop,Electronics,111.44,CST-103,Hines Inc,OR-1313,129,243,2026-03-01,ST-06,Dallas
+SKU-20,Phone,Electronics,42.71,CST-761,James-Moon,OR-4158,0,596,2026-01-19,ST-05,Miami
+SKU-28,Desk,Home,59.4,CST-521,"Baker, Hunt and Jones",OR-0055,59,121,2026-02-03,ST-07,Washington
+SKU-49,T-Shirt,Clothing,43.67,CST-891,"Harvey, Watson and Kaiser",OR-8374,229,757,2026-02-25,ST-01,New York
+SKU-47,Snacks,Food,86.67,CST-172,Powers-Hall,OR-6191,75,451,2026-03-02,ST-04,Houston
+SKU-19,Chair,Home,34.75,CST-471,Harrell LLC,OR-4450,296,544,2026-03-01,ST-03,Chicago
+SKU-89,Tea,Food,30.64,CST-265,Dyer Ltd,OR-8823,513,561,2026-01-15,ST-02,Los Angeles
+SKU-31,Pillow,Home,111.83,CST-762,Daniel-Stout,OR-1137,46,233,2026-01-01,ST-05,Miami
+SKU-73,Monitor,Electronics,27.5,CST-369,Murphy-Miller,OR-3339,597,851,2026-01-04,ST-05,Miami
+SKU-17,Pillow,Home,73.7,CST-507,Fitzpatrick-Rogers,OR-8234,178,242,2026-02-03,ST-06,Dallas
+SKU-70,Gloves,Sports,95.95,CST-908,Butler LLC,OR-7841,275,547,2026-03-05,ST-07,Washington
+SKU-75,Tea,Food,81.9,CST-768,Williams Ltd,OR-5593,790,905,2026-02-08,ST-02,Los Angeles
+SKU-36,Tea,Food,116.82,CST-249,"Williams, Day and Allen",OR-5748,279,294,2026-02-25,ST-02,Los Angeles
+SKU-29,Bike,Sports,87.03,CST-784,Wright-Jacobs,OR-2774,700,932,2026-01-20,ST-06,Dallas
+SKU-69,Monitor,Electronics,17.87,CST-188,Smith PLC,OR-6589,12,64,2026-01-02,ST-05,Miami
+SKU-11,Tea,Food,117.39,CST-060,"Colon, Tran and Mcconnell",OR-0599,303,921,2026-02-11,ST-03,Chicago
+SKU-11,Dumbbells,Sports,105.21,CST-352,"Hubbard, Horn and Hill",OR-2923,386,908,2026-01-30,ST-07,Washington
+SKU-72,Yoga Mat,Sports,32.48,CST-446,"Henderson, Brooks and Dyer",OR-5482,130,508,2026-01-15,ST-01,New York
+SKU-47,Monitor,Electronics,94.12,CST-524,Vance-Nelson,OR-4139,57,93,2026-02-02,ST-02,Los Angeles
+SKU-98,Jacket,Clothing,123.42,CST-538,"Robinson, Tran and Garcia",OR-8893,60,69,2026-03-02,ST-06,Dallas
+SKU-35,Lamp,Home,22.61,CST-743,Bird Inc,OR-9843,245,451,2026-01-14,ST-03,Chicago
+SKU-77,Phone,Electronics,120.57,CST-376,Anderson-Kirk,OR-7999,39,289,2026-01-20,ST-04,Houston
+SKU-41,Chair,Home,111.19,CST-568,"Mora, Ross and Hines",OR-9263,476,717,2026-01-14,ST-02,Los Angeles
+SKU-25,Laptop,Electronics,67.55,CST-776,Ramos-Harper,OR-5818,720,836,2026-02-01,ST-06,Dallas
+SKU-08,Jacket,Clothing,77.85,CST-430,Graham-Gallagher,OR-1406,405,688,2026-01-04,ST-03,Chicago
+SKU-35,Jeans,Clothing,109.78,CST-604,Lucas and Sons,OR-4055,25,177,2026-02-04,ST-01,New York
+SKU-40,Chair,Home,110.79,CST-123,Short Ltd,OR-5912,11,20,2026-01-15,ST-07,Washington
+SKU-73,Yoga Mat,Sports,32.77,CST-427,Fernandez Group,OR-5863,194,530,2026-01-26,ST-07,Washington
+SKU-83,T-Shirt,Clothing,67.92,CST-679,"Castro, Bennett and Reed",OR-4574,1,95,2026-01-28,ST-02,Los Angeles
+SKU-21,Dumbbells,Sports,82.73,CST-280,Lopez Inc,OR-6188,0,172,2026-01-29,ST-05,Miami
+SKU-72,Dumbbells,Sports,65.63,CST-360,"Campbell, Kelley and Saunders",OR-6989,518,715,2026-01-02,ST-07,Washington
+SKU-20,Desk,Home,55.35,CST-284,Rowe-Miller,OR-1716,588,967,2026-02-27,ST-06,Dallas
+SKU-51,Phone,Electronics,52.11,CST-182,"Walters, Lewis and Powell",OR-1825,223,608,2026-03-01,ST-02,Los Angeles
+SKU-95,Gloves,Sports,64.09,CST-896,Fox-Fernandez,OR-0298,40,692,2026-02-16,ST-05,Miami
+SKU-17,Coffee,Food,81.67,CST-638,Davis Group,OR-9943,471,825,2026-01-15,ST-01,New York
+SKU-69,Pillow,Home,118.58,CST-824,"Chavez, Green and Castillo",OR-3666,693,936,2026-01-12,ST-01,New York
+SKU-05,Yoga Mat,Sports,92.28,CST-527,"Price, Smith and Morton",OR-1115,3,493,2026-01-02,ST-07,Washington
+SKU-45,Tablet,Electronics,79.67,CST-047,Smith Group,OR-7430,1,305,2026-01-31,ST-01,New York
+SKU-32,Chair,Home,55.58,CST-889,"Moore, Scott and James",OR-9322,153,252,2026-03-10,ST-03,Chicago
+SKU-20,Tea,Food,82.24,CST-680,"Berry, Rivas and Coleman",OR-9156,396,916,2026-02-20,ST-06,Dallas
+SKU-87,Phone,Electronics,67.04,CST-518,Peters and Sons,OR-2450,50,845,2026-01-20,ST-03,Chicago
+SKU-57,Dumbbells,Sports,29.26,CST-913,Blair-Durham,OR-2341,132,140,2026-01-28,ST-03,Chicago
+SKU-34,Shoes,Clothing,53.03,CST-183,Hawkins PLC,OR-5763,50,668,2026-01-16,ST-02,Los Angeles
+SKU-39,Pillow,Home,85.83,CST-488,"Fletcher, Rivera and Bowers",OR-5438,100,142,2026-03-02,ST-03,Chicago
+SKU-60,Jeans,Clothing,50.6,CST-872,Gonzalez Group,OR-1868,0,554,2026-02-13,ST-02,Los Angeles
+SKU-08,Chair,Home,21.33,CST-455,Smith-Davila,OR-1457,722,732,2026-01-29,ST-03,Chicago
+SKU-93,Chair,Home,55.11,CST-250,Howe-Chambers,OR-2475,133,195,2026-01-05,ST-05,Miami
+SKU-97,Bike,Sports,50.4,CST-699,Duarte Inc,OR-4673,118,215,2026-02-05,ST-01,New York
+SKU-37,Pillow,Home,34.44,CST-377,"White, Trujillo and Acosta",OR-6618,482,633,2026-01-26,ST-07,Washington
+SKU-16,Desk,Home,56.43,CST-091,Robles Ltd,OR-4787,80,114,2026-01-10,ST-02,Los Angeles
+SKU-52,Tea,Food,69.64,CST-801,"Hill, Diaz and Rich",OR-7463,16,144,2026-02-03,ST-02,Los Angeles
+SKU-71,Pillow,Home,18.97,CST-013,Williams-Campbell,OR-5268,123,391,2026-02-09,ST-03,Chicago
+SKU-24,Pillow,Home,123.28,CST-070,Foley PLC,OR-5179,271,518,2026-02-19,ST-02,Los Angeles
+SKU-33,Laptop,Electronics,110.94,CST-970,"Rollins, Gray and Romero",OR-9591,189,710,2026-02-11,ST-01,New York
+SKU-15,Jeans,Clothing,60.32,CST-489,"Rivera, Jones and Campbell",OR-9329,55,766,2026-01-01,ST-06,Dallas
+SKU-22,Shoes,Clothing,77.25,CST-315,Lynn Inc,OR-3629,139,178,2026-01-16,ST-06,Dallas
+SKU-90,Tea,Food,87.91,CST-125,Roberts Ltd,OR-6411,63,194,2026-02-02,ST-02,Los Angeles
+SKU-05,Jacket,Clothing,114.5,CST-205,Martinez-Payne,OR-7781,589,697,2026-01-12,ST-02,Los Angeles
+SKU-29,Gloves,Sports,58.44,CST-278,Turner Ltd,OR-5787,180,734,2026-02-12,ST-05,Miami
+SKU-39,Phone,Electronics,72.57,CST-394,Gray-Murillo,OR-7353,168,600,2026-01-17,ST-04,Houston
+SKU-54,Desk,Home,72.65,CST-025,Bautista PLC,OR-2301,437,984,2026-01-17,ST-07,Washington
+SKU-79,Water,Food,106.86,CST-919,Ramsey Inc,OR-6689,99,986,2026-01-27,ST-01,New York
+SKU-35,Chair,Home,104.5,CST-690,Watts-Wells,OR-4579,46,115,2026-02-28,ST-06,Dallas
+SKU-47,Bike,Sports,47.24,CST-400,Wright-Harris,OR-4618,708,786,2026-01-12,ST-07,Washington
+SKU-63,T-Shirt,Clothing,113.53,CST-774,Mccormick-Scott,OR-0665,268,926,2026-02-04,ST-02,Los Angeles
+SKU-16,Lamp,Home,95.37,CST-800,Potts-Banks,OR-3325,128,337,2026-02-17,ST-03,Chicago
+SKU-46,Coffee,Food,66.64,CST-093,"Frazier, White and Sanders",OR-0893,367,531,2026-02-01,ST-04,Houston
+SKU-49,Gloves,Sports,31.75,CST-357,Perry-Jones,OR-2242,388,407,2026-02-16,ST-03,Chicago
+SKU-50,Phone,Electronics,87.7,CST-115,Hill PLC,OR-5298,486,791,2026-01-08,ST-03,Chicago
+SKU-83,Lamp,Home,34.06,CST-954,Oconnor Group,OR-4692,335,598,2026-01-04,ST-05,Miami
+SKU-72,Snacks,Food,51.86,CST-557,Martinez Group,OR-8859,129,230,2026-01-06,ST-07,Washington
+SKU-32,Tablet,Electronics,25.38,CST-085,Jenkins LLC,OR-5047,150,150,2026-03-08,ST-05,Miami
+SKU-60,Gloves,Sports,124.44,CST-825,Stanton-Hall,OR-4207,332,755,2026-02-26,ST-07,Washington
+SKU-39,Chair,Home,112.42,CST-232,"Buckley, White and Coleman",OR-4990,10,420,2026-01-04,ST-01,New York
+SKU-53,Jacket,Clothing,101.96,CST-501,"Clayton, Freeman and Johnson",OR-2879,289,766,2026-01-24,ST-07,Washington
+SKU-78,Pillow,Home,26.43,CST-927,Poole LLC,OR-5256,815,884,2026-01-01,ST-02,Los Angeles
+SKU-05,Tea,Food,88.73,CST-973,"Dixon, Turner and Alvarado",OR-9336,99,549,2026-01-15,ST-03,Chicago
+SKU-84,Monitor,Electronics,33.4,CST-725,Miller-Peterson,OR-0140,144,845,2026-01-30,ST-01,New York
+SKU-59,Desk,Home,56.83,CST-370,Gibbs-Wright,OR-2682,104,899,2026-02-24,ST-05,Miami
+SKU-49,Monitor,Electronics,110.2,CST-147,"Jones, Scott and Cruz",OR-7696,100,367,2026-01-23,ST-02,Los Angeles
+SKU-53,Phone,Electronics,116.96,CST-166,Carter-English,OR-6887,4,4,2026-01-15,ST-04,Houston
+SKU-16,Jacket,Clothing,45.95,CST-225,Mahoney LLC,OR-9739,10,18,2026-02-03,ST-04,Houston
+SKU-94,Tablet,Electronics,82.19,CST-343,Miller Ltd,OR-3406,37,235,2026-02-06,ST-03,Chicago
+SKU-79,Jeans,Clothing,58.58,CST-322,"Holmes, Wilson and Castillo",OR-2295,302,392,2026-01-27,ST-06,Dallas
+SKU-59,Tea,Food,35.67,CST-032,Watkins LLC,OR-9441,84,456,2026-02-11,ST-03,Chicago
+SKU-30,Lamp,Home,76.77,CST-976,Lee Inc,OR-6378,53,380,2026-02-05,ST-01,New York
+SKU-69,Jacket,Clothing,70.13,CST-087,White-Boyd,OR-5972,56,95,2026-02-24,ST-03,Chicago
+SKU-80,Water,Food,26.87,CST-087,Galvan-Robinson,OR-5871,118,705,2026-01-26,ST-04,Houston
+SKU-96,Desk,Home,104.93,CST-291,"Rowe, Rose and Maddox",OR-3467,326,339,2026-02-13,ST-04,Houston
+SKU-35,Gloves,Sports,30.57,CST-477,Moore Ltd,OR-8792,271,733,2026-02-03,ST-01,New York
+SKU-77,Pillow,Home,85.05,CST-020,"Lee, Wells and Sims",OR-2548,147,161,2026-01-02,ST-06,Dallas
+SKU-33,Bike,Sports,65.82,CST-597,Peters PLC,OR-5244,543,569,2026-01-08,ST-03,Chicago
+SKU-48,Tablet,Electronics,86.0,CST-563,Grant-Smith,OR-4645,24,35,2026-03-05,ST-02,Los Angeles
+SKU-08,Phone,Electronics,122.86,CST-357,Rogers-Contreras,OR-6890,582,618,2026-03-05,ST-04,Houston
+SKU-05,Lamp,Home,89.31,CST-580,Humphrey Ltd,OR-7174,533,640,2026-03-05,ST-05,Miami
+SKU-43,Gloves,Sports,39.99,CST-043,Swanson LLC,OR-7583,482,522,2026-01-09,ST-07,Washington
+SKU-40,Laptop,Electronics,79.58,CST-747,Jones-Hodges,OR-0606,80,245,2026-01-12,ST-03,Chicago
+SKU-21,Coffee,Food,80.84,CST-716,Osborne-Rogers,OR-5739,32,218,2026-02-26,ST-07,Washington
+SKU-82,Snacks,Food,106.43,CST-466,Taylor-Hayes,OR-5515,98,464,2026-02-07,ST-01,New York
+SKU-18,Coffee,Food,35.4,CST-122,Lewis-Meyer,OR-1681,472,589,2026-02-06,ST-06,Dallas
+SKU-35,Monitor,Electronics,68.87,CST-860,Howard Group,OR-2192,453,797,2026-01-20,ST-06,Dallas
+SKU-80,Desk,Home,47.37,CST-101,Bennett Inc,OR-7657,441,906,2026-02-09,ST-01,New York
+SKU-97,Water,Food,68.86,CST-135,"Scott, Barnes and Williams",OR-3016,553,686,2026-01-10,ST-02,Los Angeles
+SKU-28,Tablet,Electronics,114.47,CST-685,"Stokes, Hernandez and Horne",OR-4017,7,14,2026-01-01,ST-02,Los Angeles
+SKU-08,Phone,Electronics,32.92,CST-101,Smith-Anderson,OR-6712,139,271,2026-02-26,ST-02,Los Angeles
+SKU-91,Dumbbells,Sports,68.5,CST-552,Brewer Inc,OR-5298,290,518,2026-02-08,ST-01,New York
+SKU-29,T-Shirt,Clothing,97.42,CST-436,"Mueller, Chaney and Jenkins",OR-7293,46,585,2026-01-21,ST-02,Los Angeles
+SKU-61,Lamp,Home,44.59,CST-518,Lawson-Miller,OR-8809,247,857,2026-01-13,ST-07,Washington
+SKU-88,Shoes,Clothing,48.54,CST-303,"Wyatt, Peterson and Cannon",OR-6231,522,653,2026-02-09,ST-05,Miami
+SKU-16,Pillow,Home,27.85,CST-554,Barber and Sons,OR-0281,361,460,2026-01-16,ST-02,Los Angeles
+SKU-99,Shoes,Clothing,63.1,CST-967,"Cook, Mcdonald and Chang",OR-9769,613,731,2026-03-07,ST-03,Chicago
+SKU-77,T-Shirt,Clothing,107.41,CST-994,"Dominguez, Pineda and Reese",OR-8002,384,784,2026-01-14,ST-06,Dallas
+SKU-36,Yoga Mat,Sports,113.19,CST-177,Smith-Winters,OR-5763,43,851,2026-02-13,ST-02,Los Angeles
+SKU-84,Jeans,Clothing,35.97,CST-698,Reed and Sons,OR-2659,217,427,2026-02-22,ST-04,Houston
+SKU-71,Dumbbells,Sports,111.98,CST-700,Smith Inc,OR-5085,10,148,2026-02-10,ST-06,Dallas
+SKU-28,Yoga Mat,Sports,66.78,CST-102,Ramos-Taylor,OR-3879,245,316,2026-02-08,ST-07,Washington
+SKU-04,Jeans,Clothing,119.97,CST-847,Taylor PLC,OR-5492,491,912,2026-01-24,ST-07,Washington
+SKU-60,Dumbbells,Sports,108.8,CST-474,Cortez-Pena,OR-6976,122,929,2026-01-02,ST-03,Chicago
+SKU-14,Water,Food,53.37,CST-684,Silva-Powell,OR-6120,119,184,2026-02-01,ST-04,Houston
+SKU-45,Phone,Electronics,99.03,CST-822,Garcia-Wise,OR-3436,608,901,2026-02-23,ST-07,Washington
+SKU-67,Laptop,Electronics,45.77,CST-475,Fisher Group,OR-0582,226,584,2026-02-01,ST-04,Houston
+SKU-21,Gloves,Sports,15.86,CST-421,Peters-Jimenez,OR-7670,482,950,2026-01-17,ST-07,Washington
+SKU-74,Laptop,Electronics,73.56,CST-481,Carter and Sons,OR-3983,278,873,2026-01-14,ST-03,Chicago
+SKU-73,Yoga Mat,Sports,112.81,CST-126,Johnson-Bruce,OR-7058,114,254,2026-01-24,ST-03,Chicago
+SKU-18,Chair,Home,81.21,CST-683,Smith Inc,OR-2934,90,383,2026-03-06,ST-03,Chicago
+SKU-14,Yoga Mat,Sports,82.81,CST-023,"Taylor, Contreras and Simmons",OR-2052,17,31,2026-01-27,ST-04,Houston
+SKU-17,Jeans,Clothing,107.33,CST-570,"Sheppard, Arnold and Beck",OR-6166,415,449,2026-01-12,ST-03,Chicago
+SKU-74,Yoga Mat,Sports,46.4,CST-728,"Medina, Chen and Suarez",OR-2661,109,540,2026-02-12,ST-04,Houston
+SKU-45,Water,Food,116.73,CST-903,Orozco-Thornton,OR-2924,559,647,2026-01-14,ST-03,Chicago
+SKU-68,Coffee,Food,102.3,CST-652,"Brown, Williamson and Brewer",OR-4782,170,206,2026-02-08,ST-01,New York
+SKU-12,Tablet,Electronics,100.98,CST-247,Davis-Beasley,OR-1731,207,615,2026-01-09,ST-07,Washington
+SKU-72,Pillow,Home,110.87,CST-329,Rose Inc,OR-0719,21,286,2026-03-04,ST-06,Dallas
+SKU-16,Coffee,Food,66.43,CST-631,"Baker, David and Johnson",OR-2676,733,739,2026-03-03,ST-01,New York
+SKU-10,Desk,Home,19.76,CST-458,"White, Johnson and Roberts",OR-3470,211,692,2026-02-19,ST-03,Chicago
+SKU-12,Gloves,Sports,18.04,CST-694,Orozco-Hill,OR-6541,12,272,2026-02-02,ST-07,Washington
+SKU-28,Desk,Home,99.87,CST-487,"Hughes, Turner and Welch",OR-3562,15,431,2026-01-15,ST-02,Los Angeles
+SKU-44,Shoes,Clothing,99.45,CST-050,Mason-Johnson,OR-5658,772,896,2026-01-29,ST-05,Miami
+SKU-14,Water,Food,63.77,CST-438,"Bennett, Smith and Mercado",OR-4554,67,96,2026-02-20,ST-07,Washington
+SKU-94,Coffee,Food,60.65,CST-756,Moore-Tucker,OR-7376,136,360,2026-02-15,ST-07,Washington
+SKU-35,Gloves,Sports,102.73,CST-106,Collins Inc,OR-3952,316,520,2026-01-13,ST-04,Houston
+SKU-09,Gloves,Sports,21.24,CST-831,Henry-Reeves,OR-4878,133,281,2026-01-01,ST-06,Dallas
+SKU-41,Yoga Mat,Sports,101.09,CST-335,Long Ltd,OR-7464,184,336,2026-01-08,ST-02,Los Angeles
+SKU-95,Jeans,Clothing,73.45,CST-925,Walker-Jenkins,OR-3292,582,630,2026-02-16,ST-07,Washington
+SKU-45,Coffee,Food,69.37,CST-405,Lane and Sons,OR-8757,474,711,2026-01-14,ST-04,Houston
+SKU-12,Jacket,Clothing,104.57,CST-266,Cross LLC,OR-1946,333,541,2026-02-26,ST-03,Chicago
+SKU-36,T-Shirt,Clothing,46.93,CST-532,Sexton Inc,OR-3183,473,730,2026-02-18,ST-01,New York
+SKU-35,Desk,Home,92.12,CST-910,Levy Group,OR-1051,342,524,2026-02-25,ST-05,Miami
+SKU-74,Laptop,Electronics,44.67,CST-522,Rogers-Todd,OR-2223,138,550,2026-02-07,ST-04,Houston
+SKU-95,Water,Food,91.3,CST-203,Wang PLC,OR-9740,443,753,2026-02-28,ST-07,Washington
+SKU-14,Dumbbells,Sports,101.23,CST-984,Williams Inc,OR-8817,17,98,2026-02-15,ST-05,Miami
+SKU-00,Gloves,Sports,36.58,CST-698,Sanders Inc,OR-3328,496,938,2026-01-28,ST-04,Houston
+SKU-40,Dumbbells,Sports,124.54,CST-524,Miller-Jordan,OR-2843,674,694,2026-01-19,ST-01,New York
+SKU-73,Laptop,Electronics,121.4,CST-333,Mitchell Group,OR-6987,799,889,2026-01-11,ST-01,New York
+SKU-77,Desk,Home,71.24,CST-741,Rodriguez LLC,OR-9210,492,667,2026-01-29,ST-02,Los Angeles
+SKU-01,T-Shirt,Clothing,45.93,CST-336,King-Larson,OR-3371,454,956,2026-02-06,ST-01,New York
+SKU-52,Snacks,Food,84.63,CST-733,Johnson Inc,OR-9465,534,599,2026-02-19,ST-07,Washington
+SKU-87,Tea,Food,83.63,CST-454,George Ltd,OR-2576,273,626,2026-02-07,ST-04,Houston
+SKU-37,Desk,Home,77.18,CST-924,Allen LLC,OR-3936,273,277,2026-03-06,ST-02,Los Angeles
+SKU-55,Yoga Mat,Sports,22.96,CST-022,Christian-Lin,OR-3213,234,288,2026-02-16,ST-07,Washington
+SKU-10,Water,Food,16.1,CST-049,Nash-Rubio,OR-1120,368,507,2026-02-14,ST-06,Dallas
+SKU-75,Tea,Food,33.39,CST-986,"Leon, Benson and Adkins",OR-9702,0,98,2026-03-01,ST-06,Dallas
+SKU-52,Lamp,Home,62.18,CST-152,Flores-Fernandez,OR-6842,557,720,2026-01-17,ST-05,Miami
+SKU-75,Coffee,Food,68.97,CST-004,Kim and Sons,OR-9304,257,980,2026-03-04,ST-06,Dallas
+SKU-65,Bike,Sports,21.98,CST-788,Dawson Inc,OR-3480,316,850,2026-01-20,ST-06,Dallas
+SKU-07,Water,Food,56.13,CST-279,Cameron Inc,OR-2774,14,441,2026-03-03,ST-01,New York
+SKU-33,Tablet,Electronics,32.77,CST-879,Doyle-White,OR-3981,182,349,2026-02-25,ST-01,New York
+SKU-44,Coffee,Food,87.43,CST-650,Casey-Hanson,OR-2537,67,182,2026-01-25,ST-02,Los Angeles
+SKU-59,Lamp,Home,59.33,CST-051,Leonard-Jordan,OR-3690,2,8,2026-01-26,ST-01,New York
+SKU-82,Laptop,Electronics,30.94,CST-273,Morrison-Flores,OR-6220,713,843,2026-02-05,ST-03,Chicago
+SKU-31,Bike,Sports,120.64,CST-623,Jordan PLC,OR-9332,311,790,2026-01-20,ST-01,New York
+SKU-69,Desk,Home,113.17,CST-466,Stanley Ltd,OR-8516,218,279,2026-02-11,ST-01,New York
+SKU-05,Pillow,Home,94.83,CST-254,Castro Inc,OR-0805,19,86,2026-02-20,ST-03,Chicago
+SKU-77,Snacks,Food,15.66,CST-006,Jones Inc,OR-8010,79,385,2026-02-09,ST-06,Dallas
+SKU-80,Jeans,Clothing,42.57,CST-939,Martinez and Sons,OR-9450,64,108,2026-02-05,ST-06,Dallas
+SKU-96,Tablet,Electronics,40.45,CST-900,Kaufman LLC,OR-7789,199,374,2026-03-07,ST-04,Houston
+SKU-12,Dumbbells,Sports,87.8,CST-121,"Knox, Neal and Mason",OR-0755,543,562,2026-01-21,ST-05,Miami
+SKU-11,Laptop,Electronics,39.23,CST-907,"Campbell, Landry and Horn",OR-8420,12,892,2026-03-07,ST-02,Los Angeles
+SKU-98,Desk,Home,48.26,CST-645,"Meza, Johnson and Bird",OR-9096,39,807,2026-01-25,ST-02,Los Angeles
+SKU-82,Jacket,Clothing,122.87,CST-414,Norris-Hart,OR-8605,892,968,2026-02-08,ST-05,Miami
+SKU-58,Shoes,Clothing,101.82,CST-478,"Perkins, King and Jones",OR-7111,794,829,2026-02-19,ST-05,Miami
+SKU-95,Water,Food,81.72,CST-899,Miller PLC,OR-9382,324,564,2026-01-05,ST-05,Miami
+SKU-96,Lamp,Home,44.63,CST-878,Ashley-Porter,OR-3326,97,189,2026-03-06,ST-07,Washington
+SKU-03,Coffee,Food,20.57,CST-234,"Cox, Herrera and Morgan",OR-9209,253,757,2026-01-29,ST-03,Chicago
+SKU-16,Jacket,Clothing,34.0,CST-788,"Cannon, Dudley and Harris",OR-5361,45,879,2026-02-25,ST-02,Los Angeles
+SKU-85,Lamp,Home,70.1,CST-101,Anderson-Watson,OR-8279,174,860,2026-01-22,ST-04,Houston
+SKU-27,Shoes,Clothing,63.32,CST-214,Smith-Rodriguez,OR-9813,543,683,2026-01-28,ST-03,Chicago
+SKU-08,Desk,Home,94.05,CST-598,Phillips Ltd,OR-2991,29,246,2026-02-17,ST-05,Miami
+SKU-98,Desk,Home,16.32,CST-366,Higgins Group,OR-7677,189,941,2026-03-02,ST-03,Chicago
+SKU-15,Snacks,Food,97.46,CST-676,Mack-Chase,OR-4243,1,56,2026-02-24,ST-01,New York
+SKU-95,Desk,Home,64.69,CST-732,Parker-White,OR-5427,425,982,2026-01-30,ST-01,New York
+SKU-73,Tea,Food,111.59,CST-601,"Garcia, Davis and Navarro",OR-6135,55,75,2026-01-16,ST-02,Los Angeles
+SKU-49,Laptop,Electronics,90.48,CST-501,Gonzales Group,OR-3761,156,955,2026-01-07,ST-01,New York
+SKU-17,Dumbbells,Sports,97.0,CST-442,Martinez-Lewis,OR-7363,228,939,2026-01-07,ST-06,Dallas
+SKU-77,Shoes,Clothing,56.7,CST-548,Stephens Ltd,OR-3621,175,962,2026-01-27,ST-01,New York
+SKU-93,Monitor,Electronics,16.61,CST-780,"Burch, Davis and Thompson",OR-2306,233,518,2026-03-10,ST-03,Chicago
+SKU-55,Coffee,Food,27.74,CST-268,Mayo-Williams,OR-6316,488,728,2026-03-02,ST-05,Miami
+SKU-71,Tablet,Electronics,118.77,CST-530,Campbell Inc,OR-7534,558,631,2026-03-07,ST-07,Washington
+SKU-97,Bike,Sports,90.18,CST-707,Price Group,OR-9838,43,115,2026-02-13,ST-05,Miami
+SKU-15,Monitor,Electronics,92.77,CST-681,Lewis-Hall,OR-9402,204,325,2026-02-19,ST-05,Miami
+SKU-61,Jeans,Clothing,35.94,CST-435,Rodriguez Ltd,OR-1548,490,937,2026-02-23,ST-03,Chicago
+SKU-51,Pillow,Home,78.39,CST-525,"Garcia, Chung and Miller",OR-0130,308,619,2026-01-18,ST-06,Dallas
+SKU-38,Tablet,Electronics,55.71,CST-544,Webb Ltd,OR-2484,186,672,2026-02-12,ST-02,Los Angeles
+SKU-72,Lamp,Home,116.93,CST-733,"Baker, Bowen and Lewis",OR-4441,178,273,2026-01-04,ST-04,Houston
+SKU-86,Desk,Home,76.94,CST-715,Stevens Ltd,OR-9786,122,164,2026-02-17,ST-01,New York
+SKU-09,Jeans,Clothing,124.53,CST-688,"Hicks, Horne and Watkins",OR-8299,7,920,2026-02-25,ST-07,Washington
+SKU-86,Jeans,Clothing,73.98,CST-958,Baker-Perry,OR-8714,87,136,2026-02-19,ST-06,Dallas
+SKU-56,Coffee,Food,24.48,CST-299,"Reed, Thomas and Coleman",OR-5455,6,9,2026-01-30,ST-01,New York
+SKU-20,Chair,Home,67.27,CST-910,Cardenas Ltd,OR-0082,79,747,2026-01-21,ST-07,Washington
+SKU-49,Shoes,Clothing,58.86,CST-221,Doyle-Strong,OR-0719,1,812,2026-01-08,ST-03,Chicago
+SKU-21,Water,Food,95.82,CST-717,Smith-Mckinney,OR-4799,15,16,2026-03-10,ST-02,Los Angeles
+SKU-68,Pillow,Home,120.28,CST-507,Gonzalez-Harrison,OR-0746,21,382,2026-01-22,ST-07,Washington
+SKU-46,Coffee,Food,108.93,CST-273,Morales and Sons,OR-4646,175,282,2026-01-13,ST-03,Chicago
+SKU-48,Shoes,Clothing,122.52,CST-282,Chen-Miller,OR-2019,684,738,2026-01-21,ST-07,Washington
+SKU-26,Water,Food,124.16,CST-201,Green Inc,OR-6077,836,938,2026-02-08,ST-02,Los Angeles
+SKU-62,Jacket,Clothing,46.18,CST-837,Collins-Meza,OR-4639,75,122,2026-02-06,ST-03,Chicago
+SKU-98,Pillow,Home,17.67,CST-902,Little-Blankenship,OR-6763,691,847,2026-01-26,ST-04,Houston
+SKU-25,T-Shirt,Clothing,116.39,CST-866,Parker Ltd,OR-0410,129,454,2026-02-13,ST-02,Los Angeles
+SKU-31,Lamp,Home,113.38,CST-669,"Young, Hicks and Cox",OR-8208,327,745,2026-01-31,ST-01,New York
+SKU-10,Snacks,Food,67.69,CST-596,Russell Group,OR-5731,326,562,2026-01-13,ST-03,Chicago
+SKU-38,Dumbbells,Sports,46.46,CST-770,Hinton-Stewart,OR-3909,17,538,2026-01-26,ST-04,Houston
+SKU-23,Monitor,Electronics,98.14,CST-170,"Brooks, Baird and Rice",OR-5903,91,105,2026-02-09,ST-03,Chicago
+SKU-67,T-Shirt,Clothing,31.33,CST-222,Simon-Hernandez,OR-9704,85,210,2026-02-13,ST-07,Washington
+SKU-07,T-Shirt,Clothing,25.62,CST-087,"Hernandez, Davis and Larson",OR-1990,309,601,2026-02-15,ST-07,Washington
+SKU-05,Pillow,Home,54.67,CST-923,Rodriguez-Henderson,OR-8146,114,625,2026-02-27,ST-07,Washington
+SKU-53,Yoga Mat,Sports,80.76,CST-474,Wright-Johnson,OR-5975,254,302,2026-02-22,ST-02,Los Angeles
+SKU-05,Bike,Sports,105.5,CST-708,"Nelson, Duncan and Johnson",OR-8717,231,442,2026-01-13,ST-03,Chicago
+SKU-52,Lamp,Home,85.98,CST-972,Vega-Evans,OR-4784,266,330,2026-01-19,ST-07,Washington
+SKU-90,Lamp,Home,123.54,CST-074,Roberts PLC,OR-7417,293,551,2026-01-22,ST-05,Miami
+SKU-16,Bike,Sports,115.8,CST-271,Garcia LLC,OR-8528,172,939,2026-02-10,ST-04,Houston
+SKU-69,Desk,Home,33.14,CST-325,"Padilla, Mendoza and Fowler",OR-8799,284,539,2026-02-06,ST-01,New York
+SKU-25,Laptop,Electronics,118.18,CST-348,Edwards-Lang,OR-4785,235,303,2026-01-24,ST-04,Houston
+SKU-69,Shoes,Clothing,16.41,CST-156,Wall and Sons,OR-1762,526,622,2026-03-01,ST-03,Chicago
+SKU-88,Yoga Mat,Sports,23.13,CST-301,"Buck, Sims and Mitchell",OR-6934,79,127,2026-03-04,ST-06,Dallas
+SKU-05,Snacks,Food,48.01,CST-620,Little LLC,OR-9642,123,199,2026-03-04,ST-01,New York
+SKU-11,Chair,Home,21.32,CST-114,Armstrong Group,OR-5227,47,193,2026-03-10,ST-02,Los Angeles
+SKU-63,Snacks,Food,35.97,CST-642,Scott-Christensen,OR-4652,89,401,2026-01-22,ST-02,Los Angeles
+SKU-30,Monitor,Electronics,87.45,CST-473,Hall-Cox,OR-5413,453,939,2026-03-03,ST-03,Chicago
+SKU-17,Desk,Home,123.78,CST-365,Lin-Hendricks,OR-9328,2,3,2026-02-28,ST-06,Dallas
+SKU-00,Yoga Mat,Sports,100.56,CST-246,Allen-Ellis,OR-9907,269,918,2026-03-02,ST-02,Los Angeles
+SKU-77,Gloves,Sports,56.31,CST-843,"Mathis, Turner and Trujillo",OR-7327,482,861,2026-01-09,ST-04,Houston
+SKU-93,Jacket,Clothing,15.57,CST-155,Oneal-Lane,OR-5587,240,392,2026-01-24,ST-02,Los Angeles
+SKU-96,Phone,Electronics,84.19,CST-991,"Johnson, Gonzales and Romero",OR-7379,597,761,2026-01-09,ST-05,Miami
+SKU-68,Chair,Home,42.83,CST-522,Burns-Davis,OR-5611,218,388,2026-02-22,ST-03,Chicago
+SKU-16,Jeans,Clothing,113.93,CST-173,"Miller, Roberts and Swanson",OR-3037,25,479,2026-01-27,ST-01,New York
+SKU-95,Dumbbells,Sports,73.02,CST-809,Hughes-Henderson,OR-4074,60,98,2026-02-20,ST-05,Miami
+SKU-11,Yoga Mat,Sports,21.21,CST-340,"Brooks, Diaz and Nguyen",OR-7392,247,309,2026-01-03,ST-07,Washington
+SKU-10,Snacks,Food,60.52,CST-758,"White, Williams and Harrison",OR-8373,10,442,2026-01-17,ST-04,Houston
+SKU-75,Laptop,Electronics,75.75,CST-153,Bennett LLC,OR-6894,725,998,2026-03-06,ST-07,Washington
+SKU-46,Shoes,Clothing,41.32,CST-202,"Hanson, Hendrix and Bryant",OR-1844,46,102,2026-01-14,ST-03,Chicago
+SKU-83,Yoga Mat,Sports,47.49,CST-691,"Sullivan, Thomas and Anderson",OR-9824,51,145,2026-02-02,ST-07,Washington
+SKU-10,Chair,Home,75.18,CST-772,Conway-Sheppard,OR-4109,398,535,2026-01-11,ST-05,Miami
+SKU-21,Water,Food,95.36,CST-855,George-Stein,OR-8462,190,397,2026-01-30,ST-02,Los Angeles
+SKU-20,Yoga Mat,Sports,89.43,CST-366,Duke-Williams,OR-9835,542,901,2026-01-20,ST-04,Houston
+SKU-87,Tea,Food,111.86,CST-658,"Copeland, Hernandez and Bradshaw",OR-6958,70,84,2026-01-13,ST-02,Los Angeles
+SKU-58,Desk,Home,66.84,CST-594,Henry-Juarez,OR-2121,305,455,2026-02-18,ST-07,Washington
+SKU-18,Coffee,Food,84.54,CST-960,"Morales, Avila and Williams",OR-8649,608,766,2026-02-03,ST-01,New York
+SKU-87,Water,Food,44.64,CST-953,Kane Ltd,OR-7402,22,98,2026-03-06,ST-05,Miami
+SKU-20,Jeans,Clothing,22.12,CST-877,Fisher LLC,OR-9000,38,42,2026-01-09,ST-03,Chicago
+SKU-80,Shoes,Clothing,99.47,CST-695,Navarro LLC,OR-2708,786,916,2026-02-24,ST-03,Chicago
+SKU-42,Jeans,Clothing,85.4,CST-665,Davis-Foster,OR-0463,700,928,2026-02-27,ST-03,Chicago
+SKU-72,Desk,Home,43.23,CST-218,"Miller, Lee and Jordan",OR-6211,20,80,2026-02-19,ST-01,New York
+SKU-65,Monitor,Electronics,37.68,CST-090,Brown PLC,OR-6256,516,717,2026-01-16,ST-02,Los Angeles
+SKU-54,T-Shirt,Clothing,28.59,CST-600,Murphy Inc,OR-8677,3,6,2026-01-31,ST-07,Washington
+SKU-55,Shoes,Clothing,113.16,CST-354,Fields-Walsh,OR-7634,3,166,2026-03-07,ST-07,Washington
+SKU-27,Shoes,Clothing,75.53,CST-262,"Torres, Bell and Manning",OR-0571,16,68,2026-02-07,ST-07,Washington
+SKU-14,Bike,Sports,124.77,CST-159,"Stevens, Wilkins and Brown",OR-0017,7,270,2026-02-22,ST-06,Dallas
+SKU-83,Bike,Sports,120.1,CST-354,"Sullivan, Skinner and Adams",OR-3687,1,1,2026-03-07,ST-07,Washington
+SKU-67,Gloves,Sports,44.26,CST-082,Matthews-Perkins,OR-9999,97,206,2026-03-02,ST-01,New York
+SKU-39,Shoes,Clothing,20.71,CST-831,"Thomas, Escobar and Mckinney",OR-5763,86,755,2026-02-07,ST-04,Houston
+SKU-92,Coffee,Food,49.91,CST-081,Bender-Nguyen,OR-0014,828,934,2026-02-17,ST-02,Los Angeles
+SKU-85,Monitor,Electronics,89.16,CST-416,Bryan Inc,OR-8637,31,150,2026-02-12,ST-04,Houston
+SKU-91,Dumbbells,Sports,121.91,CST-948,Arellano-Castillo,OR-2539,78,204,2026-02-21,ST-07,Washington
+SKU-61,Dumbbells,Sports,57.62,CST-046,Burton Group,OR-8751,3,421,2026-01-04,ST-04,Houston
+SKU-83,Chair,Home,90.5,CST-985,Clayton-Boyd,OR-8700,172,416,2026-01-09,ST-05,Miami
+SKU-86,Jacket,Clothing,72.02,CST-313,Decker-Bradshaw,OR-5702,103,155,2026-01-26,ST-06,Dallas
+SKU-77,Snacks,Food,106.88,CST-685,"Drake, Oliver and Cobb",OR-8944,272,594,2026-02-18,ST-03,Chicago
+SKU-85,Dumbbells,Sports,49.68,CST-520,"Warren, Galloway and Frye",OR-8405,453,891,2026-02-06,ST-07,Washington
+SKU-94,T-Shirt,Clothing,80.97,CST-902,Mullins-Shepherd,OR-3726,383,790,2026-01-24,ST-04,Houston
+SKU-41,Bike,Sports,97.21,CST-874,Lowe-Mcgee,OR-7584,138,149,2026-01-21,ST-04,Houston
+SKU-60,Dumbbells,Sports,121.23,CST-793,Dixon-Archer,OR-9092,64,595,2026-02-08,ST-04,Houston
+SKU-17,Dumbbells,Sports,77.15,CST-612,"Knox, Walker and Warren",OR-9234,322,851,2026-02-02,ST-05,Miami
+SKU-10,T-Shirt,Clothing,75.17,CST-704,Wilson-Lopez,OR-7881,534,877,2026-01-04,ST-01,New York
+SKU-54,Jacket,Clothing,28.75,CST-522,Butler Group,OR-3690,17,913,2026-01-26,ST-01,New York
+SKU-60,Tablet,Electronics,69.65,CST-939,Tucker and Sons,OR-7212,20,24,2026-02-01,ST-02,Los Angeles
+SKU-15,Bike,Sports,17.77,CST-136,Hendrix Inc,OR-4668,498,715,2026-02-17,ST-06,Dallas
+SKU-72,Lamp,Home,26.5,CST-631,"Oliver, House and Austin",OR-8158,141,523,2026-01-24,ST-02,Los Angeles
+SKU-95,Water,Food,49.01,CST-749,"Singh, Williams and Pollard",OR-3747,433,776,2026-02-17,ST-07,Washington
+SKU-57,Yoga Mat,Sports,55.21,CST-441,Browning-Smith,OR-5103,9,29,2026-02-17,ST-02,Los Angeles
+SKU-46,Lamp,Home,58.51,CST-404,"Shepherd, Martinez and Wells",OR-6480,462,662,2026-01-26,ST-03,Chicago
+SKU-98,Bike,Sports,41.08,CST-990,Nelson Group,OR-2436,392,760,2026-01-21,ST-07,Washington
+SKU-97,Coffee,Food,121.15,CST-071,"Anderson, Smith and Lee",OR-4410,519,992,2026-02-07,ST-04,Houston
+SKU-68,Laptop,Electronics,59.12,CST-997,Graham Ltd,OR-3028,408,793,2026-02-03,ST-07,Washington
+SKU-52,Snacks,Food,38.37,CST-987,"Foster, Campbell and Diaz",OR-2896,64,120,2026-01-07,ST-04,Houston
+SKU-15,Snacks,Food,72.74,CST-497,Grant Inc,OR-6728,183,340,2026-01-05,ST-01,New York
+SKU-80,Dumbbells,Sports,125.02,CST-045,"Black, Cunningham and Wells",OR-8289,70,97,2026-02-07,ST-04,Houston
+SKU-89,Yoga Mat,Sports,104.53,CST-258,Chavez-Perez,OR-9863,480,672,2026-02-15,ST-01,New York
+SKU-26,Gloves,Sports,41.32,CST-728,Wolf Inc,OR-0096,247,703,2026-01-16,ST-04,Houston
+SKU-14,Tablet,Electronics,46.97,CST-214,Wood Ltd,OR-8762,372,533,2026-03-07,ST-02,Los Angeles
+SKU-24,Dumbbells,Sports,42.57,CST-976,"Farmer, Williams and Hill",OR-9351,644,940,2026-02-15,ST-02,Los Angeles
+SKU-51,Coffee,Food,98.33,CST-329,Gray-Murphy,OR-9244,8,434,2026-02-06,ST-03,Chicago
+SKU-08,Jeans,Clothing,73.22,CST-581,"Ray, Rivers and Escobar",OR-1591,238,543,2026-01-12,ST-04,Houston
+SKU-30,Yoga Mat,Sports,31.55,CST-394,"Lee, Lee and Padilla",OR-9667,66,157,2026-03-01,ST-01,New York
+SKU-63,Pillow,Home,91.8,CST-966,Wright-Hawkins,OR-5340,822,867,2026-02-27,ST-06,Dallas
+SKU-45,Tea,Food,117.85,CST-775,"Tanner, Jones and Lee",OR-1147,24,49,2026-01-27,ST-04,Houston
+SKU-29,Monitor,Electronics,92.24,CST-748,Cunningham Ltd,OR-2258,104,269,2026-02-06,ST-04,Houston
+SKU-35,Pillow,Home,88.29,CST-684,Lawrence and Sons,OR-2206,440,528,2026-01-22,ST-07,Washington
+SKU-10,Coffee,Food,44.49,CST-182,Diaz-Rhodes,OR-9985,663,785,2026-01-24,ST-05,Miami
+SKU-64,Monitor,Electronics,24.49,CST-461,Mccann-Wood,OR-6146,173,445,2026-01-14,ST-04,Houston
+SKU-69,Jacket,Clothing,112.08,CST-767,Robles and Sons,OR-6068,199,814,2026-03-02,ST-06,Dallas
+SKU-68,Gloves,Sports,94.02,CST-509,Ashley LLC,OR-4230,293,683,2026-01-03,ST-02,Los Angeles
+SKU-84,Jacket,Clothing,72.38,CST-397,Cruz-Williams,OR-6511,775,824,2026-02-26,ST-03,Chicago
+SKU-52,Phone,Electronics,89.42,CST-636,Carter-Cox,OR-2546,842,912,2026-01-20,ST-04,Houston
+SKU-69,Tablet,Electronics,100.65,CST-182,Clark Ltd,OR-8312,165,482,2026-01-14,ST-06,Dallas
+SKU-72,T-Shirt,Clothing,86.95,CST-079,Scott-Taylor,OR-9702,204,985,2026-01-07,ST-03,Chicago
+SKU-55,Chair,Home,22.12,CST-967,Romero-Simpson,OR-9721,706,767,2026-03-01,ST-01,New York
+SKU-12,Shoes,Clothing,20.26,CST-785,Chen-Adams,OR-0689,175,731,2026-02-15,ST-01,New York
+SKU-22,Jacket,Clothing,95.3,CST-295,Moran Ltd,OR-8074,261,701,2026-01-06,ST-02,Los Angeles
+SKU-14,Yoga Mat,Sports,72.8,CST-767,Anderson-Brown,OR-0159,9,666,2026-01-02,ST-06,Dallas
+SKU-71,Gloves,Sports,75.76,CST-271,Haas Ltd,OR-7228,95,645,2026-03-10,ST-03,Chicago
+SKU-73,Laptop,Electronics,112.61,CST-476,Brown Group,OR-3562,135,261,2026-03-09,ST-05,Miami
+SKU-26,Pillow,Home,48.42,CST-939,Miller-Ball,OR-0590,25,994,2026-02-21,ST-07,Washington
+SKU-95,Bike,Sports,30.24,CST-283,Carter-Gutierrez,OR-2147,0,1,2026-01-05,ST-04,Houston
+SKU-52,Monitor,Electronics,112.98,CST-181,Moore-Woods,OR-6582,271,328,2026-02-22,ST-06,Dallas
+SKU-16,Water,Food,48.17,CST-932,Mcbride Ltd,OR-4095,59,976,2026-02-27,ST-04,Houston
+SKU-64,Phone,Electronics,22.78,CST-590,Gates Group,OR-3530,316,377,2026-01-24,ST-04,Houston
+SKU-40,Jacket,Clothing,91.39,CST-640,"Adams, Garrison and Dodson",OR-7010,273,515,2026-01-29,ST-02,Los Angeles
+SKU-01,T-Shirt,Clothing,100.37,CST-599,Robinson-Bruce,OR-1665,144,974,2026-01-22,ST-07,Washington
+SKU-74,Desk,Home,95.44,CST-217,Watkins-Neal,OR-3165,31,179,2026-01-05,ST-04,Houston
+SKU-13,Tablet,Electronics,43.03,CST-170,Jones LLC,OR-5844,182,515,2026-02-27,ST-05,Miami
+SKU-52,Snacks,Food,39.55,CST-541,Ellis LLC,OR-7349,29,44,2026-02-12,ST-05,Miami
+SKU-04,Tea,Food,123.24,CST-915,"Morgan, Pace and Jones",OR-0451,30,569,2026-01-08,ST-06,Dallas
+SKU-92,Gloves,Sports,21.05,CST-149,Torres-Cantu,OR-1411,623,635,2026-01-07,ST-06,Dallas
+SKU-38,Tablet,Electronics,123.3,CST-295,Shelton Ltd,OR-5236,368,749,2026-02-03,ST-01,New York
+SKU-66,Monitor,Electronics,118.36,CST-795,"Brown, Smith and Henry",OR-6490,128,321,2026-01-07,ST-01,New York
+SKU-89,Desk,Home,113.99,CST-120,West PLC,OR-9910,255,650,2026-03-04,ST-04,Houston
+SKU-04,Desk,Home,84.53,CST-138,Mosley Inc,OR-7689,361,388,2026-03-02,ST-03,Chicago
+SKU-10,Gloves,Sports,88.23,CST-190,Adams-Hall,OR-0854,50,656,2026-01-03,ST-06,Dallas
+SKU-39,Dumbbells,Sports,86.08,CST-337,Hughes-Ramos,OR-6693,22,36,2026-02-17,ST-01,New York
+SKU-97,Gloves,Sports,80.02,CST-272,Brown Inc,OR-5627,382,692,2026-01-10,ST-04,Houston
+SKU-45,Snacks,Food,53.09,CST-058,Brown-Taylor,OR-8852,434,514,2026-01-02,ST-03,Chicago
+SKU-49,Lamp,Home,17.56,CST-858,Brown PLC,OR-6440,132,516,2026-03-06,ST-04,Houston
+SKU-45,Shoes,Clothing,97.15,CST-681,"Williams, Harris and Rosario",OR-8112,240,423,2026-02-15,ST-02,Los Angeles
+SKU-94,Laptop,Electronics,75.58,CST-963,Roman-Farmer,OR-6681,221,243,2026-01-22,ST-07,Washington
+SKU-14,Phone,Electronics,45.85,CST-836,Hernandez-Leonard,OR-9448,7,78,2026-02-23,ST-02,Los Angeles
+SKU-09,Gloves,Sports,33.63,CST-965,Golden-Johnson,OR-4050,136,348,2026-02-14,ST-06,Dallas
+SKU-08,Lamp,Home,88.44,CST-276,Ramirez-Turner,OR-6154,180,315,2026-01-29,ST-04,Houston
+SKU-55,Laptop,Electronics,56.24,CST-345,Richards PLC,OR-1289,462,488,2026-03-02,ST-07,Washington
+SKU-57,Bike,Sports,103.97,CST-291,"Williams, Ryan and Collins",OR-1283,118,396,2026-01-24,ST-05,Miami
+SKU-43,Jeans,Clothing,114.68,CST-067,Garrett-Waters,OR-8343,821,919,2026-01-11,ST-02,Los Angeles
+SKU-21,Tea,Food,67.21,CST-857,Johnson LLC,OR-0619,21,22,2026-02-25,ST-06,Dallas
+SKU-92,Coffee,Food,32.76,CST-106,Weeks Group,OR-4951,209,345,2026-01-01,ST-03,Chicago
+SKU-29,Yoga Mat,Sports,83.43,CST-137,Page-Collins,OR-5627,481,995,2026-01-29,ST-01,New York
+SKU-29,Shoes,Clothing,84.29,CST-966,"Green, Martin and Bates",OR-1539,96,732,2026-01-05,ST-01,New York
+SKU-12,T-Shirt,Clothing,65.71,CST-964,Mccarty Inc,OR-2771,127,405,2026-01-14,ST-02,Los Angeles
+SKU-24,Water,Food,48.22,CST-282,Golden-Conley,OR-4739,236,421,2026-03-03,ST-02,Los Angeles
+SKU-39,Jeans,Clothing,92.41,CST-130,Medina Ltd,OR-9255,200,233,2026-02-07,ST-03,Chicago
+SKU-58,Monitor,Electronics,95.51,CST-272,Alexander and Sons,OR-5089,278,373,2026-03-10,ST-06,Dallas
+SKU-53,Coffee,Food,98.65,CST-399,Serrano Inc,OR-3053,151,280,2026-01-01,ST-03,Chicago
+SKU-31,Jacket,Clothing,119.52,CST-847,Martinez-Jones,OR-1601,124,786,2026-02-15,ST-06,Dallas
+SKU-21,Dumbbells,Sports,78.13,CST-686,"Hayes, Johnson and Huynh",OR-2930,146,185,2026-02-17,ST-03,Chicago
+SKU-81,Coffee,Food,125.79,CST-590,"Huynh, Copeland and Rose",OR-7061,650,659,2026-03-08,ST-01,New York
+SKU-07,Shoes,Clothing,116.16,CST-117,"Price, Rosario and Martin",OR-9304,22,193,2026-03-02,ST-07,Washington
+SKU-57,Laptop,Electronics,57.13,CST-873,Yu LLC,OR-4165,171,221,2026-01-27,ST-03,Chicago
+SKU-91,Pillow,Home,111.16,CST-900,"Jones, Russell and Harris",OR-8267,54,309,2026-03-10,ST-01,New York
+SKU-02,T-Shirt,Clothing,101.94,CST-228,Mcpherson LLC,OR-1923,361,403,2026-02-18,ST-03,Chicago
+SKU-72,Bike,Sports,118.36,CST-920,Mitchell-Day,OR-6470,36,108,2026-02-08,ST-04,Houston
+SKU-93,Desk,Home,94.38,CST-612,Morales Inc,OR-6954,41,185,2026-01-06,ST-05,Miami
+SKU-20,Jeans,Clothing,80.32,CST-993,"Vargas, Roberts and Porter",OR-7084,281,963,2026-02-28,ST-06,Dallas
+SKU-08,Shoes,Clothing,59.11,CST-863,"Thomas, Jones and Jenkins",OR-2447,64,706,2026-01-22,ST-02,Los Angeles
+SKU-90,Dumbbells,Sports,35.52,CST-828,Keith PLC,OR-0697,563,660,2026-01-12,ST-01,New York
+SKU-77,Lamp,Home,23.75,CST-878,Hodge PLC,OR-0666,278,994,2026-03-03,ST-02,Los Angeles
+SKU-09,T-Shirt,Clothing,27.94,CST-236,Ingram-Hernandez,OR-1942,578,674,2026-03-02,ST-02,Los Angeles
+SKU-67,Dumbbells,Sports,65.41,CST-430,Huff-Hahn,OR-6346,392,396,2026-03-02,ST-05,Miami
+SKU-30,Dumbbells,Sports,44.09,CST-395,Taylor Group,OR-6624,675,911,2026-02-11,ST-02,Los Angeles
+SKU-89,Laptop,Electronics,33.27,CST-121,Lawrence Group,OR-8610,920,939,2026-01-15,ST-05,Miami
+SKU-16,Monitor,Electronics,73.37,CST-117,Perez PLC,OR-2755,21,790,2026-03-04,ST-03,Chicago
+SKU-22,Coffee,Food,81.44,CST-409,"Gordon, Torres and Briggs",OR-8500,33,43,2026-01-05,ST-07,Washington
+SKU-31,Pillow,Home,119.0,CST-165,Davis Ltd,OR-7000,175,538,2026-01-14,ST-06,Dallas
+SKU-23,Chair,Home,20.48,CST-767,Huffman Inc,OR-1540,12,28,2026-01-10,ST-02,Los Angeles
+SKU-72,Coffee,Food,76.34,CST-703,Lopez Inc,OR-8546,55,76,2026-02-22,ST-02,Los Angeles
+SKU-10,Bike,Sports,86.83,CST-464,Dawson-Jones,OR-2565,642,764,2026-01-09,ST-04,Houston
+SKU-21,Tea,Food,70.65,CST-105,"Green, Downs and Johnson",OR-5945,112,134,2026-01-28,ST-07,Washington
+SKU-67,Dumbbells,Sports,40.29,CST-859,"Moore, Sims and Phillips",OR-7908,131,134,2026-01-12,ST-06,Dallas
+SKU-71,Bike,Sports,44.6,CST-194,"Johnston, Oliver and Pittman",OR-0254,164,197,2026-02-13,ST-02,Los Angeles
+SKU-60,Chair,Home,60.61,CST-217,Smith-Matthews,OR-6702,806,859,2026-01-06,ST-03,Chicago
+SKU-15,Monitor,Electronics,99.01,CST-707,"Mcmahon, Trevino and Durham",OR-4003,746,838,2026-01-10,ST-03,Chicago
+SKU-13,Gloves,Sports,28.8,CST-698,Rosario-Phillips,OR-5681,510,556,2026-01-05,ST-07,Washington
+SKU-70,T-Shirt,Clothing,89.31,CST-330,Gates-Hammond,OR-4113,76,885,2026-02-22,ST-01,New York
+SKU-80,Desk,Home,92.75,CST-177,Davis-Terry,OR-6934,484,793,2026-03-01,ST-02,Los Angeles
+SKU-25,Tea,Food,120.44,CST-541,"Turner, Nunez and Lozano",OR-3752,794,904,2026-02-11,ST-07,Washington
+SKU-97,Dumbbells,Sports,23.7,CST-403,"Thompson, Martin and Costa",OR-2359,463,596,2026-01-19,ST-03,Chicago
+SKU-31,Jeans,Clothing,64.79,CST-096,Hoffman-Benton,OR-7041,105,467,2026-01-03,ST-02,Los Angeles
+SKU-78,Snacks,Food,73.58,CST-374,King-Brown,OR-6135,182,315,2026-01-15,ST-06,Dallas
+SKU-25,Bike,Sports,53.03,CST-555,"Hood, Ortiz and White",OR-4214,73,162,2026-02-03,ST-05,Miami
+SKU-09,Water,Food,65.82,CST-722,Davis and Sons,OR-5732,556,606,2026-02-23,ST-06,Dallas
+SKU-82,Dumbbells,Sports,23.28,CST-158,Cunningham-Peck,OR-1433,119,137,2026-01-10,ST-02,Los Angeles
+SKU-92,Phone,Electronics,107.69,CST-576,Ryan-Smith,OR-2162,292,405,2026-01-23,ST-06,Dallas
+SKU-14,Dumbbells,Sports,43.13,CST-473,Diaz-Evans,OR-6919,284,624,2026-02-21,ST-03,Chicago
+SKU-70,Dumbbells,Sports,94.2,CST-266,Taylor Inc,OR-7938,98,287,2026-03-10,ST-07,Washington
+SKU-42,Lamp,Home,49.97,CST-285,Wong and Sons,OR-3678,436,472,2026-01-02,ST-05,Miami
+SKU-93,Tablet,Electronics,93.33,CST-248,Howell and Sons,OR-2230,212,556,2026-02-13,ST-07,Washington
+SKU-15,Bike,Sports,40.74,CST-539,Thomas-Rowe,OR-9155,109,110,2026-01-12,ST-02,Los Angeles
+SKU-15,Pillow,Home,110.21,CST-743,Miller-Bruce,OR-6229,174,225,2026-01-11,ST-03,Chicago
+SKU-62,Monitor,Electronics,66.89,CST-671,"Kelly, Fields and Banks",OR-8241,167,356,2026-02-25,ST-07,Washington
+SKU-52,Monitor,Electronics,115.28,CST-182,Lewis-Coleman,OR-4574,60,103,2026-03-10,ST-01,New York
+SKU-52,Shoes,Clothing,97.49,CST-980,Hale Group,OR-4089,138,276,2026-02-27,ST-01,New York
+SKU-62,Water,Food,53.07,CST-278,"Solis, Mckenzie and Gallegos",OR-2528,8,765,2026-02-07,ST-06,Dallas
+SKU-63,Desk,Home,98.8,CST-081,"Gutierrez, Thomas and Peters",OR-9063,82,265,2026-02-06,ST-01,New York
+SKU-35,Phone,Electronics,55.03,CST-753,Martinez-Williams,OR-9795,25,204,2026-03-07,ST-05,Miami
+SKU-32,Laptop,Electronics,104.87,CST-172,Perry PLC,OR-5354,100,434,2026-02-28,ST-04,Houston
+SKU-53,Jeans,Clothing,86.36,CST-855,Caldwell Inc,OR-9640,0,4,2026-01-14,ST-03,Chicago
+SKU-04,Pillow,Home,25.24,CST-415,Stewart-Cruz,OR-9744,84,129,2026-02-27,ST-07,Washington
+SKU-26,Water,Food,39.07,CST-777,Scott-Pierce,OR-6037,64,94,2026-03-03,ST-02,Los Angeles
+SKU-28,Phone,Electronics,57.83,CST-074,Clay-Chambers,OR-0867,58,454,2026-01-07,ST-07,Washington
+SKU-56,Coffee,Food,33.45,CST-820,"Hernandez, Lopez and Stein",OR-8492,495,707,2026-03-05,ST-07,Washington
+SKU-14,Chair,Home,106.99,CST-385,Hoffman-Owens,OR-3912,30,712,2026-02-14,ST-05,Miami
+SKU-51,Monitor,Electronics,93.87,CST-806,Leon and Sons,OR-0245,37,40,2026-01-07,ST-02,Los Angeles
+SKU-00,Snacks,Food,68.43,CST-794,Russell-Harvey,OR-2635,552,687,2026-02-20,ST-01,New York
+SKU-22,Chair,Home,52.94,CST-815,Simmons and Sons,OR-2655,98,479,2026-01-28,ST-02,Los Angeles
+SKU-21,Phone,Electronics,55.14,CST-671,"Rodriguez, Miller and Barrett",OR-0315,146,348,2026-02-17,ST-06,Dallas
+SKU-16,Yoga Mat,Sports,46.51,CST-223,Wilson Ltd,OR-0193,122,764,2026-01-14,ST-01,New York
+SKU-29,T-Shirt,Clothing,34.02,CST-202,Watson-Foster,OR-1251,147,715,2026-02-22,ST-02,Los Angeles
+SKU-09,Tea,Food,115.18,CST-399,"Wright, Prince and Johnson",OR-1945,474,628,2026-02-20,ST-01,New York
+SKU-07,Shoes,Clothing,106.63,CST-192,Smith PLC,OR-9818,181,363,2026-01-12,ST-01,New York
+SKU-61,Monitor,Electronics,38.45,CST-352,"Scott, Evans and Thomas",OR-0106,38,312,2026-01-02,ST-03,Chicago
+SKU-94,Dumbbells,Sports,94.52,CST-077,"Sullivan, Nelson and Vincent",OR-2840,40,115,2026-01-28,ST-01,New York
+SKU-57,Phone,Electronics,103.78,CST-521,Johns Group,OR-2332,8,696,2026-02-18,ST-06,Dallas
+SKU-25,Pillow,Home,44.43,CST-150,Mason PLC,OR-0871,57,481,2026-01-14,ST-03,Chicago
+SKU-33,Tea,Food,56.69,CST-203,"Hunt, Harper and Peterson",OR-5379,259,666,2026-01-31,ST-04,Houston
+SKU-59,Gloves,Sports,41.94,CST-044,Gonzales-Sandoval,OR-9929,42,63,2026-02-03,ST-07,Washington
+SKU-08,Chair,Home,66.18,CST-692,Pacheco-Lopez,OR-7552,138,140,2026-02-09,ST-06,Dallas
+SKU-26,Chair,Home,117.49,CST-319,Huff-Grant,OR-2014,17,229,2026-02-16,ST-04,Houston
+SKU-21,Shoes,Clothing,54.51,CST-020,Curtis LLC,OR-1279,646,791,2026-02-02,ST-05,Miami
+SKU-86,Bike,Sports,77.55,CST-248,Lawson Ltd,OR-9184,685,981,2026-03-04,ST-02,Los Angeles
+SKU-42,Phone,Electronics,59.71,CST-449,Scott-Goodman,OR-6615,166,432,2026-01-22,ST-07,Washington
+SKU-84,Coffee,Food,60.01,CST-067,"Terrell, Bailey and Clark",OR-5732,49,142,2026-01-29,ST-05,Miami
+SKU-96,Tea,Food,103.84,CST-552,Shaffer-Poole,OR-2893,124,922,2026-01-08,ST-02,Los Angeles
+SKU-69,Desk,Home,93.07,CST-385,"Rowe, Obrien and Valencia",OR-2099,118,440,2026-02-01,ST-06,Dallas
+SKU-66,Tablet,Electronics,112.07,CST-450,"Barnett, Perry and Frederick",OR-7661,53,54,2026-01-17,ST-01,New York
+SKU-77,Jeans,Clothing,123.78,CST-083,Taylor Ltd,OR-6667,577,937,2026-01-21,ST-03,Chicago
+SKU-07,Bike,Sports,84.09,CST-973,Nolan and Sons,OR-4226,345,529,2026-01-27,ST-05,Miami
+SKU-52,Phone,Electronics,109.06,CST-028,"Mcdaniel, Mcdonald and Gomez",OR-5635,291,723,2026-01-24,ST-04,Houston
+SKU-92,Coffee,Food,94.24,CST-137,"Salazar, Rose and Sloan",OR-7885,48,322,2026-01-20,ST-01,New York
+SKU-24,Shoes,Clothing,50.06,CST-526,"Moore, Mosley and Smith",OR-2661,488,644,2026-03-08,ST-02,Los Angeles
+SKU-83,Phone,Electronics,24.3,CST-526,Townsend PLC,OR-8820,276,309,2026-01-27,ST-07,Washington
+SKU-18,Monitor,Electronics,86.95,CST-810,Bryan-Williams,OR-2380,201,701,2026-02-07,ST-07,Washington
+SKU-54,Laptop,Electronics,90.21,CST-166,"Gutierrez, Zimmerman and Martinez",OR-9624,197,271,2026-01-11,ST-01,New York
+SKU-12,Pillow,Home,24.22,CST-388,Callahan-Evans,OR-4394,171,249,2026-01-27,ST-07,Washington
+SKU-96,Monitor,Electronics,37.89,CST-721,Michael-Ellis,OR-1081,1,21,2026-02-27,ST-02,Los Angeles
+SKU-75,Jeans,Clothing,115.06,CST-317,"Jefferson, Russo and Roberson",OR-2465,1,2,2026-01-10,ST-05,Miami
+SKU-32,Jacket,Clothing,53.28,CST-849,"Foster, Mcpherson and Andrade",OR-0178,339,406,2026-02-22,ST-07,Washington
+SKU-38,Snacks,Food,118.42,CST-464,"Bailey, Bradley and Hicks",OR-9780,97,610,2026-01-02,ST-07,Washington
+SKU-91,Pillow,Home,111.42,CST-191,"Holland, Mccoy and Jones",OR-7916,10,92,2026-01-27,ST-07,Washington
+SKU-99,Shoes,Clothing,49.19,CST-355,"Melendez, Hamilton and White",OR-7203,495,887,2026-01-05,ST-05,Miami
+SKU-84,Coffee,Food,121.71,CST-618,Hunter Ltd,OR-8542,112,442,2026-01-27,ST-06,Dallas
+SKU-11,Pillow,Home,87.32,CST-024,"Lin, Perez and Hamilton",OR-1382,250,549,2026-02-14,ST-07,Washington
+SKU-05,Yoga Mat,Sports,105.14,CST-345,Craig-Barnes,OR-8451,124,869,2026-01-25,ST-01,New York
+SKU-99,Coffee,Food,49.57,CST-080,Montgomery Ltd,OR-5367,108,309,2026-02-25,ST-04,Houston
+SKU-78,Lamp,Home,70.9,CST-195,Booth Inc,OR-9305,104,206,2026-01-30,ST-02,Los Angeles
+SKU-59,Tea,Food,115.41,CST-249,Wilkins-Warner,OR-3336,270,336,2026-01-11,ST-01,New York
+SKU-88,Laptop,Electronics,55.67,CST-924,"Gates, Flores and Wallace",OR-1791,331,340,2026-01-27,ST-02,Los Angeles
+SKU-75,Tablet,Electronics,116.47,CST-611,Shepherd LLC,OR-2845,16,132,2026-01-14,ST-07,Washington
+SKU-49,Monitor,Electronics,88.26,CST-003,Russell Ltd,OR-8505,55,257,2026-01-28,ST-05,Miami
+SKU-63,T-Shirt,Clothing,85.64,CST-365,Mcdaniel-Giles,OR-9604,91,719,2026-03-05,ST-05,Miami
+SKU-90,Jeans,Clothing,62.62,CST-933,"Lowe, Morales and Davis",OR-6861,35,142,2026-01-12,ST-07,Washington
+SKU-90,Pillow,Home,86.37,CST-375,Gates Group,OR-5344,121,798,2026-02-01,ST-02,Los Angeles
+SKU-00,Coffee,Food,53.52,CST-913,Wright LLC,OR-9867,8,62,2026-01-20,ST-03,Chicago
+SKU-35,Tablet,Electronics,110.57,CST-125,Miles and Sons,OR-6693,153,455,2026-02-16,ST-01,New York
+SKU-13,Phone,Electronics,38.16,CST-149,Jennings-Alvarez,OR-4316,11,207,2026-02-14,ST-03,Chicago
+SKU-29,Tablet,Electronics,65.3,CST-450,Robinson-Kennedy,OR-8439,155,173,2026-02-28,ST-01,New York
+SKU-14,Jacket,Clothing,61.17,CST-405,Herring and Sons,OR-2323,685,768,2026-01-18,ST-05,Miami
+SKU-48,Water,Food,33.94,CST-070,Rojas LLC,OR-2771,296,404,2026-02-03,ST-06,Dallas
+SKU-73,Shoes,Clothing,101.15,CST-982,"Turner, Alvarez and Gentry",OR-0025,397,578,2026-03-07,ST-03,Chicago
+SKU-23,Tea,Food,78.75,CST-138,Benjamin-Gardner,OR-3141,59,290,2026-02-19,ST-06,Dallas
+SKU-73,Yoga Mat,Sports,60.93,CST-669,Miller Inc,OR-8604,221,270,2026-01-15,ST-04,Houston
+SKU-84,Snacks,Food,37.75,CST-302,Carter Inc,OR-6450,273,320,2026-01-06,ST-03,Chicago
+SKU-49,T-Shirt,Clothing,65.53,CST-409,Martin Group,OR-6233,162,313,2026-02-15,ST-06,Dallas
+SKU-98,Chair,Home,72.28,CST-474,Smith-Cummings,OR-8036,82,682,2026-01-18,ST-03,Chicago
+SKU-59,Gloves,Sports,87.56,CST-329,"Johnson, Harris and Hernandez",OR-7411,133,493,2026-03-02,ST-03,Chicago
+SKU-26,Tablet,Electronics,103.52,CST-416,Riley-Hodges,OR-9967,231,246,2026-02-04,ST-01,New York
+SKU-29,Jeans,Clothing,90.94,CST-623,"Mills, Floyd and Miles",OR-7815,114,116,2026-02-26,ST-06,Dallas
+SKU-95,Lamp,Home,99.92,CST-854,Fisher Group,OR-5912,17,18,2026-02-24,ST-05,Miami
+SKU-44,Tablet,Electronics,86.44,CST-342,Valenzuela-Bailey,OR-9549,179,785,2026-03-04,ST-07,Washington
+SKU-47,Phone,Electronics,33.68,CST-438,Bennett-Taylor,OR-3307,13,985,2026-01-24,ST-05,Miami
+SKU-61,Laptop,Electronics,89.88,CST-542,West-Mullins,OR-4443,29,248,2026-02-02,ST-01,New York
+SKU-22,Monitor,Electronics,58.66,CST-514,Underwood Group,OR-1625,733,965,2026-03-04,ST-07,Washington
+SKU-23,Monitor,Electronics,44.72,CST-173,Escobar Ltd,OR-8605,102,236,2026-03-04,ST-04,Houston
+SKU-73,Snacks,Food,24.68,CST-503,Hughes Ltd,OR-1827,272,392,2026-01-19,ST-04,Houston
+SKU-03,Shoes,Clothing,89.51,CST-914,Hoffman-Martinez,OR-8467,178,287,2026-02-13,ST-05,Miami
+SKU-51,Shoes,Clothing,50.36,CST-591,Romero-Evans,OR-1742,86,297,2026-01-19,ST-04,Houston
+SKU-17,Phone,Electronics,123.44,CST-464,Robertson Ltd,OR-0216,283,302,2026-02-08,ST-01,New York
+SKU-69,Tea,Food,23.54,CST-598,Scott LLC,OR-4491,236,953,2026-02-08,ST-01,New York
+SKU-52,T-Shirt,Clothing,47.86,CST-354,"Douglas, Valentine and Chan",OR-5816,51,691,2026-01-13,ST-03,Chicago
+SKU-39,Desk,Home,48.88,CST-417,Wilson-Price,OR-6255,57,175,2026-03-02,ST-01,New York
+SKU-11,Jacket,Clothing,47.78,CST-557,"Garcia, Middleton and Phillips",OR-9919,420,804,2026-02-17,ST-06,Dallas
+SKU-66,Monitor,Electronics,71.18,CST-495,Alexander and Sons,OR-4834,339,705,2026-02-14,ST-05,Miami
+SKU-45,T-Shirt,Clothing,116.77,CST-369,"Grant, Mccarthy and Johnson",OR-9068,69,428,2026-01-16,ST-02,Los Angeles
+SKU-09,Yoga Mat,Sports,29.23,CST-230,Sanchez-Hawkins,OR-0027,294,970,2026-01-19,ST-05,Miami
+SKU-51,Yoga Mat,Sports,36.58,CST-003,Reyes-Stone,OR-2681,421,577,2026-01-28,ST-04,Houston
+SKU-92,Chair,Home,68.76,CST-003,Williams-Baker,OR-5862,104,698,2026-01-15,ST-03,Chicago
+SKU-17,Gloves,Sports,125.49,CST-920,Crawford-Joseph,OR-0311,353,897,2026-02-24,ST-02,Los Angeles
+SKU-49,Gloves,Sports,86.17,CST-357,"Gonzalez, Brown and Barry",OR-2555,88,252,2026-02-27,ST-02,Los Angeles
+SKU-32,Tea,Food,92.99,CST-445,Fox-Allen,OR-1668,426,967,2026-02-26,ST-03,Chicago
+SKU-84,Jeans,Clothing,108.48,CST-105,Wagner-Mccoy,OR-5146,131,844,2026-02-02,ST-07,Washington
+SKU-47,Dumbbells,Sports,53.93,CST-265,Peterson-Curtis,OR-2142,302,378,2026-01-29,ST-02,Los Angeles
+SKU-46,Bike,Sports,107.83,CST-455,Levy-Roberts,OR-3876,69,117,2026-02-02,ST-06,Dallas
+SKU-03,Tea,Food,82.45,CST-545,Knight LLC,OR-9325,761,908,2026-02-20,ST-07,Washington
+SKU-42,Pillow,Home,36.13,CST-047,"Thomas, Waters and Taylor",OR-7452,324,372,2026-01-17,ST-01,New York
+SKU-42,Chair,Home,84.8,CST-395,Welch Ltd,OR-6097,589,684,2026-02-26,ST-04,Houston
+SKU-04,Desk,Home,38.08,CST-913,Stokes-Ford,OR-6451,575,756,2026-01-13,ST-07,Washington
+SKU-34,Water,Food,52.62,CST-382,"Hill, Porter and Hicks",OR-5249,33,110,2026-01-22,ST-07,Washington
+SKU-78,Desk,Home,48.47,CST-409,Cline Inc,OR-0761,454,861,2026-03-10,ST-04,Houston
+SKU-26,Laptop,Electronics,117.3,CST-844,Stout-Parks,OR-1542,3,12,2026-01-26,ST-04,Houston
+SKU-38,Laptop,Electronics,66.51,CST-432,"Mendez, Rose and Davis",OR-1671,421,713,2026-02-06,ST-05,Miami
+SKU-41,Gloves,Sports,82.09,CST-913,Chen Group,OR-0425,12,20,2026-01-25,ST-06,Dallas
+SKU-62,Desk,Home,75.99,CST-330,Marshall-Schroeder,OR-4963,32,72,2026-01-03,ST-01,New York
+SKU-43,Desk,Home,76.59,CST-300,"Martin, Long and Odonnell",OR-6869,288,343,2026-02-24,ST-04,Houston
+SKU-69,Yoga Mat,Sports,72.7,CST-202,Rice-Smith,OR-9036,921,990,2026-01-04,ST-06,Dallas
+SKU-40,Phone,Electronics,87.32,CST-839,Spencer PLC,OR-3386,156,652,2026-01-26,ST-03,Chicago
+SKU-22,Dumbbells,Sports,51.37,CST-706,"Ray, Cole and Scott",OR-2834,301,327,2026-02-10,ST-02,Los Angeles
+SKU-26,Water,Food,111.69,CST-764,Perez Group,OR-8944,202,826,2026-01-27,ST-04,Houston
+SKU-46,Desk,Home,93.38,CST-192,Le Inc,OR-9835,0,100,2026-01-28,ST-02,Los Angeles
+SKU-07,Gloves,Sports,91.26,CST-096,"Russell, Morse and Kelly",OR-3101,555,823,2026-02-04,ST-03,Chicago
+SKU-27,Jeans,Clothing,45.05,CST-896,Clark Group,OR-9597,6,109,2026-01-11,ST-02,Los Angeles
+SKU-35,Monitor,Electronics,87.07,CST-037,Williams LLC,OR-5512,482,957,2026-02-01,ST-07,Washington
+SKU-23,Lamp,Home,95.67,CST-012,Keith Inc,OR-3460,84,666,2026-01-20,ST-05,Miami
