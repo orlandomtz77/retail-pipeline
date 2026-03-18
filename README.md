@@ -25,12 +25,13 @@ Raw Data → Processing → Storage → Analytics → Visualization
 
 | Technology | Purpose |
 |------------|------------|
-| Python | Pipeline logic and data processing |
-| Pandas | Data cleaning and transformation |
-| SQLite | Data warehouse |
-| SQL | Business queries and metrics |
-| CSV | Raw and processed data storage |
-| Power BI | Data visualization |
+| Python     | Pipeline logic and data processing |
+| Pandas     | Data cleaning and transformation |
+| SQLite     | Data warehouse |
+| SQL        | Business queries and metrics |
+| CSV        | Raw and processed data storage |
+| dbt        | Data transformation, modeling, and SQL-based analytics |
+| Power BI   | Data visualization |
 
 ---
 
@@ -146,3 +147,37 @@ These files can be directly connected to **Power BI** for dashboard creation.
 - Use PostgreSQL instead of SQLite
 - Add data validation tests
 - Deploy pipeline to the cloud
+
+## dbt Models
+
+The project follows a layered modeling approach:
+
+### stg_sales (Staging Layer)
+This model cleans and standardizes raw sales data.
+
+- Renames columns for consistency
+- Casts data types (dates, numeric fields)
+- Removes null or invalid records
+- Prepares data for downstream transformations
+
+---
+
+### fct_sales (Fact Layer)
+This model represents the core business transactions.
+
+- Calculates total revenue per order
+- Defines the grain at the order level
+- Ensures clean, structured data for analytics
+- Serves as the main fact table for analysis
+
+---
+
+### rpt_sales_summary (Reporting Layer)
+This model aggregates data for business insights.
+
+- Revenue by category
+- Revenue by store
+- Top selling products
+- Optimized for dashboard consumption (Power BI)
+
+![Dashboard](reporting/retail_dashboard.png)
